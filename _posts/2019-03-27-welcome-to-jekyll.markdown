@@ -3,6 +3,8 @@ layout: post
 title:  "Windows 10 SmartScreen ausschalten"
 date:   2019-03-27 16:20:19 +0100
 categories: windows hilfe
+permalink: /windows-smartscreen-ausschalten
+
 ---
 Der Windows SmartScreen ist ein Anti-Malware-Filter, der Ihren PC vor verdächtigen Anwendungen und Malware schützt. Immer wenn Sie versuchen, eine nicht erkannte App zu installieren, erscheint die Warnmeldung SmartScreen, die den Benutzer über die Gefahr informiert. Neben dem Schutz des PCs schützt es auch die Privatsphäre des Benutzers.
 
