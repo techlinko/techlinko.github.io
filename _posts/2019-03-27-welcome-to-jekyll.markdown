@@ -91,4 +91,3 @@ Aktivieren Sie in den Richtlinieneinstellungen das Optionsfeld Deaktiviert und k
 Wählen Sie unter den Optionen "Warnung und Vermeidung von Bypass".
 Schließen Sie den Editor für lokale Gruppenrichtlinien und starten Sie Ihren Computer neu, damit Änderungen wirksam werden.
 
-Übersetzt mit www.DeepL.com/Translator
