@@ -10,10 +10,12 @@ Der Windows SmartScreen ist ein Anti-Malware-Filter, der Ihren PC vor verdächti
 
 Windows Smartscreen kann auch verhindern, dass Sie tatsächlich etwas Nützliches aus dem Internet herunterladen. So entfernen oder deaktivieren Sie den Windows Smartscreen-Filter in Windows 10.
 
+Schritt 1
+
 Deaktivieren über die Sicherheitseinstellungen von Windows Defender
 Sie können den Windows Smartscreen über die Windows-Sicherheitseinstellungen deaktivieren, indem Sie diesen drei einfachen Schritten folgen.
 
-Schritt 1
+
 
 Schritt 2
 
