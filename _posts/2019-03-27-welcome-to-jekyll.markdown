@@ -41,9 +41,11 @@ Schritt 2
 
 Der Windows Registry Editor wird geöffnet. Fahren Sie fort, Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System in den Pfad zu kopieren und einzufügen, wie durch das rote Kästchen in Ihrem Windows Registry Editor angezeigt. Drücken Sie Enter.
 
-Verwandt: Tech Verbraucherführer Laptop Finder
+
 
 Schritt 3
+
+<img src="/windows-sicherheitscenter-suche.png" alt="windows sicherheitscenter suchen">
 
 Erstellen von dword value
 DWORD (32-Bit) Wert erstellen
@@ -68,6 +70,8 @@ Erstellen des Zeichenkettenwertes
 Klicken Sie mit der rechten Maustaste auf das gleiche rechte Seitenfenster, um einen neuen Zeichenkettenwert zu erstellen.
 
 Schritt 7
+
+<img src="/string_value_umbenennen.png" alt="windows sicherheitscenter suchen">
 
 Umbenennen des Zeichenkettenwertes
 Umbenennen des Zeichenkettenwertes
