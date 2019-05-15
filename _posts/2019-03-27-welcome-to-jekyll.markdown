@@ -45,7 +45,7 @@ Der Windows Registry Editor wird geöffnet. Fahren Sie fort, Computer\HKEY_LOCAL
 
 Schritt 3
 
-<img src="/windows-sicherheitscenter-suche.png" alt="windows sicherheitscenter suchen">
+<img src="/smartscreen_ausschalten.png" alt="windows sicherheitscenter suchen">
 
 Erstellen von dword value
 DWORD (32-Bit) Wert erstellen
