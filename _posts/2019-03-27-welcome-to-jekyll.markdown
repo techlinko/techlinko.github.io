@@ -71,7 +71,7 @@ Klicken Sie mit der rechten Maustaste auf das gleiche rechte Seitenfenster, um e
 
 Schritt 7
 
-<img src="/string_value_umbenennen.png" alt="windows sicherheitscenter suchen">
+<img src="/string_value_umbennen.png" alt="windows sicherheitscenter suchen">
 
 Umbenennen des Zeichenkettenwertes
 Umbenennen des Zeichenkettenwertes
