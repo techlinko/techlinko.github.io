@@ -28,8 +28,6 @@ Schritt 3
 
 Suchen Sie unter dem Apps & Browser Control nach Smartscreen für Microsoft Edge. Sie können dann zwischen Block, Warnung oder Aus umschalten. Toggling Block zeigt eine Warnmeldung an und verhindert, dass die nicht erkannte Anwendung ausgeführt wird. Warnung zeigt Ihnen eine Warnmeldung und gibt Ihnen die Möglichkeit, die nicht erkannte Anwendung zum Ausführen auszuwählen oder nicht.
 
-Verwandt: Beste Laptop-Angebote vor dem Brand
-
 
 Der Windows Registry Editor ist ein leistungsstarker Editor, mit dem Sie Änderungen an vielen Programmen auf dem PC vornehmen können. Stellen Sie aus diesem Grund sicher, dass Sie ein Backup erstellen oder einen Systemwiederherstellungspunkt erstellen, wenn etwas schief geht. Hier erfahren Sie, wie Sie Windows SmartScreen in acht einfachen Schritten deaktivieren können.
 
