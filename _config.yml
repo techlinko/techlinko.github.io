@@ -18,8 +18,6 @@ description: Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC
 Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
