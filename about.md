@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Tech Consumer Guide ist ein Technologie-Blog, der sich hauptsächlich auf Themen rund um Laptops, Gaming-Laptops und Smartphones konzentriert.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Wir recherchieren intensiv nach Artikeln, die vor ihrer Veröffentlichung verfasst wurden. Auf diese Weise soll sichergestellt werden, dass die Artikel gründlich sind und über die notwendigen Informationen verfügen.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Der Technologiemarkt ist sehr groß, mit so vielen Produkten, aus denen man wählen kann.
 
+Deshalb sind wir hier. Wir führen Sie zum richtigen technischen Produkt.
 
-[jekyll-organization]: https://github.com/jekyll
+Wir helfen Ihnen, die besten Laptops, Gaming-Laptops und Smartphones auf dem Markt zu finden.
+
+Kommentieren Sie einfach einen unserer Artikel und wir werden uns mit Ihnen in Verbindung setzen.
+
+Tech Verbraucherführer Laptop Finder
