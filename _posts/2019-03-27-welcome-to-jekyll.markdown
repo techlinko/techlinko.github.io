@@ -4,7 +4,7 @@ title:  "Windows 10 SmartScreen ausschalten"
 date:   2019-03-27 16:20:19 +0100
 categories: windows hilfe
 permalink: /windows-smartscreen-ausschalten
-
+excerpt: Ach ja der liebe Computer. Manchmal kann er ärger bereiten, sodass ein glückliches Arbeiten schwer wird. Das kennen wir alle. Im Fall der Windows 10 Smartscreen ausschaltens, kennen wir aber die Lösung! Heute erklären wir es deshalb, Schritt für Schritt.
 ---
 
 Ach ja der liebe Computer.

@@ -4,11 +4,10 @@ title:  "Laptop für die Buchhaltung"
 date:   2019-03-27 16:20:19 +0100
 categories: laptop hilfe
 permalink: /laptop-buchhaltung
-
+excerpt: Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt. Damals war es anders:Man benötige noch echte Bücher, um Ausgaben, Gewinne, Transaktionen usw. im Auge zu behalten. Heute funktioniert das anders. Als Buchhalter ist der Laptop der ständige Begleiter.
 ---
 
 
-<h1>Der richtige Laptop für die Buchhaltung</h1>
 
 Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt. 
 

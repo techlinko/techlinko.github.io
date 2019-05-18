@@ -1,0 +1,62 @@
+
+/* The outermost element*/
+.header-wrapper {
+    overflow: hidden;
+    text-align:center;
+  }
+  
+  .zoominheader {
+    text-align:center;
+    background: linear-gradient(rgba(0, 0, 0, 0.11), rgba(0, 0, 0, 0.72)), url('/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-animation: zoomin 25s ease-in infinite;
+    animation: zoomin 25s ease-in infinite;
+    transition: all .25s ease-in-out;
+    overflow: hidden;
+  }
+  
+  /* The innermost element*/
+  .zoomoutheader {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50vh;
+    width: 750px;
+    margin: 0 auto;
+    max-width: 90%;
+  }
+
+    /* The innermost element*/
+    .zoomoutheader h1 {
+      font-size: 5em;
+      text-align: left;
+      color: white;
+      font-weight: 600;
+      width: 400px;
+      line-height: 1.1em;
+  }
+      
+  
+  
+  
+  /* Zoom in Keyframes */
+  @-webkit-keyframes zoomin {
+    0% {transform: scale(1);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1);}
+  }
+  @keyframes zoomin {
+    0% {transform: scale(1);}
+    50% {transform: scale(1.2);}
+    100% {transform: scale(1);}
+  } /*End of Zoom in Keyframes */
+  
+  
+  
