@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title:  "Windows 10 SmartScreen ausschalten"
 date:   2019-03-27 16:20:19 +0100
 categories: windows hilfe
