@@ -4,7 +4,7 @@ title: Über Uns
 permalink: /about/
 ---
 
-Tech Consumer Guide ist ein Technologie-Blog, der sich hauptsächlich auf Themen rund um Laptops, Gaming-Laptops und Smartphones konzentriert.
+Techlinko ist ein Blog, der sich hauptsächlich auf Themen rund um Laptops, Gaming-Laptops und Software konzentriert.
 
 Wir recherchieren intensiv nach Artikeln, die vor ihrer Veröffentlichung verfasst wurden. Auf diese Weise soll sichergestellt werden, dass die Artikel gründlich sind und über die notwendigen Informationen verfügen.
 
