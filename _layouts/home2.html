@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+    <head>
+        <script type="application/ld+json">
+          {
+            "@context": "http://schema.org",
+            "@type": "BlogPosting",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "5",
+              "reviewCount": "15"
+            },
+            "name": "Techlinko Technik Blog",
+            "url": "https://techlinko.github.io/",
+            "author": "Techlinko",
+            "datePublished": "27/03/2019",
+            "headline": "Laptop für die Buchhaltung",
+            "image": "https://techlinko.github.io/dell-xps.png",
+            "publisher": {
+            "@type": "organization",
+            "name": "Techlinko",
+            "logo": {
+            "@type": "imageobject",
+            "url": "https://techlinko.github.io/"
+            }
+            },
+            "dateModified": "24/05/2019",
+            "mainEntityOfPage": {
+               "@type": "WebPage",
+               "@id": "https://techlinko.github.io/"
+            }
+          }
+          </script>
+
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       
+        <link rel="stylesheet" href="{{ "/style.css" | relative_url }}">
+
+      </head>
+
+  <body>
+
+
+    {% include hero-zoom.html %}
+    
+    {% include header.html %}
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        {{ content }}
+
+      </div>
+    </main>
+
+
+
+
+
+
+
+
+    {% include footer.html %}
+
+
+
