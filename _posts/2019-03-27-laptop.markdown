@@ -15,9 +15,9 @@ Damals war es anders:
 
 Man benötige noch echte Bücher, um Ausgaben, Gewinne, Transaktionen usw. im Auge zu behalten.
 
-Heute funktioniert das anders. Als Buchhalter ist der Laptop der ständige Begleiter.
+Heute ist ein passender Laptop für die Buchhaltung das A und O.
 
-Das Problem ist nur, es gibt so viel Auswahl. Muss es überhaupt teuer sein, wenn man in der Buchhaltung arbeitet?
+Das Problem ist nur, es gibt so viel Auswahl. Muss es überhaupt teuer sein, wenn man in der Buchhaltung arbeitet und auf was muss ich achten?
 
 Keine Sorge!
 
@@ -25,7 +25,10 @@ Wir lösen das Problem und zeigen Vor und Nachteile auf, so dass Sie am Ende gen
 
 Also, los:
 
-Laptops haben es Buchhaltern und Finanzexperten nun leichter gemacht, wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geht.
+Warum lieben wir Laptops eigetnlich so sehr?
+
+Laptops haben es Buchhaltern und Finanzexperten nun leichter gemacht, 
+wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geht.
 
 Auch wenn Laptops die Dinge einfacher gemacht haben. Laptops haben ihren Preis. Woher soll man wissen, welcher Laptop der beste ist? Es gibt so viele verschiedene Dinge die man beachten muss. Laptops gibt es in allen Formen, Größen und Konfigurationen. Es kann manchmal schwierig sein, den richtigen zu finden.
 
@@ -205,4 +208,72 @@ Das ASUS Vivobook ist ein guter Laptop nicht nur für Quickbooks, sondern auch f
 <li>8GB DDR4 ARBEITSSPEICHER</li>
 <li>256 GB M.2 SSD + 1 TB HDD-Kombination</li>
 <li>USB 3.1 Typ-C (Gen1), USB 3.0, USB 2.0, USB 2.0, & HDMI</li>
+</ul>
+
+<br>
+
+<hr>
+
+<br>
+
+<h2>Bester Laptop für Buchhaltungs- und Finanzstudenten</h2>
+
+<img src="/msi-laptop-buchhaltung.png" alt="asus vivobook für die buchhaltung">
+
+
+
+Was is, wenn man mehr machen möchte als nur die Buchhaltung.
+
+Es ist nicht zu leugnen, dass Sie als Student definitiv Spiele spielen werden, um den Stress des Studiums und der Vorlesungen von Zeit zu Zeit zu reduzieren. 
+Das Problem ist, dass die meisten Gaming-Laptops entweder schwer sind, eine schlechte Akkulaufzeit haben oder beides. Eine Ausnahme bildet das MSI GS65.
+
+Der MSI GS65 Stealth ist ein schlanker und leichter Gaming-Laptop. Es wiegt ungefähr 3 KG und ist etwas über einen halben Zoll dick. Das vereinfacht das Transportieren während der Vorlesung. 
+
+Als Gaming-Laptop ist die Leistung mehr als ausreichend für Buchhaltung Software oder jede andere Buchhaltungssoftware oder Tabellenkalkulation. Angetrieben von einem 8. Gen Intel Core i7 Hexacore-Prozessor und 16 GB RAM.
+
+Sie können zahlreiche Microsoft Word- und Excel-Dokumente problemlos öffnen. Die Grafikkarte ist eine spezielle NVIDIA GTX 1060 Max-Q, die AAA-Titelspiele in mittleren bis hohen Einstellungen verarbeiten kann. 
+
+Dank seiner Max-Q-Karte ist die Akkulaufzeit des MSI GS65 Stealth eine der besten für einen Gaming-Laptop. Es ist in der Lage, 5-6 Stunden bei gleichbleibender Nutzung zu halten, bevor es zu Ende geht. Das ist genug Zeit, um Ihre Dokumente zu speichern und auch zu studieren, bevor eine Aufladung erforderlich ist.
+
+Das 15,6-Zoll Full HD (1920 x 1080) IPS-Display verzaubert. Die 144Hz Aktualisierungsrate verhindert das Zerreißen des Bildschirms und das Stottern, so dass Spiele reibungslos laufen. Das Display ist ebenfalls scharf und verfügt über eine hohe Farbgenauigkeit, Helligkeit und Wiedergabe. Sie werden von diesem Display nicht enttäuscht sein.
+
+Trotz all seiner Vorzüge hat der MSI GS65 Stealth seine Schwächen. Das erste ist die Verarbeitungsqualität. Der Laptop hat eine Menge Flex, besonders der Tastaturbereich und der Deckel, durch den der Atem mal stocken aknn. Ein anderes Problem, er kann warum werden. Eine Folge seines dünnen Gehäuses. 
+Gaming-Laptops mit dünnem Gehäuse sind schwer kühl zu halten. Das Auftragen von Wärmeleitpaste oder das Besorgen eines Kühlgebläses hilft bei der Kontrolle hoher Temperaturen.
+
+Jeder Buchhaltung Student wünscht sich einen Gaming-Laptop mit guter Akkulaufzeit. Der MSI GS65 tut genau das. Ein leistungsstarker Laptop mit einer anständigen Akkulaufzeit für einen Gaming-Laptop. Das MSI GS65 ist eines der besten Laptops, das Sie bekommen können, wenn Sie ein Buchhaltungs- oder Finanzstudent sind und 
+daneben auch spielen möchten. 
+
+Der ähnliche Laptop, der eine bessere Spieleleistung bietet, ist der Acer Predator Triton 500. Es ist leicht, aber mit weniger Akkulaufzeit. 
+
+Eine preiswertere Alternative ist das HP Omen. Es wird mit einem RTX 2060 geliefert, hat aber ein 60Hz Display.
+
+
+
+<h3>Vorteile</h3>
+<ul>
+<li>Großartige Leistung</li>
+<li>Thunderbolt 3 Port</li>
+<li>Schlank und einfach transportierbar</li>	
+<li>Anständige Akkulaufzei</li>
+</ul>
+
+
+<h3>Nachteile</h3>
+<ul>
+<li>nicht die beste Bauqualität</li>
+<li>kann warm werden</li>
+</ul>
+
+
+
+<h2>Technische Daten</h2>
+
+<ul> 
+<li>Intel Core i7-8750H 2.2 - 4.1GHz (6 Kerne)</li>
+<li>15.6″ FHD, 4,9 mm ultradünne Blende Blendfrei Weitwinkel 144Hz 7ms 72% NTSC 1920×1080 16:9</li>
+<li>NVIDIA GeForce GTX1060 Max-Q 6G 6G GDDR5</li>
+<li>RAM: 16GB (8G*2) DDR4 2400MHz, 2 Sockel;</li>
+<li>256 GB SSD NVMe (PCIE Gen3x4)</li>
+<li>USB 3.1 Gen2 x 3, Thunderbolt 3 (USB-C), miniDisplayPort, HDMI-Ausgang, RJ-45 </li>
+<li>Ethernet, 1/1 SPDIF (ESS Sabre HiFi)</li>
 </ul>
