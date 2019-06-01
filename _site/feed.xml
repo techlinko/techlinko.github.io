@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-01T16:05:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-01T16:07:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
 
 &lt;p&gt;Damals war es anders:&lt;/p&gt;
 
@@ -444,6 +444,8 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
         &lt;meta charset=&quot;utf-8&quot;&gt;
         &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
         &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+
+        &lt;title&gt;Laptop für WoW [World of Warcraft]&lt;/title&gt;
        
         &lt;link rel=&quot;stylesheet&quot; href=&quot;/style.css&quot;&gt;
 
