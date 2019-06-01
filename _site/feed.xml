@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T11:44:48+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-01T13:31:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
 
 &lt;p&gt;Damals war es anders:&lt;/p&gt;
 
@@ -12,9 +12,15 @@
 
 &lt;p&gt;Wir lösen das Problem und zeigen Vor und Nachteile auf, so dass Sie am Ende genau wissen, welcher Laptop der richtige für Sie ist.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/die-buchhaltung.jpeg&quot; alt=&quot;buchhaltung und laptops titelbild&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Also, los:&lt;/p&gt;
 
-&lt;p&gt;Warum lieben wir Laptops eigetnlich so sehr?&lt;/p&gt;
+&lt;h2&gt;Der perfekte Laptop für die Buchhaltung &lt;/h2&gt;
+
+&lt;p&gt;Welcher soll es nun werden? Die Vorfreude ist groß vor dem Laptop Kauf, ist auch kein Wunder. Ein Laptop bietet viele Vorzüge.&lt;/p&gt;
+
+&lt;p&gt;Warum lieben wir Laptops eigentlich so sehr?&lt;/p&gt;
 
 &lt;p&gt;Laptops haben es Buchhaltern und Finanzexperten nun leichter gemacht, 
 wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geht.&lt;/p&gt;
@@ -124,7 +130,7 @@ wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geh
 &lt;li&gt;Deckel hat Flexibilität&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Technische Daten&lt;/h2&gt;
+&lt;h3&gt;Technische Daten&lt;/h3&gt;
 
 &lt;ul&gt; 
 &lt;li&gt;1,8 GHz Intel Core i7-8550U (Quad-Core, 8 MB Cache, bis zu 4,0 GHz mit Turbo Boost)&lt;/li&gt;
@@ -148,17 +154,18 @@ wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geh
 
 &lt;p&gt;Das ASUS Vivobook ist ein mittelpreisiger Laptop, der viel Wert bietet. Diese Maschine verfügt über viel Stauraum.&lt;/p&gt;
 
-&lt;p&gt;Kombinierte Speicherung einer 256GB SSD und einer 1TB HDD. Das ist mehr als genug Speicherplatz für Ihre Tabellenkalkulationen und Word-Dokumente. Noch cooler an der Speicherung ist, dass das Betriebssystem auf der 256 GB SSD für schnelle Boot-Geschwindigkeiten gehalten wird. Während die großen Dateien auf der Festplatte aufbewahrt werden.&lt;/p&gt;
+&lt;p&gt;Kombinierte Speicherung einer 256GB SSD und einer 1TB HDD. Das ist mehr als genug Speicherplatz für Ihre Tabellenkalkulationen und Word-Dokumente. 
+Noch cooler am Speicherplatz ist, dass das Betriebssystem auf der 256 GB SSD für schnelle Boot-Geschwindigkeiten liegt. Während die großen Dateien auf der Festplatte aufbewahrt werden.&lt;/p&gt;
 
-&lt;p&gt;Zusätzlich zu seinem riesigen Speicherplatz wird der Laptop von einem 8. Gen Intel Core i7 Prozessor angetrieben und verfügt über 8GB RAM. Laptops mit i7-Prozessoren sind leistungsstark und können mehrere Anwendungen gleichzeitig ausführen. Und in einigen Fällen auch Spiele für diesen speziellen Prozessortyp. Apropos Gaming, die Grafikkarte ist eine NVIDIA MX150 der Einstiegsklasse. Eine gut genug Karte für leichte Spiele.&lt;/p&gt;
+&lt;p&gt;Zusätzlich zu seinem riesigen Speicherplatz wird der Laptop von einem 8. Gen Intel Core i7 Prozessor angetrieben und verfügt über 8GB RAM. Laptops mit i7-Prozessoren sind leistungsstark und können mehrere Anwendungen gleichzeitig ausführen, der perfekte Laptop für die Buchhaltung also. Die Grafikkarte ist eine NVIDIA MX150 der Einstiegsklasse. Eine ziemlich gute Karte für leichte Spiele also.&lt;/p&gt;
 
-&lt;p&gt;Die Akkulaufzeit dieses Laptops bereitet ein wenig gemischt Gefühle. Sie hält bei gleichbleibender Anwendung etwa 6-8 Stunden. Wenn du die Einstellungen änderst, hast du definitiv mehr als 8 Stunden Zeit.&lt;/p&gt;
+&lt;p&gt;Die Akkulaufzeit dieses Laptops bereitet uns ein wenig gemischt Gefühle. Die Akkulaifzeit hält bei gleichbleibender Anwendung etwa 6-8 Stunden. Wenn du die Einstellungen änderst, hast du definitiv mehr als 8 Stunden Zeit.&lt;/p&gt;
 
 &lt;p&gt;Das Display auf dem Laptop ist wunderschön. Ein 15,6 Zoll Full HD (1920 x 1080) Infinity-Display. Die Farbgenauigkeit und -wiedergabe ist für einen mittelpreisigen Laptop angemessen. Auch die Blickwinkel sind großartig. Und die Helligkeit ist hoch genug, um im Außenbereich eingesetzt zu werden. Alles in allem liefert das Display scharfe und scharfe Bilder.&lt;/p&gt;
 
-&lt;p&gt;Das ASUS Vivobook hat zwei Fehler. Die Lautsprecher und der Lüfter. Die Anordnung der Lautsprecher bewirkt, dass z.B. unter dem Laptop die Lautstärke niedrig und etwas gedämpft ist.&lt;/p&gt;
+&lt;p&gt;Das ASUS Vivobook hat zwei negative Punkte (unserer Meinung nach). Die Lautsprecher und der Lüfter. Die Anordnung der Lautsprecher bewirkt, dass z.B. unter dem Laptop die Lautstärke niedrig und etwas gedämpft ist.&lt;/p&gt;
 
-&lt;p&gt;Der Ventilator neigt auch bei starker Belastung dazu, stark zu beschleunigen. Der Lärm kann stören, aber denken Sie daran, dass die Lüfter im Overdrive arbeiten, um den Laptop zu kühlen. Ein cooler Laptop ist immer in der Lage, sein Maximum zu erreichen.&lt;/p&gt;
+&lt;p&gt;Der Lüfter neigt auch bei starker Belastung dazu, stark zu beschleunigen. Der Lärm kann stören, aber denken Sie daran, dass die Lüfter im Overdrive arbeiten um den Laptop zu kühlen. Ein cooler Laptop ist immer in der Lage, sein Maximum zu erreichen.&lt;/p&gt;
 
 &lt;p&gt;Das ASUS Vivobook ist ein guter Laptop nicht nur für Quickbooks, sondern auch für allgemeine Buchhaltungszwecke. Die meisten Laptops der mittleren Preisklasse bieten nicht so viel Wert wie das ASUS Vivobook.&lt;/p&gt;
 
@@ -176,7 +183,7 @@ wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geh
 &lt;li&gt;etwas Laut&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Technische Daten&lt;/h2&gt;
+&lt;h3&gt;Technische Daten&lt;/h3&gt;
 
 &lt;ul&gt; 
 &lt;li&gt;Intel Core i7-8550U der 8. Generation 1,8 GHz (Turbo bis zu 4,0 GHz)&lt;/li&gt;
@@ -197,22 +204,24 @@ wenn es um die Buchhaltung und auch um die Finanzarbeit in anderen Bereichen geh
 
 &lt;p&gt;&lt;img src=&quot;/msi-laptop-buchhaltung.png&quot; alt=&quot;asus vivobook für die buchhaltung&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Was is, wenn man mehr machen möchte als nur die Buchhaltung.&lt;/p&gt;
+&lt;p&gt;Was ist, wenn man mehr machen möchte als nur die Buchhaltung.&lt;/p&gt;
 
 &lt;p&gt;Es ist nicht zu leugnen, dass Sie als Student definitiv Spiele spielen werden, um den Stress des Studiums und der Vorlesungen von Zeit zu Zeit zu reduzieren. 
 Das Problem ist, dass die meisten Gaming-Laptops entweder schwer sind, eine schlechte Akkulaufzeit haben oder beides. Eine Ausnahme bildet das MSI GS65.&lt;/p&gt;
 
-&lt;p&gt;Der MSI GS65 Stealth ist ein schlanker und leichter Gaming-Laptop. Es wiegt ungefähr 3 KG und ist etwas über einen halben Zoll dick. Das vereinfacht das Transportieren während der Vorlesung.&lt;/p&gt;
+&lt;p&gt;Der MSI GS65 Stealth ist ein schlanker und leichter Gaming-Laptop.&lt;/p&gt;
 
-&lt;p&gt;Als Gaming-Laptop ist die Leistung mehr als ausreichend für Buchhaltung Software oder jede andere Buchhaltungssoftware oder Tabellenkalkulation. Angetrieben von einem 8. Gen Intel Core i7 Hexacore-Prozessor und 16 GB RAM.&lt;/p&gt;
+&lt;p&gt;Es wiegt ungefähr 3 KG und ist etwas über einen halben Zoll dick. Das vereinfacht das Transportieren während der Vorlesung.&lt;/p&gt;
+
+&lt;p&gt;Als Gaming-Laptop ist die Leistung mehr als ausreichend für Buchhaltungssoftware, administrative Anwendungen oder Tabellenkalkulation. Angetrieben von einem 8. Gen Intel Core i7 Hexacore-Prozessor und 16 GB RAM, lässt dieser Laptop Sie nicht im Stich.&lt;/p&gt;
 
 &lt;p&gt;Sie können zahlreiche Microsoft Word- und Excel-Dokumente problemlos öffnen. Die Grafikkarte ist eine spezielle NVIDIA GTX 1060 Max-Q, die AAA-Titelspiele in mittleren bis hohen Einstellungen verarbeiten kann.&lt;/p&gt;
 
-&lt;p&gt;Dank seiner Max-Q-Karte ist die Akkulaufzeit des MSI GS65 Stealth eine der besten für einen Gaming-Laptop. Es ist in der Lage, 5-6 Stunden bei gleichbleibender Nutzung zu halten, bevor es zu Ende geht. Das ist genug Zeit, um Ihre Dokumente zu speichern und auch zu studieren, bevor eine Aufladung erforderlich ist.&lt;/p&gt;
+&lt;p&gt;Dank seiner Max-Q-Karte ist die Akkulaufzeit des MSI GS65 Stealth eine der besten für einen Gaming-Laptop. Es ist in der Lage, 5-6 Stunden bei gleichbleibender Nutzung zu halten, bevor es zu Ende geht. Das ist genug Zeit, um Ihre Dokumente zu speichern und auch zu studieren, bevor es mit dem Laptop an die Steckdose geht.&lt;/p&gt;
 
 &lt;p&gt;Das 15,6-Zoll Full HD (1920 x 1080) IPS-Display verzaubert. Die 144Hz Aktualisierungsrate verhindert das Zerreißen des Bildschirms und das Stottern, so dass Spiele reibungslos laufen. Das Display ist ebenfalls scharf und verfügt über eine hohe Farbgenauigkeit, Helligkeit und Wiedergabe. Sie werden von diesem Display nicht enttäuscht sein.&lt;/p&gt;
 
-&lt;p&gt;Trotz all seiner Vorzüge hat der MSI GS65 Stealth seine Schwächen. Das erste ist die Verarbeitungsqualität. Der Laptop hat eine Menge Flex, besonders der Tastaturbereich und der Deckel, durch den der Atem mal stocken aknn. Ein anderes Problem, er kann warum werden. Eine Folge seines dünnen Gehäuses. 
+&lt;p&gt;Trotz all seiner Vorzüge hat der MSI GS65 Stealth seine Schwächen. Das erste ist die Verarbeitungsqualität. Der Laptop hat eine Menge Flex, besonders der Tastaturbereich und der Deckel, durch den der Atem mal stocken kann. Ein anderes Problem, er kann warm werden. Eine Folge seines dünnen Gehäuses. 
 Gaming-Laptops mit dünnem Gehäuse sind schwer kühl zu halten. Das Auftragen von Wärmeleitpaste oder das Besorgen eines Kühlgebläses hilft bei der Kontrolle hoher Temperaturen.&lt;/p&gt;
 
 &lt;p&gt;Jeder Buchhaltung Student wünscht sich einen Gaming-Laptop mit guter Akkulaufzeit. Der MSI GS65 tut genau das. Ein leistungsstarker Laptop mit einer anständigen Akkulaufzeit für einen Gaming-Laptop. Das MSI GS65 ist eines der besten Laptops, das Sie bekommen können, wenn Sie ein Buchhaltungs- oder Finanzstudent sind und 
@@ -236,7 +245,7 @@ daneben auch spielen möchten.&lt;/p&gt;
 &lt;li&gt;kann warm werden&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Technische Daten&lt;/h2&gt;
+&lt;h3&gt;Technische Daten&lt;/h3&gt;
 
 &lt;ul&gt; 
 &lt;li&gt;Intel Core i7-8750H 2.2 - 4.1GHz (6 Kerne)&lt;/li&gt;
@@ -246,6 +255,51 @@ daneben auch spielen möchten.&lt;/p&gt;
 &lt;li&gt;256 GB SSD NVMe (PCIE Gen3x4)&lt;/li&gt;
 &lt;li&gt;USB 3.1 Gen2 x 3, Thunderbolt 3 (USB-C), miniDisplayPort, HDMI-Ausgang, RJ-45 &lt;/li&gt;
 &lt;li&gt;Ethernet, 1/1 SPDIF (ESS Sabre HiFi)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Budget Laptop für die Buchhaltung&lt;/h2&gt;
+
+&lt;p&gt;Wenn es nicht teuer werden soll -  der Lenovo Ideapad 330.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/lenovo-ideapad-laptop.png&quot; alt=&quot;lenovo laptop ideapad für die buchhaltung&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Lenovo Ideapad 330 ist ein preiswerter Laptop für das Rechnungswesen. Das Design ist nicht beeindruckend, aber die Arbeit wird erledigt.&lt;/p&gt;
+
+&lt;p&gt;Der Laptop wird von einem 8. Gen Intel Core i5 angetrieben und verfügt über 8GB RAM. Der Speicher ist auch eine 256GB SSD Festplatte, so dass Sie mit schnellen Boot-Geschwindigkeiten, dem Starten von Tabellenkalkulationen und Textverarbeitungsdateien rechnen können. Der Prozessor ist leistungsfähig und kann seine Leistung dank der Turbo-Boost-Technologie von Intel steigern. Alle Intel Core Prozessoren verfügen über diese Funktion.&lt;/p&gt;
+
+&lt;p&gt;Die Display-Anzeige ist bestenfalls durchschnittlich. Ein 15,6-Zoll Full HD (1920 x 1080) Display mit schlechten Blickwinkeln. Die Farbgenauigkeit und -wiedergabe ist durchschnittlich. Das Display ist nicht beeindruckend. Die Helligkeit ist ebenfalls durchschnittlich, weder niedrig noch hoch.&lt;/p&gt;
+
+&lt;p&gt;Die Akkulaufzeit ist auch schlecht, bei voller Ladung hält diese gerade mal 5 Stunden. Die Tastatur ist nicht hintergrundbeleuchtet. Das Gute an der Tastatur ist jedoch der Nummernblock.&lt;/p&gt;
+
+&lt;p&gt;Ziemlich cool für administratives Arbeiten.&lt;/p&gt;
+
+&lt;p&gt;Der Lenovo Ideapad 330 ist ein preisgünstiger Laptop für Buchhalter und Finanzexperten mit einem kleinen Budget. Ein ähnlich preisgünstiger Laptop ist der Acer Aspire E15, der eine bessere Akkulaufzeit und eine hintergrundbeleuchtete Tastatur hat.&lt;/p&gt;
+
+&lt;h3&gt;Vorteile&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Günstig&lt;/li&gt;
+&lt;li&gt;Solide Leistung&lt;/li&gt;
+&lt;li&gt;Numemrnblock&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Nachteile&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Display etwas dunkel&lt;/li&gt;
+&lt;li&gt;HDD etwas langsam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Technische Daten&lt;/h3&gt;
+
+&lt;ul&gt; 
+&lt;li&gt;Intel Quad Core i5-8250U der 8. Generation&lt;/li&gt;
+&lt;li&gt;15,6-Zoll IPS Touchscreen FHD (1920×1080)&lt;/li&gt;
+&lt;li&gt;Intel UHD Grafik 620&lt;/li&gt;
+&lt;li&gt;8 GB DDR4-2400 SDRAM&lt;/li&gt;
+&lt;li&gt;1 TB 5400 U/min SATA-Festplatte&lt;/li&gt;
+&lt;li&gt;1 x USB Typ-C 3.1 Gen 1 (Daten bis zu 5Gb/s) - 2 x USB 3.1 Gen 1 &lt;/li&gt;
+&lt;li&gt;(nur Datenübertragung), Kopfhörerausgang / Mikrofoneingang Kombianschluss&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><summary type="html">Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt. Damals war es anders:Man benötige noch echte Bücher, um Ausgaben, Gewinne, Transaktionen usw. im Auge zu behalten. Heute funktioniert das anders. Als Buchhalter ist der Laptop der ständige Begleiter.</summary></entry><entry><title type="html">Windows 10 SmartScreen ausschalten</title><link href="http://localhost:4000/windows-smartscreen-ausschalten" rel="alternate" type="text/html" title="Windows 10 SmartScreen ausschalten" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/windows-smartscreen-ausschalten">&lt;p&gt;Ach ja der liebe Computer.&lt;/p&gt;
 
 &lt;p&gt;Manchmal kann er ärger bereiten, sodass ein glückliches Arbeiten schwer wird.&lt;/p&gt;
