@@ -42,6 +42,9 @@ Es verfügt über eine hintergrundbeleuchtete und gut abgegrenzte Tastatur, mit 
 
 Der Dell XPS 15 ist ein leistungsstarker, leichter Laptop, der nicht nur für die Programmierung, sondern auch für die Spiele- oder grafikbezogene Softwareentwicklung geeignet ist. Die Tragbarkeit und Akkulaufzeit machen es auch für Studenten der Informatik zu einer guten Option.
 
+Übrigens, falls Sie einen Laptop für andere Dinge benötigen, haben wir ebenfalls Tipps zu einem 
+<a href="/laptop-buchhaltung">Laptop für die Buchhaltung</a>
+
 
 SPEZIFIKATIONEN
 
@@ -85,6 +88,7 @@ Das Display ist ein 13-Zoll Retina-Display. Das Display ist glänzend, so dass e
 Das MacBook Pro verfügt über vier Thunderbolt 3 Anschlüsse, über die Sie hochauflösende Monitore anschließen können. Jeder Programmierer weiß, dass ein Laptop mit einer solchen Funktion von unschätzbarem Wert ist. Sie können mehr erreichen, wenn Sie mehrere Monitore anschließen können.
 
 Zusammenfassend lässt sich sagen, dass es eines der besten Apple-Laptops für die Programmierung ist, was es nicht nur für Programmierer zu einer guten Option macht.
+
 
 SPEZIFIKATIONEN
 6-Kern Intel Core i7 Prozessor der 8. Generation
