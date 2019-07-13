@@ -9,7 +9,7 @@ excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leic
 
 
 
-<h1>10 beste Laptops für Programmierer und Entwickler 2019</h1>
+<h2>10 beste Laptops für Programmierer und Entwickler 2019</h2>
  
 Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 
@@ -53,7 +53,7 @@ NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
 1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser
 
 
-Dell XPS 13
+<h2>Dell XPS 13</h2>
 
 Der Dell XPS 13 ist ein großartiger Laptop für Programmierer. Es handelt sich um eine Miniaturversion des Dell XPS 15, jedoch ohne die dazugehörige Grafikkarte oder den Hexakern-Prozessor. Diese Spezifikationen des Dell XPS 13 sind ein 8. Gen i7 Low Power Prozessor, 16 GB RAM und 512 GB SSD.
 
@@ -74,7 +74,7 @@ Intel HD Grafikkarte
 512GB PCIe SSD PCIe SSD
 ThunderBolt 3 USB-C
 
-Apple MacBook Pro
+<h2>Apple MacBook Pro</h2>
 
 MacBook Pros sind viel benutzerfreundlicher bei der Programmierung, da das Mac OS besser plattformübergreifend kompatibel ist. Es ermöglicht es Ihnen, fast jede Sprache ohne spezielle IDE zu verwenden. Es gibt auch den Fall der Virtual Machine, mit der Sie Windows und Linux zweifach booten können.
 
@@ -96,7 +96,7 @@ Vier Thunderbolt 3 (USB-C) Anschlüsse
 
 
 
-Microsoft Surface Buch 2
+<h2>Microsoft Surface Buch 2</h2>
 
 Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller kompilieren als die meisten Laptops da draußen.
 
@@ -115,7 +115,7 @@ NVIDIA GeForce GTX 1060 GTX 1060
 2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss
 
 
-Dell Latitude 7490
+<h2>Dell Latitude 7490</h2>
 
 Der Dell Latitude ist ein Geschäfts- und Kraftpaket-Laptop. Die CPU ist eine i7-8650U der 8. Generation, die 4 Kerne und 8 Threads, 16 GB Ram und 256 GB SSD hat. Diese Spezifikationen machen es zur perfekten Lösung für den Betrieb einer virtuellen Maschinenbox. 
 
@@ -137,7 +137,8 @@ Intel HD Grafikkarte
 3 x USB 3.1 Gen 1 (1 mit PowerShare), 1 x USB Typ-C, 1 x HDMI 1.4, 1 x Gigabit Ethernet, Headset/Mikrofon Combo Buchse
 
 
-Acer Swift 3
+<h2>Acer Swift 3</h2>
+
 Der Acer Swift 3 ist ein Allrounder. Es ist ein hochwertig aussehender Laptop mit einem Aluminiumgehäuse. Man könnte denken, dass ein solcher Build ihn schwer machen wird, aber in Wirklichkeit ist er leicht und wiegt fast 3,53 Pfund. 
 
 Die Tastatur bietet eine hervorragende taktile Rückmeldung, einen langen Hub und eine Hintergrundbeleuchtung. Eine großartige Kombination für das Tippen. Eine gute Tastatur auf einem Laptop ermöglicht es, in kurzer Zeit viel zu tippen und ist komfortabel. 
@@ -157,7 +158,7 @@ NVIDIA GeForce MX150 mit 2 GB dediziertem GDDR5-VRAM.
 HDMI, USB 3.0, USB 2.0, USB-C Gen 1, Kopfhörer/Mikrofon Kombianschluss
 
 
-HP Pavillon 
+<h2>HP Pavillon</h2>
 
 Ein Gaming-Laptop von HP. Der HP Pavillon ist ein Spiele-Notebook, das auch für die Programmierung verwendet werden kann. 
 
