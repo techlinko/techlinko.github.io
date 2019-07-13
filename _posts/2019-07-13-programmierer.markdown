@@ -32,7 +32,7 @@ Was ist dein Budget?
 
 Fange wir an:
 
-Dell XPS 15
+<h2>Dell XPS 15</h2>
 
 Das Dell XPS 15 ist ein gutes Gleichgewicht zwischen Leistung, Qualität und Wert. Die Spezifikationen machen es zu einem ausgezeichneten Programmier- und Gaming-Laptop, der auch mit Linux kompatibel ist. Der Dell XPS ist der perfekte Laptop für Programmierer und Computerschüler.
 
