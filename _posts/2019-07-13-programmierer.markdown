@@ -23,14 +23,21 @@ Um ehrlich zu sein, kann jeder Laptop mit ordentlicher Hardware für die grundle
 
 Wie man den besten Laptop für die Programmierung finden möchte, sollte man sich diese Fragen stellen:
 
-Für welche Programmiersprache werden Sie den Laptop verwenden?
-Welches Betriebssystem sollten Sie für die Programmierung verwenden?
-Welche Hardwarekonfiguration benötigen Sie für die Programmierung?
-Benötigen Sie eine dedizierte Grafikkarte zur Programmierung?
-Welche Art von Display ist für Programmierer wichtig?
-Was ist dein Budget?
+<ul>
+<li>Für welche Programmiersprache werden Sie den Laptop verwenden?</li>
+<li>Welches Betriebssystem sollten Sie für die Programmierung verwenden?</li>
+<li>Welche Hardwarekonfiguration benötigen Sie für die Programmierung?</li>
+<li>Benötigen Sie eine dedizierte Grafikkarte zur Programmierung?</li>
+<li>Welche Art von Display ist für Programmierer wichtig?</li>
+<li>Was ist dein Budget?</li>
+</ul>
+
+
+
 
 Fange wir an:
+
+<img src="/dell-xps15-programmierer-laptop.png" alt="dell xps 15 laptop fuer programmierer">
 
 <h2>Dell XPS 15</h2>
 
@@ -56,6 +63,8 @@ NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
 1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser
 
 
+<img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
+
 <h2>Dell XPS 13</h2>
 
 Der Dell XPS 13 ist ein großartiger Laptop für Programmierer. Es handelt sich um eine Miniaturversion des Dell XPS 15, jedoch ohne die dazugehörige Grafikkarte oder den Hexakern-Prozessor. Diese Spezifikationen des Dell XPS 13 sind ein 8. Gen i7 Low Power Prozessor, 16 GB RAM und 512 GB SSD.
@@ -76,6 +85,8 @@ Intel HD Grafikkarte
 16 GB RAM
 512GB PCIe SSD PCIe SSD
 ThunderBolt 3 USB-C
+
+<img src="/macbook-pro-programmierer-laptop.png" alt="macbook pro laptop fuer programmierer">
 
 <h2>Apple MacBook Pro</h2>
 
