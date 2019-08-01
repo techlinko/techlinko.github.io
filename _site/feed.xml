@@ -1,18 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-01T16:07:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-01T11:27:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Wir kennen das Problem. Ein Laptop für die Buchführung muss her. Welcher ist bei all den Angeboten der richtige für mich und auf was muss
+ich überhaupt achten, wenn der Laptop für die Buchführung geeignet sein soll.&lt;/p&gt;
 
-&lt;p&gt;Damals war es anders:&lt;/p&gt;
+&lt;p&gt;Kann ich nicht einfach irgendeinen kaufen? Buchführung wird ja wohl jeder schaffen.&lt;/p&gt;
+
+&lt;p&gt;Ganz so einfach ist es allerdings nicht.&lt;/p&gt;
+
+&lt;p&gt;Auch wenn die meisten Laptop im Stande seine werden Excel zu öffnen, gibt es trotzdem Dinge die man beachten muss.&lt;/p&gt;
+
+&lt;p&gt;Aber keine Sorge!&lt;/p&gt;
+
+&lt;p&gt;Wir zeigen euch Schritt für Schritt wie es geht.&lt;/p&gt;
+
+&lt;p&gt;Am Ende werdet ihr genau wissen, welcher Laptop der richtige für euch ist.&lt;/p&gt;
+
+&lt;p&gt;Legen wir los:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/die-buchhaltung.jpeg&quot; alt=&quot;buchhaltung und laptops titelbild&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt.&lt;/p&gt;
+
+&lt;p&gt;Damals war es anders.&lt;/p&gt;
 
 &lt;p&gt;Man benötige noch echte Bücher, um Ausgaben, Gewinne, Transaktionen usw. im Auge zu behalten.&lt;/p&gt;
 
 &lt;p&gt;Heute ist ein passender Laptop für die Buchhaltung das A und O.&lt;/p&gt;
-
-&lt;p&gt;Das Problem ist nur, es gibt so viel Auswahl. Muss es überhaupt teuer sein, wenn man in der Buchhaltung arbeitet und auf was muss ich achten?&lt;/p&gt;
-
-&lt;p&gt;Keine Sorge!&lt;/p&gt;
-
-&lt;p&gt;Wir lösen das Problem und zeigen Vor und Nachteile auf, so dass Sie am Ende genau wissen, welcher Laptop der richtige für Sie ist.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/die-buchhaltung.jpeg&quot; alt=&quot;buchhaltung und laptops titelbild&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, los:&lt;/p&gt;
 
@@ -300,7 +311,7 @@ daneben auch spielen möchten.&lt;/p&gt;
 &lt;li&gt;1 TB 5400 U/min SATA-Festplatte&lt;/li&gt;
 &lt;li&gt;1 x USB Typ-C 3.1 Gen 1 (Daten bis zu 5Gb/s) - 2 x USB 3.1 Gen 1 &lt;/li&gt;
 &lt;li&gt;(nur Datenübertragung), Kopfhörerausgang / Mikrofoneingang Kombianschluss&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Die Buchhaltung und Datenerfassung hat sich im Laufe der Jahre extrem weiterentwickelt. Damals war es anders:Man benötige noch echte Bücher, um Ausgaben, Gewinne, Transaktionen usw. im Auge zu behalten. Heute funktioniert das anders. Als Buchhalter ist der Laptop der ständige Begleiter.</summary></entry><entry><title type="html">Windows 10 SmartScreen ausschalten</title><link href="http://localhost:4000/windows-smartscreen-ausschalten" rel="alternate" type="text/html" title="Windows 10 SmartScreen ausschalten" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/windows-smartscreen-ausschalten">&lt;p&gt;Ach ja der liebe Computer.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Schluss mit Kopfschmerzen beim Laptop Kauf. Wir zeigen euch schnell und einfach aus was es bei einem Laptop für die Buchführung bzw. das Rechnungswesen ankommt.</summary></entry><entry><title type="html">Windows 10 SmartScreen ausschalten</title><link href="http://localhost:4000/windows-smartscreen-ausschalten" rel="alternate" type="text/html" title="Windows 10 SmartScreen ausschalten" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/windows-smartscreen-ausschalten">&lt;p&gt;Ach ja der liebe Computer.&lt;/p&gt;
 
 &lt;p&gt;Manchmal kann er ärger bereiten, sodass ein glückliches Arbeiten schwer wird.&lt;/p&gt;
 
@@ -409,37 +420,6 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
 &lt;html lang=&quot;de&quot;&gt;
 
     &lt;head&gt;
-        &lt;script type=&quot;application/ld+json&quot;&gt;
-          {
-            &quot;@context&quot;: &quot;http://schema.org&quot;,
-            &quot;@type&quot;: &quot;BlogPosting&quot;,
-            &quot;aggregateRating&quot;: {
-              &quot;@type&quot;: &quot;AggregateRating&quot;,
-              &quot;ratingValue&quot;: &quot;5&quot;,
-              &quot;reviewCount&quot;: &quot;15&quot;
-            },
-            &quot;name&quot;: &quot;Techlinko Technik Blog&quot;,
-            &quot;url&quot;: &quot;https://techlinko.github.io/geeigneter-laptop-wow&quot;,
-            &quot;author&quot;: &quot;Techlinko&quot;,
-            &quot;datePublished&quot;: &quot;27/03/2019&quot;,
-            &quot;headline&quot;: &quot;Laptop für WoW [World of Warcraft]&quot;,
-            &quot;image&quot;: &quot;https://techlinko.github.io/laptop-für-world-of-warcraft.png&quot;,
-            &quot;publisher&quot;: {
-            &quot;@type&quot;: &quot;organization&quot;,
-            &quot;name&quot;: &quot;Techlinko&quot;,
-            &quot;logo&quot;: {
-            &quot;@type&quot;: &quot;imageobject&quot;,
-            &quot;url&quot;: &quot;https://techlinko.github.io/&quot;
-            }
-            },
-            &quot;dateModified&quot;: &quot;01/06/2019&quot;,
-            &quot;mainEntityOfPage&quot;: {
-               &quot;@type&quot;: &quot;WebPage&quot;,
-               &quot;@id&quot;: &quot;https://techlinko.github.io/&quot;
-            }
-          }
-          &lt;/script&gt;
-
 
         &lt;meta charset=&quot;utf-8&quot;&gt;
         &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
@@ -458,7 +438,7 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
         &lt;div class=&quot;zoominheader&quot;&gt;
           &lt;div class=&quot;zoomoutheader&quot;&gt;
 
-            &lt;h1&gt;Laptop für WoW [World of Warcraft]&lt;/h1&gt;
+    
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -475,12 +455,12 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
                 &lt;/span&gt;
               &lt;/label&gt;
       
-              &lt;div class=&quot;trigger&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;/about/&quot;&gt;Über Uns&lt;/a&gt;&lt;/div&gt;
+              &lt;div class=&quot;trigger&quot;&gt;&lt;a class=&quot;page-link&quot; href=&quot;/about/&quot;&gt;Über Uns&lt;/a&gt;&lt;a class=&quot;page-link&quot; href=&quot;/&quot;&gt;Techlinko - Der Technik und Gaming Blog 2019&lt;/a&gt;&lt;/div&gt;
             &lt;/nav&gt;&lt;/div&gt;
       &lt;/header&gt;
 
 
-    &lt;main class=&quot;page-content&quot; aria-label=&quot;Content&quot;&gt;
+    &lt;article class=&quot;page-content&quot; aria-label=&quot;Content&quot;&gt;
       &lt;div class=&quot;wrapper&quot;&gt;
 
         &lt;img src=&quot;/laptop-fuer-world-of-warcraft.png&quot; alt=&quot;laptop für world of warcraft banner bild&quot; &gt;
@@ -602,7 +582,7 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
       
       Der Unterschied zum MSI GS65 Stealth besteht darin, dass die Grafikkarte keine GTX 1070 Max-Q-Karte ist, sondern das Ding überhaupt. &lt;br&gt;&lt;br&gt;
       
-     Damit ist eine bessere Leistung möglich als mit dem MSI GS65.&lt;br&gt;&lt;br&gt;
+      Damit ist eine bessere Leistung möglich als mit dem MSI GS65.&lt;br&gt;&lt;br&gt;
 
       Der Laptop wurde von Computer Upgrade King (CUK) angepasst, was ihn von anderen Laptops unterscheidet. &lt;br&gt;&lt;br&gt;
       
@@ -636,32 +616,84 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
       &lt;h3&gt;Technische Daten&lt;/h3&gt;
 
 
+    &lt;ul&gt;
+    &lt;li&gt;Intel Core i7-8750H Sechs-Kern-Prozessor&lt;/li&gt;
+    &lt;li&gt;17.3″ Full HD 120Hz 3ms Weitwinkel 94% NTSC Color Anti-Blende &lt;/li&gt;
+    &lt;li&gt;Display (1920 x 1080)&lt;/li&gt;
+    &lt;li&gt;NVIDIA GeForce GTX 1070 8GB GDDR5&lt;/li&gt;
+    &lt;li&gt;16 GB RAM&lt;/li&gt;
+    &lt;li&gt;500 GB Solid State Drive&lt;/li&gt;
+    &lt;li&gt;1 x Typ-C USB3.1 Gen2, 2 x Typ-A USB3.1 Gen1, 1 x Typ-A USB3.1 Gen2, 1 x SD (XC/HC), 1x (4K @ 60Hz) HDMI, 1x Mini-DisplayPort&lt;/li&gt;
+    &lt;/ul&gt;
+
+
+&lt;!--New Laptop --&gt;
+
+&lt;hr&gt;
+
+
+&lt;img src=&quot;/lenovo-legion-wow-laptop.png&quot; alt=&quot;Lenovo Laptop WOW&quot; width=&quot;350px&quot;&gt; 
+
+&lt;h2&gt;LENOVO LEGION Y7000&lt;/h2&gt;
+
+&lt;p&gt;
+Lenovo Legion vs. World of Warcraft Legion. Wer wird deiner Meinung nach gewinnen? Definitiv die Lenovo-Legion und nicht nur gegen WOW: Legion, sondern auch gegen die Schlacht von Azeroth und eine ganze Reihe zukünftiger Erweiterungen.
+&lt;br&gt;&lt;br&gt;
+Der Lenovo Legion hat ein anderes Design als seine früheren Vorgänger, die einen roten Farbton hatten. Lenovo entschied sich bei seinem Design für die graue und schwarze Farbe.
+&lt;br&gt;&lt;br&gt;
+Der Lenovo Legion ist mit einem i7-8750H-Prozessor und einer GTX 1060 Grafikkarte ausgestattet. Die Spezifikationen sind mehr als gut genug, um WOW auf hohen Einstellungen zu spielen. 
+Die Akkulaufzeit ist auch angemessen und beträgt durchschnittlich etwa 6 Stunden bei normalem Gebrauch und das Gewicht beträgt standardmäßig etwa 5,2 Pfund. Es ist weder leicht noch schwer, so dass es kein Problem sein wird, es zu bewegen. Die Anzeigefrequenz beträgt 60 Hz, was bei vielen Laptops üblich ist. 
+&lt;br&gt;&lt;br&gt;
+Der Lenovo Legion hat das Zeug zum WOW-Spiel auf hohem Niveau und dank seines Hexacore-Prozessors und der GTX 1060 auch fast auf Wettbewerbsniveau. Insgesamt ist es ein anständiger Gaming-Laptop für ein lockeres Gameplay.
+&lt;/p&gt;
+
+
+&lt;h3&gt;Vorteile&lt;/h3&gt;
+
 &lt;ul&gt;
-&lt;li&gt;Intel Core i7-8750H Sechs-Kern-Prozessor&lt;/li&gt;
-&lt;li&gt;17.3″ Full HD 120Hz 3ms Weitwinkel 94% NTSC Color Anti-Blende &lt;/li&gt;
-&lt;li&gt;Display (1920 x 1080)&lt;/li&gt;
-&lt;li&gt;NVIDIA GeForce GTX 1070 8GB GDDR5&lt;/li&gt;
-&lt;li&gt;16 GB RAM&lt;/li&gt;
-&lt;li&gt;500 GB Solid State Drive&lt;/li&gt;
-&lt;li&gt;1 x Typ-C USB3.1 Gen2, 2 x Typ-A USB3.1 Gen1, 1 x Typ-A USB3.1 Gen2, 1 x SD (XC/HC), 1x (4K @ 60Hz) HDMI, 1x Mini-DisplayPort&lt;/li&gt;
+&lt;li&gt;Hervorragende Leistung&lt;/li&gt;
+&lt;li&gt;Großartige Bauqualität&lt;/li&gt;
+&lt;li&gt;Anständige Akkulaufzeit&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Nachteile&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Durchschnittliche Aktualisierungsrate der Anzeige&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Technische Daten&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intel Core i7-8750H Prozessor&lt;/li&gt;
+  &lt;li&gt;15.6″ FHD (1920 x1080) Dünnes Blendendisplay &lt;/li&gt;
+  &lt;li&gt;NVIDIA GeForce GTX 1060 GTX 1060&lt;/li&gt;
+  &lt;li&gt;16 GB RAM&lt;/li&gt;
+  &lt;li&gt;1 TB HDD + 128GB PCIe SSD (PCIe SSD)&lt;/li&gt;
+  &lt;li&gt;USB 3.1 Typ-C, Mini-DisplayPort, 3 x USB 3.1 Typ-A&lt;/li&gt;
+  &lt;li&gt;HDMI 2.0, Gigabit RJ-45, Kopfhöreranschluss&lt;/li&gt;
 &lt;/ul&gt;
 
 
 
 
 
-
-      &lt;/div&gt;
-    &lt;/main&gt;
+&lt;hr&gt;
 
 
 
 
+&lt;/div&gt;
+&lt;/article&gt;
 
 
 
 
-    &lt;footer class=&quot;site-footer h-card&quot;&gt;
+
+
+
+
+&lt;footer class=&quot;site-footer h-card&quot;&gt;
     &lt;data class=&quot;u-url&quot; href=&quot;/&quot;&gt;&lt;/data&gt;
   
     &lt;div class=&quot;wrapper&quot;&gt;
@@ -689,4 +721,177 @@ Doppelklicken Sie auf ShellSmartScreenLevel, um es zu bearbeiten. Unter Wertdate
   
       &lt;script src=&quot;/main.js&quot;&gt;&lt;/script&gt;
     &lt;/body&gt;
-  &lt;/html&gt;</content><author><name></name></author><summary type="html">World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer.Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/laptop-fuer-world-of-warcraft.png" /></entry></feed>
+  &lt;/html&gt;</content><author><name></name></author><summary type="html">World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer.Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/laptop-fuer-world-of-warcraft.png" /></entry><entry><title type="html">Laptop für Programmierer &amp;amp; Entwickler [Laptop Empfehlung 2019]</title><link href="http://localhost:4000/laptop-programmierer" rel="alternate" type="text/html" title="Laptop für Programmierer &amp; Entwickler [Laptop Empfehlung 2019] " /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/programmierer</id><content type="html" xml:base="http://localhost:4000/laptop-programmierer">&lt;h2&gt;10 beste Laptops für Programmierer und Entwickler 2019&lt;/h2&gt;
+
+&lt;p&gt;Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.&lt;/p&gt;
+
+&lt;p&gt;Und es gibt auch den Fall, dass man neu in der Programmierung oder ein studentischer Programmierer ist. So oder so, Sie kennen vielleicht nicht die Anforderungen, die ein Laptop erfüllen muss, bevor Sie darauf programmieren können.&lt;/p&gt;
+
+&lt;p&gt;Am wichtigsten, weil es mehrere Programmiersprachen gibt, wird jede dieser Sprachen Ihren Laptop anders beeinflussen. Die Zeit für die Kompilierung des Codes mit C++ wird sich von Java unterscheiden. Das Betriebssystem und die Hardware beeinflussen auch die Zeit.&lt;/p&gt;
+
+&lt;p&gt;So viele Faktoren kommen ins Spiel, weil Programmiersprachen ihre eigenen Anforderungen haben. Glücklicherweise sind die meisten Anforderungen auch ähnlich wie bei anderen Programmiersprachen, was die Sache erleichtert.&lt;/p&gt;
+
+&lt;p&gt;Um ehrlich zu sein, kann jeder Laptop mit ordentlicher Hardware für die grundlegende Programmierung oder Codierung verwendet werden. Die einzige Ausnahme ist, wenn Sie Spiele, serverseitige Anwendungen, Anwendungen für Windows, Android, MacOS, iOS usw. entwickeln.&lt;/p&gt;
+
+&lt;p&gt;Wie man den besten Laptop für die Programmierung finden möchte, sollte man sich diese Fragen stellen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Für welche Programmiersprache werden Sie den Laptop verwenden?&lt;/li&gt;
+&lt;li&gt;Welches Betriebssystem sollten Sie für die Programmierung verwenden?&lt;/li&gt;
+&lt;li&gt;Welche Hardwarekonfiguration benötigen Sie für die Programmierung?&lt;/li&gt;
+&lt;li&gt;Benötigen Sie eine dedizierte Grafikkarte zur Programmierung?&lt;/li&gt;
+&lt;li&gt;Welche Art von Display ist für Programmierer wichtig?&lt;/li&gt;
+&lt;li&gt;Was ist dein Budget?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fange wir an:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dell-xps15-programmierer-laptop.png&quot; alt=&quot;dell xps 15 laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Dell XPS 15&lt;/h2&gt;
+
+&lt;p&gt;Das Dell XPS 15 ist ein gutes Gleichgewicht zwischen Leistung, Qualität und Wert. Die Spezifikationen machen es zu einem ausgezeichneten Programmier- und Gaming-Laptop, der auch mit Linux kompatibel ist. Der Dell XPS ist der perfekte Laptop für Programmierer und Computerschüler.&lt;/p&gt;
+
+&lt;p&gt;Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um Code zu kompilieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.&lt;/p&gt;
+
+&lt;p&gt;Es verfügt über eine hintergrundbeleuchtete und gut abgegrenzte Tastatur, mit der Sie sehr schnell und effizient tippen können, aber es fehlt ein Ziffernblock. Die Akkulaufzeit ist sehr gut und beträgt bei normalem Gebrauch durchschnittlich etwa 11 Stunden.&lt;/p&gt;
+
+&lt;p&gt;Der Dell XPS 15 ist ein leistungsstarker, leichter Laptop, der nicht nur für die Programmierung, sondern auch für die Spiele- oder grafikbezogene Softwareentwicklung geeignet ist. Die Tragbarkeit und Akkulaufzeit machen es auch für Studenten der Informatik zu einer guten Option.&lt;/p&gt;
+
+&lt;p&gt;Übrigens, falls Sie einen Laptop für andere Dinge benötigen, haben wir ebenfalls Tipps zu einem 
+&lt;a href=&quot;/laptop-buchhaltung&quot;&gt;Laptop für die Buchhaltung&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN&lt;/p&gt;
+
+&lt;p&gt;Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache
+15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display
+NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
+16GB 2666MHz DDR4 SDRAM mit 2666MHz
+256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk
+1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dell-xps13-programmierer-laptop.png&quot; alt=&quot;dell xps 13 laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Dell XPS 13&lt;/h2&gt;
+
+&lt;p&gt;Der Dell XPS 13 ist ein großartiger Laptop für Programmierer. Es handelt sich um eine Miniaturversion des Dell XPS 15, jedoch ohne die dazugehörige Grafikkarte oder den Hexakern-Prozessor. Diese Spezifikationen des Dell XPS 13 sind ein 8. Gen i7 Low Power Prozessor, 16 GB RAM und 512 GB SSD.&lt;/p&gt;
+
+&lt;p&gt;Die durchschnittliche Akkulaufzeit des Dell XPS 13 beträgt 9 Stunden. Das Display ist ein 4K-Touchscreen, der viel Batteriestrom verbraucht. Der 1080p Non-Touchscreen hat eine längere Akkulaufzeit, da er weniger Strom verbraucht. Sie können die 1080p-Version hier erhalten.&lt;/p&gt;
+
+&lt;p&gt;Das Dell XPS 13 fehlt auf der Port-Seite, gleicht es aber mit zwei Thunderbolt 3 Ports aus. Die Thunderbolt 3 Ports ermöglichen es Ihnen, sich mit externen Monitoren zu verbinden, aber Sie benötigen auch eine Dockingstation, um andere Arten von Ports aufzunehmen.&lt;/p&gt;
+
+&lt;p&gt;Die Tastatur ist auch eine der besten da draußen. Es gibt kein Ziffernblock wegen des kleinen Rahmens. Die Tasten sind gut abgeteilt und hinterleuchtet.&lt;/p&gt;
+
+&lt;p&gt;Auf der Gewichtsseite wiegt das Dell XPS 13 fast 2,65 Pfund.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Gen Intel Quad Core i7-8550U 1,80 GHz
+13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display
+Intel HD Grafikkarte
+16 GB RAM
+512GB PCIe SSD PCIe SSD
+ThunderBolt 3 USB-C&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/macbook-pro-programmierer-laptop.png&quot; alt=&quot;macbook pro laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Apple MacBook Pro&lt;/h2&gt;
+
+&lt;p&gt;MacBook Pros sind viel benutzerfreundlicher bei der Programmierung, da das Mac OS besser plattformübergreifend kompatibel ist. Es ermöglicht es Ihnen, fast jede Sprache ohne spezielle IDE zu verwenden. Es gibt auch den Fall der Virtual Machine, mit der Sie Windows und Linux zweifach booten können.&lt;/p&gt;
+
+&lt;p&gt;Die Verarbeitungsqualität ist auch gut, wenn sie aus einem einzigen Metallblock besteht. Das macht den Laptop sehr lange haltbar. Du kannst hier nachlesen, warum MacBooks eine gute Verarbeitungsqualität haben.&lt;/p&gt;
+
+&lt;p&gt;Das Display ist ein 13-Zoll Retina-Display. Das Display ist glänzend, so dass ein Antireflex- oder Blendschutz Ihren Augen auf lange Sicht helfen kann. Es ist auch ein reichhaltiges und helles Display, das farbgenau ist.&lt;/p&gt;
+
+&lt;p&gt;Das MacBook Pro verfügt über vier Thunderbolt 3 Anschlüsse, über die Sie hochauflösende Monitore anschließen können. Jeder Programmierer weiß, dass ein Laptop mit einer solchen Funktion von unschätzbarem Wert ist. Sie können mehr erreichen, wenn Sie mehrere Monitore anschließen können.&lt;/p&gt;
+
+&lt;p&gt;Zusammenfassend lässt sich sagen, dass es eines der besten Apple-Laptops für die Programmierung ist, was es nicht nur für Programmierer zu einer guten Option macht.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN
+6-Kern Intel Core i7 Prozessor der 8. Generation
+15.4 “ Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie
+16 GB RAM
+Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher
+512 GB SSD
+Vier Thunderbolt 3 (USB-C) Anschlüsse&lt;/p&gt;
+
+&lt;h2&gt;Microsoft Surface Buch 2&lt;/h2&gt;
+
+&lt;p&gt;Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller kompilieren als die meisten Laptops da draußen.&lt;/p&gt;
+
+&lt;p&gt;Die Leistung ist erstklassig. Ein 8. Gen Quad-Core i7, 16 GB RAM und eine 256 GB SSD als Speicher. Es hat auch eine GTX 1060 Grafikkarte, die es Ihnen ermöglicht, ernsthaft zu spielen. Sie können Overwatch, PlayerUnknown’s Battlegrounds und Fortnite sehr einfach ausführen und gleichzeitig für einige arbeitsbezogene Aufgaben geeignet sein.&lt;/p&gt;
+
+&lt;p&gt;Die Akkulaufzeit beträgt durchschnittlich 7-8 Stunden. Auf Laptops mit einer leistungsstarken Grafikkarte wie der GTX 1060 wird diese Art der Akkulaufzeit nicht erreicht, sie halten bestenfalls 4-5 Stunden und einige sogar 3 Stunden. Die hohe Bildschirmauflösung ist ebenfalls eine weitere. Es hat eine beeindruckende Akkulaufzeit für einen Laptop mit sehr leistungsfähiger Hardware.&lt;/p&gt;
+
+&lt;p&gt;Das Microsoft Surface Book 2 verfügt über eine leistungsstarke Hardware, die es ideal für anspruchsvolle Aufgaben macht. Holen Sie sich das Microsoft Surface Book 2 nur, wenn Sie möchten, dass einer der besten und leistungsfähigsten Laptops unterwegs Code kompiliert.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN
+Intel Core i7 8. Gen 8650U (1,90 GHz)
+15.0″ Touchscreen PixelSense (3240 x 2160) Display
+NVIDIA GeForce GTX 1060 GTX 1060
+16 GB RAM
+512 GB PCIe SSD PCIe SSD
+2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss&lt;/p&gt;
+
+&lt;h2&gt;Dell Latitude 7490&lt;/h2&gt;
+
+&lt;p&gt;Der Dell Latitude ist ein Geschäfts- und Kraftpaket-Laptop. Die CPU ist eine i7-8650U der 8. Generation, die 4 Kerne und 8 Threads, 16 GB Ram und 256 GB SSD hat. Diese Spezifikationen machen es zur perfekten Lösung für den Betrieb einer virtuellen Maschinenbox.&lt;/p&gt;
+
+&lt;p&gt;Sie können den Ram auch auf bis zu 32 GB erweitern, indem Sie den zusätzlichen Ram-Slot nutzen. Dadurch entsteht ein Zweikanalspeicher, der auch die Gesamtleistung des Laptops erhöht und ihn wesentlich zukunftssicherer macht.&lt;/p&gt;
+
+&lt;p&gt;Das Display ist 1080p matt, was die Augen durch reduzierte Blendung sehr schont. Auch die Farbgenauigkeit ist hoch. Es deckt etwa 78% des Adobe RGB ab.&lt;/p&gt;
+
+&lt;p&gt;Die Tastatur ist hintergrundbeleuchtet und verfügt über einen angemessenen Tastenhub und -abstand, was das Tippen sehr angenehm macht. Das Trackpad ist auch sehr genau und in der Mitte befindet sich ein TrackPoint mit eigenen Tasten. Insgesamt erhalten Sie ein Trackpad, TrackPoint und vier Maustasten.&lt;/p&gt;
+
+&lt;p&gt;Die durchschnittliche Akkulaufzeit beträgt bei normalem Gebrauch ca. 9-10 Stunden. Der Dell Latitude wiegt auch 3,2 Pfund und gehört damit in die Kategorie Ultrabook. Für Ports stehen Ihnen 4 USB-Ports (1 USB 2.0, 3 USB 3.0), Ethernet und HDMI zur Verfügung. Dadurch ist es möglich, es an externe Monitore anzuschließen.
+Der Dell Latitude ist ein großartiger Laptop.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN
+Intel Core i7-8650U Quad-Core 1,7GHz
+14-Zoll 1.920 x 1.080 IPS-Auflösung
+Intel HD Grafikkarte
+16 GB RAM
+256 GB SSD
+3 x USB 3.1 Gen 1 (1 mit PowerShare), 1 x USB Typ-C, 1 x HDMI 1.4, 1 x Gigabit Ethernet, Headset/Mikrofon Combo Buchse&lt;/p&gt;
+
+&lt;h2&gt;Acer Swift 3&lt;/h2&gt;
+
+&lt;p&gt;Der Acer Swift 3 ist ein Allrounder. Es ist ein hochwertig aussehender Laptop mit einem Aluminiumgehäuse. Man könnte denken, dass ein solcher Build ihn schwer machen wird, aber in Wirklichkeit ist er leicht und wiegt fast 3,53 Pfund.&lt;/p&gt;
+
+&lt;p&gt;Die Tastatur bietet eine hervorragende taktile Rückmeldung, einen langen Hub und eine Hintergrundbeleuchtung. Eine großartige Kombination für das Tippen. Eine gute Tastatur auf einem Laptop ermöglicht es, in kurzer Zeit viel zu tippen und ist komfortabel.&lt;/p&gt;
+
+&lt;p&gt;Für die Leistung wird der Acer Swift von einem 8. Gen Intel i7 mit 8 GB RAM angetrieben und verfügt über eine 256 GB SSD als Speicher. Es verfügt auch über eine dedizierte Grafikkarte MX150. Dies macht ihn zu einem guten Laptop, nicht nur für die Programmierung, sondern auch für einige leichte Spiele.&lt;/p&gt;
+
+&lt;p&gt;Das Display ist ein 14 Zoll Full HD IPS (Inplane Switching). Der einzige Nachteil des Displays ist die Tatsache, dass es glänzend ist. Dies macht Blendung zu einem echten Problem, aber dem kann entgegengewirkt werden, indem man einen Blendschutz erhält.&lt;/p&gt;
+
+&lt;p&gt;Für die Akkulaufzeit hält der Acer Swift 3 bei normalem Gebrauch durchschnittlich 8 Stunden. Es gibt auch eine anständige Auswahl an Ports 2 x USB 3.0, 1 x USB 2.0 und 1 x USB 3.1 Typ-C.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN
+Intel Core i7-8550U Prozessor der 8. Generation (bis zu 4,0 GHz)
+NVIDIA GeForce MX150 mit 2 GB dediziertem GDDR5-VRAM.
+14″ Full HD (1920 x 1080) Breitbild-IPS-Display (Breitbild)
+8GB RAM
+ 256GB SSD
+HDMI, USB 3.0, USB 2.0, USB-C Gen 1, Kopfhörer/Mikrofon Kombianschluss&lt;/p&gt;
+
+&lt;h2&gt;HP Pavillon&lt;/h2&gt;
+
+&lt;p&gt;Ein Gaming-Laptop von HP. Der HP Pavillon ist ein Spiele-Notebook, das auch für die Programmierung verwendet werden kann.&lt;/p&gt;
+
+&lt;p&gt;Ein 8. Gen Intel i5, 8 GB RAM und ein dedizierter GTX 1050 Ti. Der Speicher ist eine 1 TB 7200 U/min Festplatte. Sie werden keine Leistungsprobleme haben, die von diesem Laptop kommen. Es ist auch gut genug, um die meisten AAA-Titelspiele auf mittleren Einstellungen auszuführen.&lt;/p&gt;
+
+&lt;p&gt;Das Display ist ein 15 Zoll Full HD blendfreies Display und ist ziemlich farbgenau. Die Tastatur ist hintergrundbeleuchtet und auch dezent. Auf der Port-Seite befinden sich vier USB-Ports, alle USB 3.1, wobei einer davon ein Typ-C ist.&lt;/p&gt;
+
+&lt;p&gt;Der Laptop ist auch nicht zu schwer und wiegt fast 5,2 Pfund, Sie können ihn leicht bewegen, besonders wenn Sie ein Student sind. Die Akkulaufzeit ist nicht beeindruckend, obwohl sie bei normalem Gebrauch etwa 3 Stunden dauert.&lt;/p&gt;
+
+&lt;p&gt;Der HP Pavillon ist ein großartiger Laptop für diejenigen, die einen guten Gaming-Laptop suchen, während sie in der Lage sind, Programmieraufgaben oder die Zusammenstellung von Code zu erledigen, während sie gleichzeitig ein knappes Budget haben. Es bietet einen guten Kompromiss von drei zu einem erschwinglichen Preis, der einzige Nachteil ist die Akkulaufzeit.&lt;/p&gt;
+
+&lt;p&gt;SPEZIFIKATIONEN
+Intel(R) Core(TM) i5-8300H Prozessor der 8. Generation
+15,6 Zoll Diagonale FHD IPS blendfreie Mikrokante WLED-hinterleuchtet (1920 x 1080)
+NVIDIA GeForce GTX 1050 Ti (4 GB GDDR5 dediziert)
+8 GB RAM
+1 TB 5400 U/min SATA Festplatte
+1 x USB Typ-C, 3 x Typ-A (3.1 Gen 1), HDMI, Kopfhöreranschluss&lt;/p&gt;</content><author><name></name></author><summary type="html">Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/laptop-fuer-world-of-warcraft.png" /></entry></feed>

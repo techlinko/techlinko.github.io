@@ -1,4 +1,5 @@
 ---
+layout: home2
 title:  "Laptop für Programmierer & Entwickler [Laptop Empfehlung 2019] "
 date:   2019-03-27 16:20:19 +0100
 categories: laptop hilfe
