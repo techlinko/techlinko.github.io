@@ -3,7 +3,7 @@ layout: home
 title:  "Windows 10 vorinstallierte Apps löschen"
 date:   2019-08-07 16:30:00 +0100
 categories: windows hilfe
-permalink: /windows-vorinstallierte-apps-löschen
+permalink: /windows-vorinstallierte-apps-entfernen
 excerpt: Mit unserer Hilfe, entfernen Sie die lästigen vorintallierten Windows 10 Apps von Ihrem persönlichen Laptop.
 ---
 
