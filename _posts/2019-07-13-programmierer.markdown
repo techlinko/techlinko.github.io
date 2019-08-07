@@ -20,7 +20,8 @@ Am wichtigsten, weil es mehrere Programmiersprachen gibt, wird jede dieser Sprac
 
 So viele Faktoren kommen ins Spiel, weil Programmiersprachen ihre eigenen Anforderungen haben. Glücklicherweise sind die meisten Anforderungen auch ähnlich wie bei anderen Programmiersprachen, was die Sache erleichtert.
 
-Um ehrlich zu sein, kann jeder Laptop mit ordentlicher Hardware für die grundlegende Programmierung oder Codierung verwendet werden. Die einzige Ausnahme ist, wenn Sie Spiele, serverseitige Anwendungen, Anwendungen für Windows, Android, MacOS, iOS usw. entwickeln.
+Um ehrlich zu sein, kann jeder Laptop mit ordentlicher Hardware für die grundlegende Programmierung oder Codierung verwendet werden. Die einzige Ausnahme ist, wenn Sie Spiele, serverseitige Anwendungen, Anwendungen für Windows, Android, MacOS, iOS usw. entwickeln. Dann braucht es mehr. 
+Übrigens, wir schreiben ebenfalls Artikel über Themen wie einen <a href="/laptop-buchhaltung">Laptop für die Buchhaltung.</a>
 
 Wie man den besten Laptop für die Programmierung finden möchte, sollte man sich diese Fragen stellen:
 
