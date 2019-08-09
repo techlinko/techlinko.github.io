@@ -14,7 +14,7 @@ excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leic
  
 Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 
-Und es gibt auch den Fall, dass man neu in der Programmierung oder ein studentischer Programmierer ist. So oder so, Sie kennen vielleicht nicht die Anforderungen, die ein Laptop erfüllen muss, bevor Sie darauf programmieren können.
+Und es gibt auch den Fall, dass man neu in der Programmierung oder ein studentischer Programmierer ist. So oder so,Sie kennen vielleicht nicht die Anforderungen, die ein Laptop erfüllen muss, bevor Sie darauf programmieren können.
 
 Am wichtigsten, weil es mehrere Programmiersprachen gibt, wird jede dieser Sprachen Ihren Laptop anders beeinflussen. Die Zeit für die Kompilierung des Codes mit C++ wird sich von Java unterscheiden. Das Betriebssystem und die Hardware beeinflussen auch die Zeit. 
 
