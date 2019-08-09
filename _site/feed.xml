@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-07T16:39:59+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Wir kennen das Problem. Ein Laptop für die Buchführung muss her. Welcher ist bei all den Angeboten der richtige für mich und auf was muss
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-09T11:03:08+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Windows 10 vorinstallierte Apps löschen</title><link href="http://localhost:4000/windows-vorinstallierte-apps-entfernen" rel="alternate" type="text/html" title="Windows 10 vorinstallierte Apps löschen" /><published>2019-08-07T17:30:00+02:00</published><updated>2019-08-07T17:30:00+02:00</updated><id>http://localhost:4000/windows10</id><content type="html" xml:base="http://localhost:4000/windows-vorinstallierte-apps-entfernen">&lt;h1&gt;Windows 10 vorinstallierte Apps löschen&lt;/h1&gt;
+
+&lt;p&gt;Möchten Sie die vorinstallierten Windows 10 Apps von Ihrem Laptop loswerden?&lt;/p&gt;
+
+&lt;p&gt;Dann sind Sie hier richtig.&lt;/p&gt;
+
+&lt;p&gt;Wir schreiben zwar sonst immer Tipps wie man sich einen Laptop zulegt, z.B. in unserem &lt;a href=&quot;/laptop-buchhaltung&quot;&gt;Laptop für die Buchhaltung&lt;/a&gt; Artikel, heute möchten wir aber zeigen, was man macht, wenn man bereits einen besitzt.&lt;/p&gt;
+
+&lt;p&gt;Die meisten von uns kennen das Problem. Das unnötiger Hinzufügen von Anwendungen unter Windows. Die Apps nehmen Platz ein, den sie nicht einnehmen sollten und einen richtigen Zweck sucht man vergebens.&lt;/p&gt;
+
+&lt;p&gt;Darüber hinaus gibt es automatische Updates, die Ihren Laptop neu starten, wenn Sie es am wenigsten erwarten. Es ist ein Problem, besonders wenn Sie Ihre Arbeit nicht speichern, wenn ein unerwartetes Update stattfindet. Einige Leute finden sie tatsächlich nützlich und genießen sogar das ein oder andere vorinstallierte Spiel.&lt;/p&gt;
+
+&lt;p&gt;Aber, dieser Artikel ist für diejenigen, die ihre Windows-Laptops komplett verpacken wollen. So entfernen Sie vorinstallieren Apps von Ihrem Windows 10-Laptop.&lt;/p&gt;
+
+&lt;h2&gt; Wie man die vorinstallierten Apps entfernt&lt;/h2&gt;
+
+&lt;p&gt;Dies ist die beste und schnellste Methode, um Bloatware loszuwerden, besonders wenn Sie einen neuen Laptop kaufen. Wenn Sie bereits einen Laptop besitzen, sichern Sie Ihre Daten, bevor Sie eine Neuinstallation von Windows 10 durchführen. Holen Sie sich die Windows 10-Software.&lt;/p&gt;
+
+&lt;p&gt;Kopieren Sie es auf eine USB-, CD- oder externe Festplatte. Führen Sie das Installationsprogramm von den Speichermedien aus und erleben Sie die magische Wirkung. Es wird im Grunde genommen alle wichtigen und unnötigen Programme loswerden, so dass Sie ein sauberes und flottes Windows 10 ohne Bloatware haben.&lt;/p&gt;
+
+&lt;p&gt;EINE ALTERNATIVE IST DIE NEUANFANGOPTION&lt;/p&gt;
+
+&lt;p&gt;Sie können auch einen Neuanfang durchführen, ohne eine neue Windows-Installation zu durchlaufen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/startmenu.png&quot; alt=&quot;das startmenü von windows&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Öffnen Sie das Startmenü, geben Sie die Sicherheit von Windows Defender ein und öffnen Sie sie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/windows-sicherheitscenter.png&quot; alt=&quot;das startmenü von windows&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Gehen Sie zu Device Health and Performance und öffnen Sie es.&lt;/p&gt;
+
+&lt;p&gt;Gesundheit von Geräten und Leistungen&lt;/p&gt;
+
+&lt;p&gt;Open Fresh Start open Zusätzliche Informationen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/windows-fresh-start.png&quot; alt=&quot;windows fresh start&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Klicken Sie auf Öffnen Sie Get Started unter Fresh Start.&lt;/p&gt;
+
+&lt;p&gt;Klicken Sie auf Start&lt;/p&gt;
+
+&lt;p&gt;Fahren Sie dann fort, um alles zu akzeptieren, was Sie in den Dialogfeldern gefragt werden. Der Laptop wird dann neu gestartet und die Bloatware entfernt. Stellen Sie sicher, dass Sie Ihre Arbeit speichern oder alles sichern, bevor Sie dies versuchen. Du hast jetzt einen sauberen Windows 10 Laptop.&lt;/p&gt;
+
+&lt;p&gt;APPS MANAGER ENTFERNUNGSSOFTWARE&lt;/p&gt;
+
+&lt;p&gt;Meiner Meinung nach ist dies eines der besten Software-Tools, um Windows 10 Bloatware zu entfernen. Es wurde von einem Redakteur empfohlen, der dann mit einer Goldmedaille ausgezeichnet wurde. Es ist eine sehr einfache Software und schnell bei der Entfernung unerwünschter Anwendungen. Sie können es hier herunterladen.&lt;/p&gt;
+
+&lt;p&gt;10appsmanager&lt;/p&gt;
+
+&lt;p&gt;Entpacken Sie die Datei. Öffnen Sie den Ordner. Führen Sie 10AppsManager.exe als Administrator aus. Sobald es geöffnet ist, entfernen Sie die Apps, die Sie nicht möchten. Oder wenn du rebellierst, gibt es die Option Alle entfernen in der rechten unteren Ecke der Anwendung.&lt;/p&gt;
+
+&lt;p&gt;Erledigt! Keine Bloatware mehr. Die Suche nach nicht installierten Apps im Startmenü zeigt keine Ergebnisse an. Du kannst die Apps neu installieren, wenn du willst, aber was bringt es, sie überhaupt zu entfernen?&lt;/p&gt;
+
+&lt;p&gt;TUN SIE ES DURCH WINDOWS POWERSHELL&lt;/p&gt;
+
+&lt;p&gt;Windows PowerShell ist eine aufgabenbasierte Befehlszeilen- und Skriptsprache, die speziell für die Systemadministration entwickelt wurde. Es dient zur Steuerung und Automatisierung der Verwaltung von Windows und Anwendungen, die unter Windows ausgeführt werden.&lt;/p&gt;
+
+&lt;p&gt;Beim Öffnen von PowerShell werden Sie Ähnlichkeiten mit der Eingabeaufforderung feststellen, aber sie sind nicht identisch. Der Unterschied besteht darin, dass PowerShell objektorientiert ist und die Eingabeaufforderung auf Zeichenketten basiert. Objektorientiert im Sinne von Daten wird zum Objekt und kann Daten und Funktionen beinhalten. Es ist, als würde man ein Auto bauen und ihm einen Motor geben. Zeichenkettenbasierte Programme konzentrieren sich auf Zeichen, entweder als Konstanten oder Variablen.&lt;/p&gt;
+
+&lt;p&gt;Starten von Windows PowerShell&lt;/p&gt;
+
+&lt;p&gt;Aber ich schreibe, hier ist, wie man Bloatware mit Windows PowerShell deinstalliert. Geben Sie nach dem Öffnen einen der Befehle ein, um unerwünschte Bloatware loszuwerden.&lt;/p&gt;</content><author><name></name></author><summary type="html">Mit unserer Hilfe, entfernen Sie die lästigen vorintallierten Windows 10 Apps von Ihrem persönlichen Laptop.</summary></entry><entry><title type="html">Laptop für die Buchhaltung [Rechnungswesen PC]</title><link href="http://localhost:4000/laptop-buchhaltung" rel="alternate" type="text/html" title="Laptop für die Buchhaltung [Rechnungswesen PC]" /><published>2019-03-27T16:20:19+01:00</published><updated>2019-03-27T16:20:19+01:00</updated><id>http://localhost:4000/laptop</id><content type="html" xml:base="http://localhost:4000/laptop-buchhaltung">&lt;p&gt;Wir kennen das Problem. Ein Laptop für die Buchführung muss her. Welcher ist bei all den Angeboten der richtige für mich und auf was muss
 ich überhaupt achten, wenn der Laptop für die Buchführung geeignet sein soll.&lt;/p&gt;
 
 &lt;p&gt;Kann ich nicht einfach irgendeinen kaufen? Buchführung wird ja wohl jeder schaffen.&lt;/p&gt;
