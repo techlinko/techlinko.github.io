@@ -130,14 +130,26 @@ Nachdem man das Rechnungswesen auf dem Laptop erledigt hat, hat man auf Knopfdru
 
 Der Laptop ist einfacht zu transportieren. Er wiegt 1,2 KG. Diesen Laptop könnt ihr überallhin mitnehmen. Es spielt keine Rolle, ob ihr auf einer Geschäftsreise unterwegs seid oder ob einfach ein ganz normaler Tag im Büro ansteht. Außerdem ist die Akkulaufzeit beeindruckend. Man ist in der Lage, mindestens 8-9 Stunden bei gleichbleibender Nutzung zu arbeiten.
 
-Die Akkulaufzeit könnte besser sein, wenn dieses Modell ein 1080p-Display hätte. Der Kompromiss ist das 4K (3840 x 2160) Touchscreen-Display mit dünnen Lünetten. 4K-Displays haben immer die beste Farbgenauigkeit, Reproduktion, Sättigung und Lebendigkeit. Alles auf dem Display sieht scharf und knusprig aus. Und die Helligkeit dieses Modells ist hoch. 
+Der Dell XPS 13 wird von einem 8565U Quadcore CPU angebtrieben. Hervorragend geeignet für mehrere Anwendungen gleichzeitig, was für die Buchhaltung sehr wichtig ist.
+Ein anderer riesen Vorteil, man kann die Lüfter nun steuern. Nicht über die die Hardware selbst, aber über die Software. Es gibt im Dell Power Manager ein sogenanntes Thermal Management. Darüber lässt es sich dann einstellen, wie die Lüfter laufen sollen.
+
+Beim 1080p Display ist die Batterie Laufzeit natürlich etwas besser als bei dem 4K Modell. Das 4K (3840 x 2160) Touchscreen-Display bietet jedoch ein etwas schärferes Bild. 4K-Displays haben immer die beste Farbgenauigkeit, Reproduktion, Sättigung und Lebendigkeit. Alles auf dem Display sieht scharf und knusprig aus. Und die Helligkeit dieses Modells ist sehr hoch. Für die Buchhaltung empfehlen wir trotzdem das 1080p Model, da hier die Akku Laufzeit eine wichtigere Rolle spielt.
+
 
 In Sachen Leistung wird der Dell XPS 13 von einem 8. Gen Intel Core i7 und 8GB RAM angetrieben. Der Intel i7 ist ein leistungsstarker Quad-Core-Prozessor, der in der Lage sein wird, große Microsoft Word- und Excel-Dateien zu verarbeiten.
 
-Die 256 GB PCIe SSD verfügt über schnelle Lese-/Schreibgeschwindigkeiten für schnelle Bootgeschwindigkeiten und das Öffnen von Anwendungen. Diese Hardwarekombination macht den Dell XPS 13 zu einem leistungsstarken Laptop.
+Die 256 GB PCIe SSD verfügt über schnelle Lese-/Schreibgeschwindigkeiten für schnelle Bootgeschwindigkeiten und das schnelle Öffnen von Anwendungen. Diese Hardwarekombination macht den Dell XPS 13 zu einem leistungsstarken Laptop.
 
-Dennoch ist das Dell XPS 13 eine Schönheit und ein Tier, das Ihre Buchhaltungs- und Finanzanforderungen erfüllen kann. Mit Sicherheit einer der besten Laptops für Buchhaltung und Quickbooks.
+<h3>Fazit</h3>
 
+Dennoch ist das Dell XPS 13 eine Schönheit und ein toller Begleiter, welcher die Buchhaltungs- und Finanzanforderungen erfüllen kann. Mit Sicherheit einer der besten Laptops für Buchhaltung inkl Excel.
+
+
+<ul>  
+<li>tolles Display</li>
+<li>sehr angehmene Tastaur</li>
+<li>starke Akku Laufzeit</li>
+</ul>
 
 
 <br>
