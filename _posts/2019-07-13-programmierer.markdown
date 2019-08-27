@@ -127,7 +127,7 @@ Vier Thunderbolt 3 (USB-C) Anschlüsse
 
 
 
-<h2>Microsoft Surface Buch 2</h2>
+<h2>Microsoft Surface 2</h2>
 
 Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller kompilieren als die meisten Laptops da draußen.
 
