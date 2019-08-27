@@ -43,9 +43,23 @@ Fange wir an:
 
 <h2>Dell XPS 15</h2>
 
+Der Dell XPS 15, ist ein tolles Gerät. Allerdings ist es ein 15 Zoll Laptop, was natürlich den Transport etwas schwieriger macht als bei dem 13er Modell. Wenn also der Transport das wichtigste für das Programmieren ist, reicht auch vielleicht das Modell mit den 13 Zoll.
+
+An der linken Seiten, findet man den Power Connector, einen USB 3.1 Anschluss, einen HDMI Anschluss, einen Thunderbolt Anschluss sowie eine Buchse für eure Kopfhörer. Auf der rechten Seite finden wir Dells Berühmte Batterieanzeige, einen Lock sowie einen Speicherkartenslot. Außerdem gibt es noch einen USB-A Anschluss.
+
+Die Farben sind sehr lebhaft. Die Tastatur ist sehr angenehmen zu nutzen. Das Trackpad ist super riesig, es ist also genug Platz vorhanden um es angenehmen zu nutzen.
+Es ist ein Infinity Edge Display, allerdings sieht man minimal den Rand. Das schöne ist, den USB-C Anschluss kann man auch mit sog. Power Ladegeräten nutzen. 
+
+Die Webcam ist jetzt oben angebracht anstatt unten. Unserer Meinung viel besser.
+
+<img src="/dell-xps-15-tastatur.png" alt="dell xps 15 laptop tastatur">
+
+
 Das Dell XPS 15 ist ein gutes Gleichgewicht zwischen Leistung, Qualität und Wert. Die Spezifikationen machen es zu einem ausgezeichneten Programmier- und Gaming-Laptop, der auch mit Linux kompatibel ist. Der Dell XPS ist der perfekte Laptop für Programmierer und Computerschüler.
 
-Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um Code zu kompilieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.
+Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um zu programmieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.
+
+<img src="/dell-xps-15-vorderansicht.png" alt="dell xps 15 laptop vorderansicht">
 
 Es verfügt über eine hintergrundbeleuchtete und gut abgegrenzte Tastatur, mit der Sie sehr schnell und effizient tippen können, aber es fehlt ein Ziffernblock. Die Akkulaufzeit ist sehr gut und beträgt bei normalem Gebrauch durchschnittlich etwa 11 Stunden.
 
