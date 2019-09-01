@@ -78,7 +78,9 @@ Die Displays sollten eine Auflösung von mindestens Full HD (1920 x 1080) aufwei
 
 Für ein reibungsloses Multitasking werden mindestens 8 GB RAM benötigt. Etwas weniger und der Laptop wird Anwendungen nur mit viel Mühe öffnen können. 8GB RAM sind allerdings ausreichend. So kann man problemlos mehrere Tabellenkalkulationen öffnen.
 
-Das letzte ist die Tastatur. Da man oft Nummern eintippen wird, ist es ein Muss, eine angenehme Tastatur zu haben. Das erleichtert die Arbeit an den Fingern und sorgt für ein komfortables Tipperlebnis.
+Das letzte ist die Tastatur. Anders als beim <a href="/laptop-programmierer">Laptop für Programmierer</a>, wird man oft Zahlen eintippen.
+
+Da ist es ein Muss, eine angenehme Tastatur zu haben. Das erleichtert die Arbeit an den Fingern und sorgt für ein komfortables Tipperlebnis.
 
 <h2>Sollte ich einen Mac für Buchhaltung, Finanzen und Schnellbücher kaufen?</h2>
 
