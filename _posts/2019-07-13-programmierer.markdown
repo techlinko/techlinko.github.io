@@ -181,6 +181,7 @@ Intel HD Grafikkarte
 256 GB SSD
 3 x USB 3.1 Gen 1 (1 mit PowerShare), 1 x USB Typ-C, 1 x HDMI 1.4, 1 x Gigabit Ethernet, Headset/Mikrofon Combo Buchse
 
+<img src="acer-swift-programmierer.png" alt="acer swift fuer programmierer">
 
 <h2>Acer Swift 3</h2>
 
