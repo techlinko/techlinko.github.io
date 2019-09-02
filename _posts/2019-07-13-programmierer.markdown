@@ -129,7 +129,19 @@ Vier Thunderbolt 3 (USB-C) Anschlüsse
 
 <h2>Microsoft Surface 2</h2>
 
-Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller kompilieren als die meisten Laptops da draußen.
+<img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
+
+Das Microsoft Surface 2 Notebook ist ziemlich einzigartig. Der Bildschirm ist sehr hell und scharf, hier gibt es nichts zu beanstanden.
+Das schöne bei diesem Laptop ist. Sollte man mal eine Pause vom Programmieren benötigen, so läuft das ein oder andere Spiel auch ziemlich gut.
+
+<img src="/microsoft-surface-2-bildschirm.png" alt="bildschirm microsoft surface 2">
+
+Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. 
+Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller verfassen als die meisten Laptops da draußen.
+
+Ein weiteres Feature was sehr gut ist, ist die Webcam. Einer der Besten die wir bis jetzt bei einem Laptop gesehen haben.
+
+<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
 
 Die Leistung ist erstklassig. Ein 8. Gen Quad-Core i7, 16 GB RAM und eine 256 GB SSD als Speicher. Es hat auch eine GTX 1060 Grafikkarte, die es Ihnen ermöglicht, ernsthaft zu spielen. Sie können Overwatch, PlayerUnknown's Battlegrounds und Fortnite sehr einfach ausführen und gleichzeitig für einige arbeitsbezogene Aufgaben geeignet sein.
 
@@ -137,14 +149,16 @@ Die Akkulaufzeit beträgt durchschnittlich 7-8 Stunden. Auf Laptops mit einer le
 
 Das Microsoft Surface Book 2 verfügt über eine leistungsstarke Hardware, die es ideal für anspruchsvolle Aufgaben macht. Holen Sie sich das Microsoft Surface Book 2 nur, wenn Sie möchten, dass einer der besten und leistungsfähigsten Laptops unterwegs Code kompiliert.
 
-SPEZIFIKATIONEN
-Intel Core i7 8. Gen 8650U (1,90 GHz)
-15.0″ Touchscreen PixelSense (3240 x 2160) Display
-NVIDIA GeForce GTX 1060 GTX 1060
-16 GB RAM
-512 GB PCIe SSD PCIe SSD
-2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss
+<h3>SPEZIFIKATIONEN</h3>
 
+<ul>
+<li>Intel Core i7 8. Gen 8650U (1,90 GHz)</li>
+<li>15.0″ Touchscreen PixelSense (3240 x 2160) Display</li>
+<li>NVIDIA GeForce GTX 1060 GTX 1060</li>
+<li>16 GB RAM</li>
+<li>512 GB PCIe SSD PCIe SSD</li>
+<li>2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss</li>
+</ul>
 
 <h2>Dell Latitude 7490</h2>
 
