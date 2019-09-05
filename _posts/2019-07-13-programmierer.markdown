@@ -69,15 +69,16 @@ Der Dell XPS 15 ist ein leistungsstarker, leichter Laptop, der nicht nur für di
 <a href="/laptop-buchhaltung">Laptop für die Buchhaltung</a>
 
 
-SPEZIFIKATIONEN
+<h3>SPEZIFIKATIONEN</h3>
 
-Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache
-15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display
-NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
-16GB 2666MHz DDR4 SDRAM mit 2666MHz
-256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk
-1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser
-
+<ul>
+<li>Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache</li>
+<li>15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display</li>
+<li>NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5</li>
+<li>16GB 2666MHz DDR4 SDRAM mit 2666MHz</li>
+<li>256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk</li>
+<li>1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser</li>
+</ul>
 
 <img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
 
@@ -93,14 +94,16 @@ Die Tastatur ist auch eine der besten da draußen. Es gibt kein Ziffernblock weg
 
 Auf der Gewichtsseite wiegt das Dell XPS 13 fast 2,65 Pfund. 
 	
-SPEZIFIKATIONEN
+<h3>SPEZIFIKATIONEN</h3>
 
-8. Gen Intel Quad Core i7-8550U 1,80 GHz
-13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display
-Intel HD Grafikkarte
-16 GB RAM
-512GB PCIe SSD PCIe SSD
-ThunderBolt 3 USB-C
+<ul>
+<li>8. Gen Intel Quad Core i7-8550U 1,80 GHz</li>
+<li>13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display</li>
+<li>Intel HD Grafikkarte</li>
+<li>16 GB RAM</li>
+<li>512GB PCIe SSD PCIe SSD</li>
+<li>ThunderBolt 3 USB-C</li>
+</ul>
 
 <img src="/macbook-pro-programmierer-laptop.png" alt="macbook pro laptop fuer programmierer">
 
@@ -117,14 +120,16 @@ Das MacBook Pro verfügt über vier Thunderbolt 3 Anschlüsse, über die Sie hoc
 Zusammenfassend lässt sich sagen, dass es eines der besten Apple-Laptops für die Programmierung ist, was es nicht nur für Programmierer zu einer guten Option macht.
 
 
-SPEZIFIKATIONEN
-6-Kern Intel Core i7 Prozessor der 8. Generation
-15.4 " Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie
-16 GB RAM
-Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher
-512 GB SSD
-Vier Thunderbolt 3 (USB-C) Anschlüsse
+<h3>SPEZIFIKATIONEN</h3>
 
+<ul>
+<li>6-Kern Intel Core i7 Prozessor der 8. Generation</li>
+<li>15.4 " Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie</li>
+<li>16 GB RAM</li>
+<li>Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher</li>
+<li>512 GB SSD</li>
+<li>Vier Thunderbolt 3 (USB-C) Anschlüsse</li>
+</ul>
 
 
 <h2>Microsoft Surface 2</h2>
