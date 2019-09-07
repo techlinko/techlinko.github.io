@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-26T12:30:53+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Smart TV Vorteile [Sind die es Wert?]</title><link href="http://localhost:4000/smart-tv-vorteile" rel="alternate" type="text/html" title="Smart TV Vorteile [Sind die es Wert?]" /><published>2019-08-09T11:10:00+02:00</published><updated>2019-08-09T11:10:00+02:00</updated><id>http://localhost:4000/smart</id><content type="html" xml:base="http://localhost:4000/smart-tv-vorteile">&lt;p&gt;Smart TVs sind viel mehr als normale Fernseher.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-07T17:07:32+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Smart TV Vorteile [Sind die es Wert?]</title><link href="http://localhost:4000/smart-tv-vorteile" rel="alternate" type="text/html" title="Smart TV Vorteile [Sind die es Wert?]" /><published>2019-08-09T11:10:00+02:00</published><updated>2019-08-09T11:10:00+02:00</updated><id>http://localhost:4000/smart</id><content type="html" xml:base="http://localhost:4000/smart-tv-vorteile">&lt;p&gt;Smart TVs sind viel mehr als normale Fernseher.&lt;/p&gt;
 
 &lt;p&gt;Warum?&lt;/p&gt;
 
@@ -243,7 +243,9 @@ Buchführung ist, hat man automatisch auch die Möglichkeit Spiele zu spielen od
 
 &lt;p&gt;Für ein reibungsloses Multitasking werden mindestens 8 GB RAM benötigt. Etwas weniger und der Laptop wird Anwendungen nur mit viel Mühe öffnen können. 8GB RAM sind allerdings ausreichend. So kann man problemlos mehrere Tabellenkalkulationen öffnen.&lt;/p&gt;
 
-&lt;p&gt;Das letzte ist die Tastatur. Da man oft Nummern eintippen wird, ist es ein Muss, eine angenehme Tastatur zu haben. Das erleichtert die Arbeit an den Fingern und sorgt für ein komfortables Tipperlebnis.&lt;/p&gt;
+&lt;p&gt;Das letzte ist die Tastatur. Anders als beim &lt;a href=&quot;/laptop-programmierer&quot;&gt;Laptop für Programmierer&lt;/a&gt;, wird man oft Zahlen eintippen.&lt;/p&gt;
+
+&lt;p&gt;Da ist es ein Muss, eine angenehme Tastatur zu haben. Das erleichtert die Arbeit an den Fingern und sorgt für ein komfortables Tipperlebnis.&lt;/p&gt;
 
 &lt;h2&gt;Sollte ich einen Mac für Buchhaltung, Finanzen und Schnellbücher kaufen?&lt;/h2&gt;
 
@@ -958,13 +960,48 @@ Der Lenovo Legion hat das Zeug zum WOW-Spiel auf hohem Niveau und dank seines He
 
 &lt;p&gt;Fange wir an:&lt;/p&gt;
 
+&lt;h2&gt;Macbook Air&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/macbook-air-2018.jpg&quot; alt=&quot;macbook air 2018 von oben&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Die Tastatur für Programmierer&lt;/h3&gt;
+
+&lt;p&gt;Das Macbook Air wurde oft wegen der neuen Tastatur kritisiert. Allerdings konnten wir keinerlei Probleme feststelle. Im Gegenteil, nach einigen Wochen Nutzung ist es so, dass wir die Tastatur gegenüber der alten Bevorzugen. Sie ist leicht zu tippen und der Sound ist irgendwie einalig. Gerade für Programmierer wichtig.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/macbook-air-tastatur.jpg&quot; alt=&quot;macbook air 2018 tastatur&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Der Akku&lt;/h3&gt;
+
+&lt;p&gt;Der Akku ist einfach unglaublich. Bei normaler Nutzung sinc ca. 7-8 Stunden drin. Das schaffen sehr weniger Laptops. Wenn man eine Website entwickelt, oder WordPress Plugins programmieren möchte, nutzt einem jede Minute.&lt;/p&gt;
+
+&lt;p&gt;Gegenüber dem alten Macbook Air, hat das neue Model vor allem einen verbesserten Bildschirm.
+Mit einer Retina Auflösung und einem superscharfen udn hellen Display fällt das Programmieren leicht. Auch die dünnen Ränder am Macbook Air sind sehr schön anzusehen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/macbook-air-display.jpg&quot; alt=&quot;macbook air 2018 display&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Vorteil beim Macbook Air ist für viele Programmierer klar, viele Applikationen sind 
+unter Mac OS verfügbar die für Windows nicht verfügbar sind. Die Installation von beispielsweise Jeykll ist hier nur ein Beispiel.&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/dell-xps15-programmierer-laptop.png&quot; alt=&quot;dell xps 15 laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Dell XPS 15&lt;/h2&gt;
 
+&lt;p&gt;Der Dell XPS 15, ist ein tolles Gerät. Allerdings ist es ein 15 Zoll Laptop, was natürlich den Transport etwas schwieriger macht als bei dem 13er Modell. Wenn also der Transport das wichtigste für das Programmieren ist, reicht auch vielleicht das Modell mit den 13 Zoll.&lt;/p&gt;
+
+&lt;p&gt;An der linken Seiten, findet man den Power Connector, einen USB 3.1 Anschluss, einen HDMI Anschluss, einen Thunderbolt Anschluss sowie eine Buchse für eure Kopfhörer. Auf der rechten Seite finden wir Dells Berühmte Batterieanzeige, einen Lock sowie einen Speicherkartenslot. Außerdem gibt es noch einen USB-A Anschluss.&lt;/p&gt;
+
+&lt;p&gt;Die Farben sind sehr lebhaft. Die Tastatur ist sehr angenehmen zu nutzen. Das Trackpad ist super riesig, es ist also genug Platz vorhanden um es angenehmen zu nutzen.
+Es ist ein Infinity Edge Display, allerdings sieht man minimal den Rand. Das schöne ist, den USB-C Anschluss kann man auch mit sog. Power Ladegeräten nutzen.&lt;/p&gt;
+
+&lt;p&gt;Die Webcam ist jetzt oben angebracht anstatt unten. Unserer Meinung viel besser.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dell-xps-15-tastatur.png&quot; alt=&quot;dell xps 15 laptop tastatur&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Das Dell XPS 15 ist ein gutes Gleichgewicht zwischen Leistung, Qualität und Wert. Die Spezifikationen machen es zu einem ausgezeichneten Programmier- und Gaming-Laptop, der auch mit Linux kompatibel ist. Der Dell XPS ist der perfekte Laptop für Programmierer und Computerschüler.&lt;/p&gt;
 
-&lt;p&gt;Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um Code zu kompilieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.&lt;/p&gt;
+&lt;p&gt;Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um zu programmieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/dell-xps-15-vorderansicht.png&quot; alt=&quot;dell xps 15 laptop vorderansicht&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Es verfügt über eine hintergrundbeleuchtete und gut abgegrenzte Tastatur, mit der Sie sehr schnell und effizient tippen können, aber es fehlt ein Ziffernblock. Die Akkulaufzeit ist sehr gut und beträgt bei normalem Gebrauch durchschnittlich etwa 11 Stunden.&lt;/p&gt;
 
@@ -973,14 +1010,16 @@ Der Lenovo Legion hat das Zeug zum WOW-Spiel auf hohem Niveau und dank seines He
 &lt;p&gt;Übrigens, falls Sie einen Laptop für andere Dinge benötigen, haben wir ebenfalls Tipps zu einem 
 &lt;a href=&quot;/laptop-buchhaltung&quot;&gt;Laptop für die Buchhaltung&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;SPEZIFIKATIONEN&lt;/p&gt;
+&lt;h3&gt;SPEZIFIKATIONEN&lt;/h3&gt;
 
-&lt;p&gt;Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache
-15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display
-NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
-16GB 2666MHz DDR4 SDRAM mit 2666MHz
-256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk
-1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache&lt;/li&gt;
+&lt;li&gt;15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display&lt;/li&gt;
+&lt;li&gt;NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5&lt;/li&gt;
+&lt;li&gt;16GB 2666MHz DDR4 SDRAM mit 2666MHz&lt;/li&gt;
+&lt;li&gt;256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk&lt;/li&gt;
+&lt;li&gt;1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/dell-xps13-programmierer-laptop.png&quot; alt=&quot;dell xps 13 laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
 
@@ -996,16 +1035,16 @@ NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5
 
 &lt;p&gt;Auf der Gewichtsseite wiegt das Dell XPS 13 fast 2,65 Pfund.&lt;/p&gt;
 
-&lt;p&gt;SPEZIFIKATIONEN&lt;/p&gt;
+&lt;h3&gt;SPEZIFIKATIONEN&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Gen Intel Quad Core i7-8550U 1,80 GHz
-13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display
-Intel HD Grafikkarte
-16 GB RAM
-512GB PCIe SSD PCIe SSD
-ThunderBolt 3 USB-C&lt;/li&gt;
-&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;8. Gen Intel Quad Core i7-8550U 1,80 GHz&lt;/li&gt;
+&lt;li&gt;13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display&lt;/li&gt;
+&lt;li&gt;Intel HD Grafikkarte&lt;/li&gt;
+&lt;li&gt;16 GB RAM&lt;/li&gt;
+&lt;li&gt;512GB PCIe SSD PCIe SSD&lt;/li&gt;
+&lt;li&gt;ThunderBolt 3 USB-C&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/macbook-pro-programmierer-laptop.png&quot; alt=&quot;macbook pro laptop fuer programmierer&quot; /&gt;&lt;/p&gt;
 
@@ -1021,17 +1060,32 @@ ThunderBolt 3 USB-C&lt;/li&gt;
 
 &lt;p&gt;Zusammenfassend lässt sich sagen, dass es eines der besten Apple-Laptops für die Programmierung ist, was es nicht nur für Programmierer zu einer guten Option macht.&lt;/p&gt;
 
-&lt;p&gt;SPEZIFIKATIONEN
-6-Kern Intel Core i7 Prozessor der 8. Generation
-15.4 “ Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie
-16 GB RAM
-Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher
-512 GB SSD
-Vier Thunderbolt 3 (USB-C) Anschlüsse&lt;/p&gt;
+&lt;h3&gt;SPEZIFIKATIONEN&lt;/h3&gt;
 
-&lt;h2&gt;Microsoft Surface Buch 2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;6-Kern Intel Core i7 Prozessor der 8. Generation&lt;/li&gt;
+&lt;li&gt;15.4 &quot; Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie&lt;/li&gt;
+&lt;li&gt;16 GB RAM&lt;/li&gt;
+&lt;li&gt;Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher&lt;/li&gt;
+&lt;li&gt;512 GB SSD&lt;/li&gt;
+&lt;li&gt;Vier Thunderbolt 3 (USB-C) Anschlüsse&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller kompilieren als die meisten Laptops da draußen.&lt;/p&gt;
+&lt;h2&gt;Microsoft Surface 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;microsoft-surface-2.png&quot; alt=&quot;microsoft-surface 2 fuer programmierer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Microsoft Surface 2 Notebook ist ziemlich einzigartig. Der Bildschirm ist sehr hell und scharf, hier gibt es nichts zu beanstanden.
+Das schöne bei diesem Laptop ist. Sollte man mal eine Pause vom Programmieren benötigen, so läuft das ein oder andere Spiel auch ziemlich gut.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/microsoft-surface-2-bildschirm.png&quot; alt=&quot;bildschirm microsoft surface 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. 
+Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller verfassen als die meisten Laptops da draußen.&lt;/p&gt;
+
+&lt;p&gt;Ein weiteres Feature was sehr gut ist, ist die Webcam. Einer der Besten die wir bis jetzt bei einem Laptop gesehen haben.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;microsoft-surface-2-komplett.png&quot; alt=&quot;microsoft-surface-2 fuer programmierer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Die Leistung ist erstklassig. Ein 8. Gen Quad-Core i7, 16 GB RAM und eine 256 GB SSD als Speicher. Es hat auch eine GTX 1060 Grafikkarte, die es Ihnen ermöglicht, ernsthaft zu spielen. Sie können Overwatch, PlayerUnknown’s Battlegrounds und Fortnite sehr einfach ausführen und gleichzeitig für einige arbeitsbezogene Aufgaben geeignet sein.&lt;/p&gt;
 
@@ -1039,13 +1093,16 @@ Vier Thunderbolt 3 (USB-C) Anschlüsse&lt;/p&gt;
 
 &lt;p&gt;Das Microsoft Surface Book 2 verfügt über eine leistungsstarke Hardware, die es ideal für anspruchsvolle Aufgaben macht. Holen Sie sich das Microsoft Surface Book 2 nur, wenn Sie möchten, dass einer der besten und leistungsfähigsten Laptops unterwegs Code kompiliert.&lt;/p&gt;
 
-&lt;p&gt;SPEZIFIKATIONEN
-Intel Core i7 8. Gen 8650U (1,90 GHz)
-15.0″ Touchscreen PixelSense (3240 x 2160) Display
-NVIDIA GeForce GTX 1060 GTX 1060
-16 GB RAM
-512 GB PCIe SSD PCIe SSD
-2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss&lt;/p&gt;
+&lt;h3&gt;SPEZIFIKATIONEN&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intel Core i7 8. Gen 8650U (1,90 GHz)&lt;/li&gt;
+&lt;li&gt;15.0″ Touchscreen PixelSense (3240 x 2160) Display&lt;/li&gt;
+&lt;li&gt;NVIDIA GeForce GTX 1060 GTX 1060&lt;/li&gt;
+&lt;li&gt;16 GB RAM&lt;/li&gt;
+&lt;li&gt;512 GB PCIe SSD PCIe SSD&lt;/li&gt;
+&lt;li&gt;2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2&gt;Dell Latitude 7490&lt;/h2&gt;
 
@@ -1067,6 +1124,8 @@ Intel HD Grafikkarte
 16 GB RAM
 256 GB SSD
 3 x USB 3.1 Gen 1 (1 mit PowerShare), 1 x USB Typ-C, 1 x HDMI 1.4, 1 x Gigabit Ethernet, Headset/Mikrofon Combo Buchse&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;acer-swift-programmierer.png&quot; alt=&quot;acer swift fuer programmierer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Acer Swift 3&lt;/h2&gt;
 

@@ -39,6 +39,29 @@ Wie man den besten Laptop für die Programmierung finden möchte, sollte man sic
 
 Fange wir an:
 
+<h2>Macbook Air</h2>
+
+<img src="/macbook-air-2018.jpg" alt="macbook air 2018 von oben">
+
+<h3>Die Tastatur für Programmierer</h3>
+
+Das Macbook Air wurde oft wegen der neuen Tastatur kritisiert. Allerdings konnten wir keinerlei Probleme feststelle. Im Gegenteil, nach einigen Wochen Nutzung ist es so, dass wir die Tastatur gegenüber der alten Bevorzugen. Sie ist leicht zu tippen und der Sound ist irgendwie einalig. Gerade für Programmierer wichtig.
+
+<img src="/macbook-air-tastatur.jpg" alt="macbook air 2018 tastatur">
+
+<h3>Der Akku</h3>
+
+Der Akku ist einfach unglaublich. Bei normaler Nutzung sinc ca. 7-8 Stunden drin. Das schaffen sehr weniger Laptops. Wenn man eine Website entwickelt, oder WordPress Plugins programmieren möchte, nutzt einem jede Minute.
+
+Gegenüber dem alten Macbook Air, hat das neue Model vor allem einen verbesserten Bildschirm.
+Mit einer Retina Auflösung und einem superscharfen udn hellen Display fällt das Programmieren leicht. Auch die dünnen Ränder am Macbook Air sind sehr schön anzusehen.
+
+<img src="/macbook-air-display.jpg" alt="macbook air 2018 display">
+
+Der Vorteil beim Macbook Air ist für viele Programmierer klar, viele Applikationen sind 
+unter Mac OS verfügbar die für Windows nicht verfügbar sind. Die Installation von beispielsweise Jeykll ist hier nur ein Beispiel.
+
+
 <img src="/dell-xps15-programmierer-laptop.png" alt="dell xps 15 laptop fuer programmierer">
 
 <h2>Dell XPS 15</h2>
