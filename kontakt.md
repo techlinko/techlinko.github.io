@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-Für alle Anfragen rund um unseren Blog. Techlinko ist ein Blog der auschließglich als Hobby betrieben wird.
+Für alle Anfragen rund um unseren Blog. Techlinko ist ein Blog der auschließlich als Hobby betrieben wird.
 
 <form action="https://formspree.io/mwkeynjb" method="POST">
     <div>
