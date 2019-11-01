@@ -16,11 +16,11 @@ Für alle Anfragen rund um unseren Blog. Techlinko ist ein Blog der auschließgl
         <input type="email" id="mail" />
     </div>
     <div>
-        <label for="msg">Message:</label>
+        <label for="msg">Nahricht:</label>
         <textarea id="msg"></textarea>
     </div>
     
     <div class="button">
-        <button type="submit">Send your message</button>
+        <button type="submit">Senden</button>
     </div>
 </form>
