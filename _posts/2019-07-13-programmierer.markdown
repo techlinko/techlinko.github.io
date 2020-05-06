@@ -12,242 +12,338 @@ excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leic
 
 <h2>10 beste Laptops für Programmierer und Entwickler 2019</h2>
  
-Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
+Die ultimative Checklist der besten Laptops für Programmierer Coder und Entwickler 2020
 
-Und es gibt auch den Fall, dass man neu in der Programmierung oder ein studentischer Programmierer ist. So oder so,Sie kennen vielleicht nicht die Anforderungen, die ein Laptop erfüllen muss, bevor Sie darauf programmieren können.
+Programmierer haben es nicht leicht auf dem heutigen Laptop Markt. Es gibt einfach zu viel Auswahl und man kann schnell überfordert sein mit den ganzen Vor und Nachteilen die uns diese Qual der Wahl bringt. 
 
-Am wichtigsten, weil es mehrere Programmiersprachen gibt, wird jede dieser Sprachen Ihren Laptop anders beeinflussen. Die Zeit für die Kompilierung des Codes mit C++ wird sich von Java unterscheiden. Das Betriebssystem und die Hardware beeinflussen auch die Zeit. 
+Hier ist die gute Nachricht:
+Unser Team hat sich die 10 beliebtesten Laptops auf den Markt getestet und darauf speziell drauf geachtet, dass sie die besonderen Bedürfnisse für Programmierer erfüllen.
 
-So viele Faktoren kommen ins Spiel, weil Programmiersprachen ihre eigenen Anforderungen haben. Glücklicherweise sind die meisten Anforderungen auch ähnlich wie bei anderen Programmiersprachen, was die Sache erleichtert.
+Viele Tests reden zu lange drum herum oder wurden von den Anbietern bezahlt für das bewerben ihrer Produkte.
 
-Um ehrlich zu sein, kann jeder Laptop mit ordentlicher Hardware für die grundlegende Programmierung oder Codierung verwendet werden. Die einzige Ausnahme ist, wenn Sie Spiele, serverseitige Anwendungen, Anwendungen für Windows, Android, MacOS, iOS usw. entwickeln. Dann braucht es mehr. 
-Übrigens, wir schreiben ebenfalls Artikel über Themen wie einen <a href="/laptop-buchhaltung">Laptop für die Buchhaltung.</a>
+Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst  und am Ende dir die Entscheidung abgenommen wurde, welcher denn nun der Richtige für dich ist.
 
-Wie man den besten Laptop für die Programmierung finden möchte, sollte man sich diese Fragen stellen:
-
-<ul>
-<li>Für welche Programmiersprache werden Sie den Laptop verwenden?</li>
-<li>Welches Betriebssystem sollten Sie für die Programmierung verwenden?</li>
-<li>Welche Hardwarekonfiguration benötigen Sie für die Programmierung?</li>
-<li>Benötigen Sie eine dedizierte Grafikkarte zur Programmierung?</li>
-<li>Welche Art von Display ist für Programmierer wichtig?</li>
-<li>Was ist dein Budget?</li>
-</ul>
+Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir das du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. Coding und programmieren ! (du kannst es auch für andere Sachen nachdem programmieren benutzen, das geht uns aber nichts an :) )
 
 
+Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
+<h2>Macbook AIR:</h2>
 
-Fange wir an:
+### Display:
+Fangen wir mit dem Display an. Auf keinen Fall solltest du die Qualität des Displays unterschätzen, da man gerade beim programmieren stunden vor dem Bildschirm verbringt und man keine Lust auf brennende Augen hat.
 
-<h2>Macbook Air</h2>
+Das Macbook Air hat ein unglaublich scharfes Retina Display mit ganzen 4 Millionen Pixeln und einer Auflösung von 2560 x 1600. Der Weißpunkt wird automatisch reguliert dank der True Tone Technologie und passt sich ebenfalls dem Umgebungslicht an. Den Code den du programmierst wird dadurch gestochen scharf und angenehm zu lesen sein.
+
+Wichtig für Programmierer ist auch die Möglichkeit externe Displays zu verbinden. Dank dem Thunderbolt 3 Anschluss (Usb-C) ist dies kein Problem. 4K Monitore können kinderleicht verbunden werden und Übertragungsraten von bis zu 40 Gbit/s ermöglichen eine blitzschnelle und verzögerungsfreie Übertragung! 
 
 <img src="/macbook-air-2018.jpg" alt="macbook air 2018 von oben">
 
-<h3>Die Tastatur für Programmierer</h3>
 
-Das Macbook Air wurde oft wegen der neuen Tastatur kritisiert. Allerdings konnten wir keinerlei Probleme feststelle. Im Gegenteil, nach einigen Wochen Nutzung ist es so, dass wir die Tastatur gegenüber der alten Bevorzugen. Sie ist leicht zu tippen und der Sound ist irgendwie einalig. Gerade für Programmierer wichtig.
+### Tastatur:
+Das Macbook Air hatte die letzten Jahre einen besonders schlechten Ruf durch die sogenannte Butterfly Technologie die in ihrer Tastatur verarbeitet war. Das hat sich aber mit dem aktuellen 2020 Modell geändert! Apple dachte sich alt bewährt - neu entdeckt und greift nun auf die vom Macbook Pro Modell bekannte Scherentechnologie zurück (in Apple Marketing Sprache MAGIC KEYBOARD ) , die mit ihrem 1mm Tastendruck ein angenehmes und vor allem leises  Tippen ermöglicht. 
+Gesonderte Pfeiltasten erleichtern dir das navigieren und programmieren  von Code und Tabellen in Handumdrehen.
 
 <img src="/macbook-air-tastatur.jpg" alt="macbook air 2018 tastatur">
 
-<h3>Der Akku</h3>
 
-Der Akku ist einfach unglaublich. Bei normaler Nutzung sinc ca. 7-8 Stunden drin. Das schaffen sehr weniger Laptops. Wenn man eine Website entwickelt, oder WordPress Plugins programmieren möchte, nutzt einem jede Minute.
+Besonderen Luxus bietet die Hintergrundbeleuchtung der einzelnen Tasten und Apple hat sogar einen Umgebungslichtsensor spendiert, der das Tippen bei wenig Licht erleichtert.
 
-Gegenüber dem alten Macbook Air, hat das neue Model vor allem einen verbesserten Bildschirm.
-Mit einer Retina Auflösung und einem superscharfen udn hellen Display fällt das Programmieren leicht. Auch die dünnen Ränder am Macbook Air sind sehr schön anzusehen.
+Nicht zu vergessen ist das Force Touch Trackpad. Es gilt unter IT Experten zurecht als das beste Trackpad dass zurzeit erhältlich ist und wer es einmal genutzt hat möchte es nicht mehr missen.
+Reagiert auf unterschiedlich starken Druck, höchst präzise, und mit besonders großer Interaktionsfläche für die MacOS typischen Multi-touch Gesten wie auf und zuziehen oder Zoom. 
 
 <img src="/macbook-air-display.jpg" alt="macbook air 2018 display">
 
-Der Vorteil beim Macbook Air ist für viele Programmierer klar, viele Applikationen sind 
-unter Mac OS verfügbar die für Windows nicht verfügbar sind. Die Installation von beispielsweise Jeykll ist hier nur ein Beispiel.
+Dieser hohe Komfort kann alleine schon der Grund sein, warum du dich für einen Mac zum programmieren entscheiden solltest.
+
+
+
+### Akku / Mobilität:
+
+Sieht man sich an den Universitäten der Welt um, erkennt man dass die Mehrheit einen Macbook nutzen und nicht zu letzt wegen den außergewöhnlichen langen Betriebszeiten. 11 Stunden beträgt die Akkulaufzeit für kabelloses surfen mit dem neuen 2020 Modell. 
+
+Das Macbook besteht aus 100% recycletem Aluminium, dass sich sehr edel und modern anfühlt. Das Design des Macbook ist und war schon immer eines der Alleinstellungsmerkmale der Apple Familie. Kombiniert mit einem federleichten Gewicht von nur 1,29 Kg.
+
+### Mobilität auf ganz hohem Niveau ohne nervigem Kabelsalat. 
+
+Gerade Digital-Nomads und welche die es werden wollen legen auf diese Eigenschaften Wert damit sie von überall aus bequem programmieren und designen können :)
+
+### Specs:
+* 13,3" Display (33,78 cm Diagonale) 
+* LED Hintergrund-Beleuchtung  IPS Technologie, 
+* native Auflösung von 2560 x 1600 Pixeln bei 227 ppi
+* Unterstützte skalierte Auflösungen:
+* 1680 x 1050
+* 1440 x 900
+* 1024 x 640
+* 16:10 Seitenverhältnis
+* True Tone Technologie
+
+### Tastatur:
+* Touch ID Sensor, 
+* Passwortgeschützte Daten inklusive Apple Pay Pfeiltasten
+* Hintergrundbeleuchtung und Lichtsensor
+
+### Prozessor:
+* Bis zu 4‑Core Intel Core i7 Prozessor
+
+
+### Festplatte
+* Bis zu 2 TB SSD Festplatte
+
+### Arbeitsspeicher:
+* 8 GB 3733 MHz LPDDR4X (optional 16 GB)
+
+
+### Pro:          ### Con:
+* Design           *Preis
+* Mobilität        *Gaming tauglichkeit
+* Komfort          *Auf MacOS beschränkt (ohne Virtual Machine)
+
+
+## Macbook Pro
+
+Wem das Macbook Air schon gefällt aber noch anspruchsvollere Arbeiten auf Workstation Niveau abliefern will, für den ist das Macbook Pro genau das Richtige.
+
+True Tone Display mit 2560 x1600 in der gleichen Qualität wie bei dem Macbook Air. Die großen Unterschiede finden sich bei dem Innenleben:
+Das Macbook Pro ist nochmal um einiges leistungsstärker und besonders für Game Design von Nutzen da es mit seinem Quad-Core Intel Prozessoren mit Turbo Boost bis 4,7 GHz alles mitbringt was du dafür brauchst. Code programmieren, 3D Modelle rendern, Spezialeffekte hinzufügen und Video codieren auf Profi-Level ist somit kein Problem! 
+
+16GB Arbeitsspeicher erlauben dir mehrere Programme simultan zu nutzen ohne dass dein Workflow ins Stocken gerät!
+
+<img src="/macbook-pro-programmierer-laptop.png" alt="macbook pro laptop fuer programmierer">
+
+Eines der größten Plus-Punkte des Macbook Pro ist die Touch Bar. Du kannst sie ganz nach deinen Bedürfnissen anpassen und so deine Produktivität auf ein noch nie da gewesenes Level transportieren. Du bist nicht nur auf voreingestellte Funktionen beschränkt. Du kannst die Bar so anpassen wie sie dir gefällt und so noch schneller und bequemer arbeiten. So kannst du zum Beispiel eigene Kurzbefehle in deinen Programmier Tools erstellen und in die Touch Bar einsetzen. So sind deine wichtigsten Shortcuts  immer in Reichweite und du kannst dich auf das Coden konzentrieren, anstatt sich immer wieder durch die gleichen Menüs kämpfen zu müssen.
+
+Falls du ein Ipad besitzt kannst du deinen Schreibtisch  vergrößern und dein iPad als 2. Display nutzen dank dem Sidecar feature. Ob du auf beiden parallel programmieren möchtest oder lieber das iPad für deine Spotify Playlist nutzt ist ganz dir überlassen. Ein nettes Feature ist es ohnehin was man nicht missen möchte, wenn man es einmal erlebt hat.
+
+Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde wengier als beim Macbook Air aber das ist der Preis den man für die unglaubliche Leistungssteigerung gerne in Kauf nimmt. Die 1,37Kg Gewicht fallen auch hier kaum ins Gewicht und ich kann für beide Macbook Modelle absolut eine hohe Mobilitätstauglichkeit garantieren!
+
+### SPEZIFIKATIONEN
+* 6-Kern Intel Core i7 Prozessor der 8. Generation
+* 15.4 " Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie
+* 16 GB RAM
+* Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher
+* 512 GB SSD
+* Vier Thunderbolt 3 (USB-C) Anschlüsse
+* Preis: ab 1499 €
+
+
+
+
+## Microsoft Surface Laptop 3
+Es muss nicht immer Apple sein. Besonders bei den Laptops Microsoft ordentlich aufgeholt ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
+
+Wir stellen euch das Surface Laptop 3 vor:
+Für viele zunächst ungewohnt ist das neue Touch Display des Surface Laptop. Es kommt in der 13,5 Zoll Größe daher mit einer Auflösung von 2256 x 1504 (201 PPI). Es ist das einzige Laptop in unserer Zusammenfassung, das ein 3:2 Seitenverhältnis besitzt.
+
+<img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
+
+
+
+
+Programmierer können (sich erstmal daran gewöhnt) vom Touch Display profitieren. Wir haben in unserem Test nach kurzer Zeit festgestellt wie natürlich sich das scrollen und zoomen in unseren coding sessions anfühlt, da es stark an das Gefühl erinnert, dass wir bereits von unseren Smartphones gewohnt sind.
+Einziges Manko, ist die starke Spiegelung des Displays. Das kann besonders beim programmieren im Freien  ein Problem für euch darstellen.
+
+<img src="/microsoft-surface-2-bildschirm.png" alt="bildschirm microsoft surface 2">
+
+
+
+
+
+Die Tastatur Auflage kann auch mit einer einzigartigen Alcantara Auflage bestellt werden, was wir euch garantiert Nahe legen. Die Handballen haben so einen bequemen Platz bekommen und ihr werdet keine Druckpunkte oder Schmerzen in euren Handgelenken bekommen nach einer herausfordernden Programmier Session. Die Auflage bleibt stets angenehm kühl.
+
+Das Design ist kurz und knapp sehr gelungen und hinkt den Macbooks nicht mehr weit hinterher. Ebenfalls die Mobilität wurde auf Apple Niveau gebracht mit einer Akku Laufzeit von 11,5 Stunden ! (das übertrifft sogar das Macbook Air um eine halbe Stunde. Immerhin.)
+
+<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
+
+
+Das Mini-DisplayPort der Vorgänger ist Passe und weicht dem universelleren USB-C Anschluss.  Anschlüsse an externe 4k Displays ist damit kein Problem mehr.
+
+
+Die Konfiguration beginnt bei der 10. Intel Generation i5 , 8 GB Ram und leider nur 128GB SSD Speicher. Da hätten wir uns mehr gewünscht, aber wer mehr Speicher benötigt, kann auf die größeren Modelle mit bis zu 1TB Speichergröße ein Auge werfen.
+
+Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und anspruchsvollere Dienste, raten wir euch auf ein Notebook mit dedizierter Grafikeinheit zurückzugreifen.
+
+
+### Specs:
+* 13,5 Zoll
+* Intel Core Ice Lake 10. Generation i5
+* 8GB Ram
+* 128 SSD Festplatte
+ 
+
+
+## Dell XPS 13
+Dell ist bekannt für jahrelange Erfahrung im IT und Business Bereich. Die Marke verzichtet auf Schnick-Schnack und bietet eine Allround Paket für alle die einen Zeitgerechten Allrounder haben möchten. 
+
+
+<img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
+
+Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und eine besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
+
+Als größtes Manko ist wohl dem Ultrabook anzukreiden, dass es keine dedizierte Grafikkarte zu bieten hat. Falls du also nach dem programmieren noch eine Runde zocken willst, solltest du eher zu unserem Gaming Tipp zugreifen.
+
+Vom größten Manko zum größten Plus Punkt: Der Akku hält satte 15 Stunden im reinen Coding Test und das bedeutet, dass du gute 2 Tage ohne Akku auskommst. Keine Sorge dass du aus deinem Programmier-Flow gerissen wirst!
+
+Wenn du neben programmieren auch nicht auf gaming oder multimedia verzischten willst, dann liess im nächsten Abschnitt weiter über den großen Bruder den Dell XPS 15 !
+
+
+### Specs:
+* Prozessor-Taktfrequenz: 1,8 GHz
+* Prozessorfamilie: Intel Core i7 der achten Generation
+* Anzahl Prozessorkerne: 4
+* RAM-Speicher: 8 GB
+* Interner Speichertyp: LPDDR3-SDRAM
+* RAM-Speicher maximal: 16 GB
+* Bildschirmdiagonale: 33,8 cm (13.3 Zoll)
+* Bildschirmauflösung: 1920 x 1080 Pixel
+* Touchscreen: Nein
+
+### Anschlüsse und Schnittstellen
+
+* USB 3.2 Gen 1 (3.1 Gen 1) Anzahl der Steckplätze vom Typ C: 1
+Preis: 1.478,90 €
+
+
+## Dell XPS 15
+Programmieren abgehakt, warten aufs kompilieren im Hintergrund während du schon Chrome öffnest um auf Twitter deinen  Feed zu checken oder direkt eine Runde zocken auf einem hochscharfen 4k Monitor? 
+Dann bist du hier genau richtig! 
 
 
 <img src="/dell-xps15-programmierer-laptop.png" alt="dell xps 15 laptop fuer programmierer">
 
-<h2>Dell XPS 15</h2>
 
-Der Dell XPS 15, ist ein tolles Gerät. Allerdings ist es ein 15 Zoll Laptop, was natürlich den Transport etwas schwieriger macht als bei dem 13er Modell. Wenn also der Transport das wichtigste für das Programmieren ist, reicht auch vielleicht das Modell mit den 13 Zoll.
 
-An der linken Seiten, findet man den Power Connector, einen USB 3.1 Anschluss, einen HDMI Anschluss, einen Thunderbolt Anschluss sowie eine Buchse für eure Kopfhörer. Auf der rechten Seite finden wir Dells Berühmte Batterieanzeige, einen Lock sowie einen Speicherkartenslot. Außerdem gibt es noch einen USB-A Anschluss.
 
-Die Farben sind sehr lebhaft. Die Tastatur ist sehr angenehmen zu nutzen. Das Trackpad ist super riesig, es ist also genug Platz vorhanden um es angenehmen zu nutzen.
-Es ist ein Infinity Edge Display, allerdings sieht man minimal den Rand. Das schöne ist, den USB-C Anschluss kann man auch mit sog. Power Ladegeräten nutzen. 
+Dell bietet in diesem Modell eines der wenigen 4K Displays mit OLED in diesem Test und wer schonmal im Genuss eines OLED Displays gekommen  ist, weiß was auf ihn zukommt. OLED ist die einzige Display Technologie die ECHTES Schwarz bietet (die einzelnen Pixel schalten sich aus, keine Hintergrundbeleuchtung= real blackness).
 
-Die Webcam ist jetzt oben angebracht anstatt unten. Unserer Meinung viel besser.
+Das kommt dir nicht nur bei deinen Netflix Runden zu Gunsten sondern besonders beim programmieren, wenn du lange Codes vor dir hast und deine Augen schonen willst. Oder noch besser, wenn du allgemein ein Freund des Darkmodes bist und mit weißem Text auf schwarzem Hintergrund arbeitest. Schonender geht es zur Zeit einfach nicht und das wird sich auch in deiner Produktivität wieder spiegeln!
 
 <img src="/dell-xps-15-tastatur.png" alt="dell xps 15 laptop tastatur">
 
 
-Das Dell XPS 15 ist ein gutes Gleichgewicht zwischen Leistung, Qualität und Wert. Die Spezifikationen machen es zu einem ausgezeichneten Programmier- und Gaming-Laptop, der auch mit Linux kompatibel ist. Der Dell XPS ist der perfekte Laptop für Programmierer und Computerschüler.
 
-Der Prozessor ist ein 8. Gen Hexakern i7, 16 GB RAM und eine dedizierte GTX 1050 Ti. Genügend Power, um zu programmieren und Spiele zu spielen, wenn Sie eine Pause vom Schreiben von Code den ganzen Tag einlegen möchten.
+Der Intel Core i7-9750H des XPS 15 ist laut Benchmark sogar schneller als das Gaming Notebook Razer Blade 15 Advanced!
+
+Die verbaute Grafikkarte Geforce GTX 1650 reicht locker aus für genug FPS bei CS:GO , bei grafisch anspruchsvolleren Spielen wie Destiny 2, müssen wir leider die Grafik runterschrauben für ein flüßiges Spielerlebnis. Unserer Meinung aber macht es das gestochen scharfe Bild und schöne Schwarz wieder wett.
+
+Der Preis ist zwar im 2000 € Breich aber es wird sich wohl kaum ein besseres 15,6 Zoll Laptop auf dem Markt finden lassen mit dieser Ausstattung.
 
 <img src="/dell-xps-15-vorderansicht.png" alt="dell xps 15 laptop vorderansicht">
 
-Es verfügt über eine hintergrundbeleuchtete und gut abgegrenzte Tastatur, mit der Sie sehr schnell und effizient tippen können, aber es fehlt ein Ziffernblock. Die Akkulaufzeit ist sehr gut und beträgt bei normalem Gebrauch durchschnittlich etwa 11 Stunden.
+Ganz perfekt ist auch dieser Laptop leider nicht. Das Gewicht mit fast 2 KG und die Akku Laufzeit von 8 Stunden sind die zwei größten Minus Punkte. 
+Im simulierten Alltagstest mittels PCMark 8 Work messen wir  "nur" 6 Stunden.
 
-Der Dell XPS 15 ist ein leistungsstarker, leichter Laptop, der nicht nur für die Programmierung, sondern auch für die Spiele- oder grafikbezogene Softwareentwicklung geeignet ist. Die Tragbarkeit und Akkulaufzeit machen es auch für Studenten der Informatik zu einer guten Option.
-
-Übrigens, falls Sie einen Laptop für andere Dinge benötigen, haben wir ebenfalls Tipps zu einem 
-<a href="/laptop-buchhaltung">Laptop für die Buchhaltung</a>
+Wenn du aber auf ein  4k OLED  Touchscreen nicht verzichten kannst, bist du hier genau richtig.
 
 
-<h3>SPEZIFIKATIONEN</h3>
+### Specs:
+* ProzessorIntel Core i7-8750H (Intel Core i7)
+* Grafikkarte NVIDIA GeForce GTX 1050 Ti Max-Q - 4096 MB, Kerntakt: 1418 MHz, Speichertakt: 1752 MHz, GDDR5, 398.36, Optimus
+* Hauptspeicher16384 MB  
+* DDR 4-2666, Dual-Channel, max. 32 GB
+* Bildschirm 15.6 Zoll 16:9, 3840 x 2160 Pixel 282 PPI, kapazitiv, LQ156D1, IPS, spiegelnd: ja
+* Mainboard Intel CM246
+* MassenspeicherToshiba XG5 KXG50ZNV512G, 512 GB  
+* Gewicht 2.014 kg
 
-<ul>
-<li>Intel Six-Core i7-8750H Prozessor, 2,20GHz Basisfrequenz, bis zu 4,10GHz, 9MB Smartcache</li>
-<li>15.6″ FHD (1920 x 1080) IPS Infinity Edge Blendfrei 100% sRGB 400-Nits Display</li>
-<li>NVIDIA GeForce GTX 1050Ti mit 4GB GDDR5</li>
-<li>16GB 2666MHz DDR4 SDRAM mit 2666MHz</li>
-<li>256 GB M.2 2280 PCIe Solid State Drive, kein optisches Laufwerk</li>
-<li>1 x USB Typ-C, 2 x USB 3.0, 1 x HDMI, 1 x Kopfhörer/Mikrofon Kombianschluss, 1 x Kartenleser</li>
-</ul>
+Preis 2100 Euro
 
-<img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
+## ASUS Asus ZenBook Pro Duo UX581
+Kommen wir zu meinen heimlichen Favoriten der Programmierer Laptops!
+Dir gefiel die Touchbar und das schicke Aluminium Design der MacBooks?
+Die Leistung des Dell XPS hat dich ins grübeln gebracht?
+Du willst auf das Surface und dessen Windows 10 und Microsoft Anbindung nicht missen?
+Du willst einfach ein geiles 4K Laptop das einfach alles kann? 
 
-<h2>Dell XPS 13</h2>
+Such nicht weiter und besorg dir das Asus ZenBook Pro Duo UX581!
+Es besitzt nicht nur ein sondern gleich 2 4K Monitore die die Apple Touch Bar alt aussehen lassen mit dessen Funktionsvielfalt.
 
-Der Dell XPS 13 ist ein großartiger Laptop für Programmierer. Es handelt sich um eine Miniaturversion des Dell XPS 15, jedoch ohne die dazugehörige Grafikkarte oder den Hexakern-Prozessor. Diese Spezifikationen des Dell XPS 13 sind ein 8. Gen i7 Low Power Prozessor, 16 GB RAM und 512 GB SSD.
+Das Screenpad ist nicht mehr nur als Erweiterung zu verstehen sondern praktisch als vollwertigen zweiten Monitor auf den du dank Quick Key komplexe Programmier Tastaturabläufe automatisieren kannst mit einem Tastendruck. Ganze Apps lassen sich auf die Symbolleiste ziehen und erhöhen deinen Workflow wie noch nie zuvor! 
 
-Die durchschnittliche Akkulaufzeit des Dell XPS 13 beträgt 9 Stunden. Das Display ist ein 4K-Touchscreen, der viel Batteriestrom verbraucht. Der 1080p Non-Touchscreen hat eine längere Akkulaufzeit, da er weniger Strom verbraucht. Sie können die 1080p-Version hier erhalten.
+15,6 Zoll 4K UHD OLED. Mehr muss man wohl dazu nicht sagen, es ist einfach atemberaubend. Es ist schon zu schade und fast schon unfair es mit den anderen Laptops zu vergleichen. Daher sieh es nicht nur als Tool zum programmieren, sondern als kompletter Home Office Ersatz, der alle deine Bedürfnisse abdeckt, sei es programmieren / coding, gaming, Multimedia, Videobearbeitung oder Design.
 
-Das Dell XPS 13 fehlt auf der Port-Seite, gleicht es aber mit zwei Thunderbolt 3 Ports aus. Die Thunderbolt 3 Ports ermöglichen es Ihnen, sich mit externen Monitoren zu verbinden, aber Sie benötigen auch eine Dockingstation, um andere Arten von Ports aufzunehmen.
+Apropops Design. Es ist selten, dass Apple hier Konkurrenz bekommt, aber Asus ist es gelungen auch hier die Bestnote einzuheimsen. Der ikonische Spinmetal Finish verleiht dem ZenBook seine unverwechselbare Identität komplett aus Aluminium gefertigt mit glänzenden Kanten im Diamantschliff.
 
-Die Tastatur ist auch eine der besten da draußen. Es gibt kein Ziffernblock wegen des kleinen Rahmens. Die Tasten sind gut abgeteilt und hinterleuchtet.
+Da es immer noch ein Programmierer Blog ist, verlinken wir dir die Intel i7 Version mit 512 GB SSD Speicher und satten 16GB Ram am ende des Textes. 
+Auf Wunsch kannst du sogar eine Intel i9 Variante der 9. Generation und 8 Kernen bestellen mit der neusten Geforce RTX 2060 Grafik. Dann brauchst du absolut keinen weiteren PC mehr, da hiermit wirklich sogar die anspruchsvollsten Programmierer vollkommen zufrieden sein sollten.
+Der Preis beginnt bei 2699 Euro, was wohl das Einzige ist, was wir als Manko ankreiden könnten. Da  aber zur Zeit nichts vergleichbares auf dem Markt angeboten wird und die Qualität wie auch Leistung absolut Zukunftssicher ist, finden wir dass sich solch eine Investition durchaus lohnen kann. 
+Deine Programmierer Fähigkeiten stehen hiermit aufjeden Fall nichts im Wege.
 
-Auf der Gewichtsseite wiegt das Dell XPS 13 fast 2,65 Pfund. 
-	
-<h3>SPEZIFIKATIONEN</h3>
+### Specs:
+* Bis zu Core™i9 Intel® Prozessor der 9. Generation mit 8 Kernen
+* GeForce RTX2060 Grafik in Gaming-Qualität
+* Bis zu 1TB PCIe® x4 SSD
+* Bis zu 32GB DDR4 2666MHz
 
-<ul>
-<li>8. Gen Intel Quad Core i7-8550U 1,80 GHz</li>
-<li>13,3-Zoll-Touchscreen Infinity-Edge 4K UHD (3840×2160) Display</li>
-<li>Intel HD Grafikkarte</li>
-<li>16 GB RAM</li>
-<li>512GB PCIe SSD PCIe SSD</li>
-<li>ThunderBolt 3 USB-C</li>
-</ul>
-
-<img src="/macbook-pro-programmierer-laptop.png" alt="macbook pro laptop fuer programmierer">
-
-<h2>Apple MacBook Pro</h2>
-
-MacBook Pros sind viel benutzerfreundlicher bei der Programmierung, da das Mac OS besser plattformübergreifend kompatibel ist. Es ermöglicht es Ihnen, fast jede Sprache ohne spezielle IDE zu verwenden. Es gibt auch den Fall der Virtual Machine, mit der Sie Windows und Linux zweifach booten können.
-
-Die Verarbeitungsqualität ist auch gut, wenn sie aus einem einzigen Metallblock besteht. Das macht den Laptop sehr lange haltbar. Du kannst hier nachlesen, warum MacBooks eine gute Verarbeitungsqualität haben.
-
-Das Display ist ein 13-Zoll Retina-Display. Das Display ist glänzend, so dass ein Antireflex- oder Blendschutz Ihren Augen auf lange Sicht helfen kann. Es ist auch ein reichhaltiges und helles Display, das farbgenau ist.
-
-Das MacBook Pro verfügt über vier Thunderbolt 3 Anschlüsse, über die Sie hochauflösende Monitore anschließen können. Jeder Programmierer weiß, dass ein Laptop mit einer solchen Funktion von unschätzbarem Wert ist. Sie können mehr erreichen, wenn Sie mehrere Monitore anschließen können.
-
-Zusammenfassend lässt sich sagen, dass es eines der besten Apple-Laptops für die Programmierung ist, was es nicht nur für Programmierer zu einer guten Option macht.
+reis: ab 2.699,00 €
 
 
-<h3>SPEZIFIKATIONEN</h3>
+## Budget Laptop für Programmierer
+Wem das Zenbook viel zu viel ist für seine Bedürfnisse und einfach nach einem günstigen Ultrabook mit einem Top Preis-Leistungs Verhältnis sucht; für den habe ich das LincPlus P1 im Angebot.
 
-<ul>
-<li>6-Kern Intel Core i7 Prozessor der 8. Generation</li>
-<li>15.4 " Brillantes Retina-Display (2880 x 1800) mit True Tone Technologie</li>
-<li>16 GB RAM</li>
-<li>Radeon Pro 560X Grafikkarte mit 4 GB Videospeicher</li>
-<li>512 GB SSD</li>
-<li>Vier Thunderbolt 3 (USB-C) Anschlüsse</li>
-</ul>
+Es besitzt alles was du zum einfachen programmieren brauchst. Unter anderem ein Full HD Display mit der üblichen 1920x1080 Auflösung. die Batterie reicht locker für 8 Stunden aus und unterstützt wird das Gerät von 4 GB Arbeitsspeicher.
 
+Den günstigen Preis merkt man dem LincPlus absolut nicht an, denn es kommt mit einem sehr dünnen und leichtem Aluminium Body daher. Das Design kann absolut mit der höherpreisigen Konkurrenz mithalten.
 
-<h2>Microsoft Surface 2</h2>
+Für den unschlagbaren Preis von nur 279 € können wir das Gerät  Programmierern empfehlen, die eventuell dabei sind ihre ersten Coding Schritte zu machen, oder auch für Leute die ein günstiges Zweitgerät benötigen. Es sollte euch aber bewusst sein dass die Prozessorleistung ( Intel Celeron Gemini N4000-Prozessor ) nicht für Anspruchsvolle Arbeiten ausgelegt ist. 
 
-<img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
+Beim Speicher hätten wir uns auch mehr gewünscht als die mitgelieferten 64GB eMMC. Aufrüstbar auf 512 GB SSD ist es aber falls ihr es wünscht.
 
-Das Microsoft Surface 2 Notebook ist ziemlich einzigartig. Der Bildschirm ist sehr hell und scharf, hier gibt es nichts zu beanstanden.
-Das schöne bei diesem Laptop ist. Sollte man mal eine Pause vom Programmieren benötigen, so läuft das ein oder andere Spiel auch ziemlich gut.
+Specs:
+Bildschirmgröße	13.30 Zoll
+Bildschirmauflösung	1920x1080
+Max. Bildschirmauflösung	1080p Full HD
+Artikelgewicht	1,4 Kg
+Batterie mit 12000mAh (ca. 8 Stunden Laufzeit)
 
-<img src="/microsoft-surface-2-bildschirm.png" alt="bildschirm microsoft surface 2">
-
-Das Microsoft Surface Book 2 ist eines der besten 2-in-1-Laptops für Programmierer. Es hat alles, was Sie für die Programmierung benötigen, außer einem Thunderbolt-Anschluss. 
-Dieser Laptop ist nur für einige ernsthafte Programmier-, Programmier- und Kreativarbeiten gedacht. Das Surface Book 2 wird Code schneller verfassen als die meisten Laptops da draußen.
-
-Ein weiteres Feature was sehr gut ist, ist die Webcam. Einer der Besten die wir bis jetzt bei einem Laptop gesehen haben.
-
-<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
-
-Die Leistung ist erstklassig. Ein 8. Gen Quad-Core i7, 16 GB RAM und eine 256 GB SSD als Speicher. Es hat auch eine GTX 1060 Grafikkarte, die es Ihnen ermöglicht, ernsthaft zu spielen. Sie können Overwatch, PlayerUnknown's Battlegrounds und Fortnite sehr einfach ausführen und gleichzeitig für einige arbeitsbezogene Aufgaben geeignet sein.
-
-Die Akkulaufzeit beträgt durchschnittlich 7-8 Stunden. Auf Laptops mit einer leistungsstarken Grafikkarte wie der GTX 1060 wird diese Art der Akkulaufzeit nicht erreicht, sie halten bestenfalls 4-5 Stunden und einige sogar 3 Stunden. Die hohe Bildschirmauflösung ist ebenfalls eine weitere. Es hat eine beeindruckende Akkulaufzeit für einen Laptop mit sehr leistungsfähiger Hardware.
-
-Das Microsoft Surface Book 2 verfügt über eine leistungsstarke Hardware, die es ideal für anspruchsvolle Aufgaben macht. Holen Sie sich das Microsoft Surface Book 2 nur, wenn Sie möchten, dass einer der besten und leistungsfähigsten Laptops unterwegs Code kompiliert.
-
-<h3>SPEZIFIKATIONEN</h3>
-
-<ul>
-<li>Intel Core i7 8. Gen 8650U (1,90 GHz)</li>
-<li>15.0″ Touchscreen PixelSense (3240 x 2160) Display</li>
-<li>NVIDIA GeForce GTX 1060 GTX 1060</li>
-<li>16 GB RAM</li>
-<li>512 GB PCIe SSD PCIe SSD</li>
-<li>2 x USB Typ-A (Version 3.1 Gen 1), 1 x USB Typ-C (Version 3.1 Gen 1 mit USB Power Delivery Revision 3.0), 2 x Surface Connect Anschlüsse (1 im Tablett, 1 im Boden), 3,5 mm Kopfhöreranschluss, Docking-Anschluss</li>
-</ul>
-
-<h2>Dell Latitude 7490</h2>
-
-Der Dell Latitude ist ein Geschäfts- und Kraftpaket-Laptop. Die CPU ist eine i7-8650U der 8. Generation, die 4 Kerne und 8 Threads, 16 GB Ram und 256 GB SSD hat. Diese Spezifikationen machen es zur perfekten Lösung für den Betrieb einer virtuellen Maschinenbox. 
-
-Sie können den Ram auch auf bis zu 32 GB erweitern, indem Sie den zusätzlichen Ram-Slot nutzen. Dadurch entsteht ein Zweikanalspeicher, der auch die Gesamtleistung des Laptops erhöht und ihn wesentlich zukunftssicherer macht.
-
-Das Display ist 1080p matt, was die Augen durch reduzierte Blendung sehr schont. Auch die Farbgenauigkeit ist hoch. Es deckt etwa 78% des Adobe RGB ab. 
-
-Die Tastatur ist hintergrundbeleuchtet und verfügt über einen angemessenen Tastenhub und -abstand, was das Tippen sehr angenehm macht. Das Trackpad ist auch sehr genau und in der Mitte befindet sich ein TrackPoint mit eigenen Tasten. Insgesamt erhalten Sie ein Trackpad, TrackPoint und vier Maustasten.
-
-Die durchschnittliche Akkulaufzeit beträgt bei normalem Gebrauch ca. 9-10 Stunden. Der Dell Latitude wiegt auch 3,2 Pfund und gehört damit in die Kategorie Ultrabook. Für Ports stehen Ihnen 4 USB-Ports (1 USB 2.0, 3 USB 3.0), Ethernet und HDMI zur Verfügung. Dadurch ist es möglich, es an externe Monitore anzuschließen.
-Der Dell Latitude ist ein großartiger Laptop.
-
-SPEZIFIKATIONEN
-Intel Core i7-8650U Quad-Core 1,7GHz
-14-Zoll 1.920 x 1.080 IPS-Auflösung
-Intel HD Grafikkarte
-16 GB RAM
-256 GB SSD
-3 x USB 3.1 Gen 1 (1 mit PowerShare), 1 x USB Typ-C, 1 x HDMI 1.4, 1 x Gigabit Ethernet, Headset/Mikrofon Combo Buchse
-
-<img src="acer-swift-programmierer.png" alt="acer swift fuer programmierer">
-
-<h2>Acer Swift 3</h2>
-
-Der Acer Swift 3 ist ein Allrounder. Es ist ein hochwertig aussehender Laptop mit einem Aluminiumgehäuse. Man könnte denken, dass ein solcher Build ihn schwer machen wird, aber in Wirklichkeit ist er leicht und wiegt fast 3,53 Pfund. 
-
-Die Tastatur bietet eine hervorragende taktile Rückmeldung, einen langen Hub und eine Hintergrundbeleuchtung. Eine großartige Kombination für das Tippen. Eine gute Tastatur auf einem Laptop ermöglicht es, in kurzer Zeit viel zu tippen und ist komfortabel. 
-
-Für die Leistung wird der Acer Swift von einem 8. Gen Intel i7 mit 8 GB RAM angetrieben und verfügt über eine 256 GB SSD als Speicher. Es verfügt auch über eine dedizierte Grafikkarte MX150. Dies macht ihn zu einem guten Laptop, nicht nur für die Programmierung, sondern auch für einige leichte Spiele. 
-
-Das Display ist ein 14 Zoll Full HD IPS (Inplane Switching). Der einzige Nachteil des Displays ist die Tatsache, dass es glänzend ist. Dies macht Blendung zu einem echten Problem, aber dem kann entgegengewirkt werden, indem man einen Blendschutz erhält.
-
-Für die Akkulaufzeit hält der Acer Swift 3 bei normalem Gebrauch durchschnittlich 8 Stunden. Es gibt auch eine anständige Auswahl an Ports 2 x USB 3.0, 1 x USB 2.0 und 1 x USB 3.1 Typ-C.
-
-SPEZIFIKATIONEN
-Intel Core i7-8550U Prozessor der 8. Generation (bis zu 4,0 GHz)
-NVIDIA GeForce MX150 mit 2 GB dediziertem GDDR5-VRAM.
-14″ Full HD (1920 x 1080) Breitbild-IPS-Display (Breitbild)
-8GB RAM
- 256GB SSD
-HDMI, USB 3.0, USB 2.0, USB-C Gen 1, Kopfhörer/Mikrofon Kombianschluss
+Link: Preis: 279 €
 
 
-<h2>HP Pavillon</h2>
+## Apple iPad Pro
+Zum Schluss möchten wir doch eine Tablet Alternative nutzen, falls du bereits ein Home-Office PC zum programmieren benutzt und jetzt dich umschaust mit dem Fokus auf die Mobilität.
 
-Ein Gaming-Laptop von HP. Der HP Pavillon ist ein Spiele-Notebook, das auch für die Programmierung verwendet werden kann. 
+Apple hat 2020 das neue iPad Pro vorgestellt und ist hier auf alle offenen Wünsche der vergangenen Jahre eingegangen.
 
-Ein 8. Gen Intel i5, 8 GB RAM und ein dedizierter GTX 1050 Ti. Der Speicher ist eine 1 TB 7200 U/min Festplatte. Sie werden keine Leistungsprobleme haben, die von diesem Laptop kommen. Es ist auch gut genug, um die meisten AAA-Titelspiele auf mittleren Einstellungen auszuführen.
+Sei es das neue speziell für iPads konstruierte iPadOS, die neue externe Tastatur (inklusive Trackpad!), oder der USB-C Anschluss mit dem du auch externe Monitore verbinden kannst.
 
-Das Display ist ein 15 Zoll Full HD blendfreies Display und ist ziemlich farbgenau. Die Tastatur ist hintergrundbeleuchtet und auch dezent. Auf der Port-Seite befinden sich vier USB-Ports, alle USB 3.1, wobei einer davon ein Typ-C ist.
+Das Display besitzt die Liquid Retina Technologie. Features wie ProMotion und True Tone bringen dir die gewohnte Farbgenauigkeit Apples in ein handliches Format und es erreicht 120Hz, was besonders beim scrollen von langen Programm Codes augenschmeichelnd ist. 
 
-Der Laptop ist auch nicht zu schwer und wiegt fast 5,2 Pfund, Sie können ihn leicht bewegen, besonders wenn Sie ein Student sind. Die Akkulaufzeit ist nicht beeindruckend, obwohl sie bei normalem Gebrauch etwa 3 Stunden dauert.
+Ein Riesenvorteil zu den Laptop Konterparts die du hier vorfindest, ist die nahtlose Einbindung in dein Apple Ecosystem und die verfügbaren Kameras mit 10 Megapixel Ultraweitwinkel und 12 Megapixel Weitwinkel. Durch die Truedepth Frontkamera kannst du auf die sicherste Gesichtsauthentifizierung (Face ID) zurückgreifen, die der Markt aktuell hergibt.
 
-Der HP Pavillon ist ein großartiger Laptop für diejenigen, die einen guten Gaming-Laptop suchen, während sie in der Lage sind, Programmieraufgaben oder die Zusammenstellung von Code zu erledigen, während sie gleichzeitig ein knappes Budget haben. Es bietet einen guten Kompromiss von drei zu einem erschwinglichen Preis, der einzige Nachteil ist die Akkulaufzeit.
+Vielleicht fragst du dich, ob denn ein iPad genug Power mitbringt fürs programmieren. Auch hier hat Apple ordentlich was draufgesetzt und ist dank A12Z Bionic Chip mit 8 Kernen schneller als die meisten aktuellen Laptops! 4KVideobearbeitung , 3D Design und Spielentwicklung sind hiermit möglich. Die Neural Engine von Apple ermöglicht dem iPad sogar machinelles Lernen, damit du auf der zukunftssicheren Seite bist.
 
-SPEZIFIKATIONEN
-Intel(R) Core(TM) i5-8300H Prozessor der 8. Generation
-15,6 Zoll Diagonale FHD IPS blendfreie Mikrokante WLED-hinterleuchtet (1920 x 1080)
-NVIDIA GeForce GTX 1050 Ti (4 GB GDDR5 dediziert)
-8 GB RAM
-1 TB 5400 U/min SATA Festplatte
-1 x USB Typ-C, 3 x Typ-A (3.1 Gen 1), HDMI, Kopfhöreranschluss
+Wir empfehlen dir unbedingt das 12,9 Zoll Model, damit du auch genug Fläche hast deinen Programmier Code zu bearbeiten. Das wird ansonsten auf dem 11 " Modell recht knapp.
+
+Übrigens ist das neue Magic Keyboard ein Must Have für alle die programmieren möchten auf dem iPad. Es wurde neu entwickelt im 2020 Modell und besitzt eine vollwertige Tastaur mit angenehmen Druckpunkt und jetzt sogar mit eigenem Trackpad. Damit hast du die komplette Funktionalität eines Laptops, kombiniert mit der Mobilität eines iPads.Auf Wunsch kannst du natürlich auch eine Maus anschließen oder den Apple Pencil verwenden.
+Deiner Kreativität sind keine Grenzen gesetzt beim Coding mit dem Ipad Pro.
+ Das niedrige Gewicht von  unter 500 Gramm und die Batterielaufzeit von 10 Stunden tun ihr übriges.
+
+ Durch 4g LTE und WLAN Konnektiviät bist du absolut unabhängig und kannst coden wo immer und wann immer du magst.
+
+### Specs
+* 12,9" und 11"
+* Liquid Retina Display
+* ProMotion
+* A12Z Bionic Chip
+* Pro Kameras und LiDAR Scanner
+* Face ID
+* Bis zu 1 TB Speicherplatz
+* Unterstützung für Apple Pencil
+ *Unterstützung für Magic Keyboard und Smart Keyboard Folio
+
+Preis: ab 11"    ab 879 €   
+Preis: ab 12,9" ab 1099 €
+
+
+
+
+
+
+
+
+
+
+
+
+
