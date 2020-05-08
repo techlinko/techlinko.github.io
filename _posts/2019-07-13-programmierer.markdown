@@ -28,6 +28,17 @@ Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir das d
 
 Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
+## hier übrigens die Gewinner vorab:
+
+### Surface Microsoft
+<a href="https://www.amazon.de/Microsoft-Surface-Laptop-Intel-Platin/dp/B07XVWXW1Q/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&_encoding=UTF8&dchild=1&keywords=surface+3&qid=1588816728&returnFromLogin=1&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=2e69471dd89898b3f367310ba1ecc641&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XVWXW1Q&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07XVWXW1Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### LincPlus
+<a href="https://www.amazon.de/dp/B07H96DZVB/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=LincPlus+P1&qid=1588816821&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7ac99ac86c2d0e7f9e4dc2b29ae394ca&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07H96DZVB&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07H96DZVB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### Aus Zenbook
+<a href="https://www.amazon.de/ASUS-ScreenPad-UX481FL-BM040T-i5-10210U-Celestial/dp/B07YL76DBK/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=asus+zenbook+pro+duo&qid=1588816861&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7f2e3dc6c32040459dd688a52dee19d3&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YL76DBK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07YL76DBK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 <h2>Macbook AIR:</h2>
 
 ### Display:
