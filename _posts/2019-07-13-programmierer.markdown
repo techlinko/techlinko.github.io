@@ -1,6 +1,6 @@
 ---
 layout: home2
-title:  "Laptop für Programmierer & Entwickler [Laptop Empfehlung 2019] "
+title:  "Laptop für Programmierer & Entwickler [Laptop Empfehlung 2020] "
 date:   2019-03-27 16:20:19 +0100
 categories: laptop hilfe
 image: /laptop-fuer-world-of-warcraft.png
@@ -8,7 +8,8 @@ permalink: /laptop-programmierer
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 ---
 
-
+* TOC
+{:toc}
 
 <h2>10 beste Laptops für Programmierer und Entwickler 2019</h2>
  
@@ -16,15 +17,16 @@ Die ultimative Checklist der besten Laptops für Programmierer Coder und Entwick
 
 Programmierer haben es nicht leicht auf dem heutigen Laptop Markt. Es gibt einfach zu viel Auswahl und man kann schnell überfordert sein mit den ganzen Vor und Nachteilen die uns diese Qual der Wahl bringt. 
 
-Hier ist die gute Nachricht:
+### Hier ist die gute Nachricht:
+
 Unser Team hat sich die 10 beliebtesten Laptops auf den Markt getestet und darauf speziell drauf geachtet, dass sie die besonderen Bedürfnisse für Programmierer erfüllen.
 
 Viele Tests reden zu lange drum herum oder wurden von den Anbietern bezahlt für das bewerben ihrer Produkte.
 
 Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst  und am Ende dir die Entscheidung abgenommen wurde, welcher denn nun der Richtige für dich ist.
 
-Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir das du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. Coding und programmieren ! (du kannst es auch für andere Sachen nachdem programmieren benutzen, das geht uns aber nichts an :) )
-
+Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. coding und programmieren ! 
+(Du kannst es auch für andere  Sachen nach dem programmieren benutzen, das geht uns aber nichts an :) )
 
 Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
@@ -42,7 +44,7 @@ Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test
 <h2>Macbook AIR:</h2>
 
 ### Display:
-Fangen wir mit dem Display an. Auf keinen Fall solltest du die Qualität des Displays unterschätzen, da man gerade beim programmieren stunden vor dem Bildschirm verbringt und man keine Lust auf brennende Augen hat.
+Fangen wir mit dem Display an. Auf keinen Fall solltest du die Qualität des Displays unterschätzen, da man gerade beim programmieren Stunden vor dem Bildschirm verbringt und man keine Lust auf brennende Augen hat.
 
 Das Macbook Air hat ein unglaublich scharfes Retina Display mit ganzen 4 Millionen Pixeln und einer Auflösung von 2560 x 1600. Der Weißpunkt wird automatisch reguliert dank der True Tone Technologie und passt sich ebenfalls dem Umgebungslicht an. Den Code den du programmierst wird dadurch gestochen scharf und angenehm zu lesen sein.
 
@@ -52,32 +54,37 @@ Wichtig für Programmierer ist auch die Möglichkeit externe Displays zu verbind
 
 
 ### Tastatur:
-Das Macbook Air hatte die letzten Jahre einen besonders schlechten Ruf durch die sogenannte Butterfly Technologie die in ihrer Tastatur verarbeitet war. Das hat sich aber mit dem aktuellen 2020 Modell geändert! Apple dachte sich alt bewährt - neu entdeckt und greift nun auf die vom Macbook Pro Modell bekannte Scherentechnologie zurück (in Apple Marketing Sprache MAGIC KEYBOARD ) , die mit ihrem 1mm Tastendruck ein angenehmes und vor allem leises  Tippen ermöglicht. 
+Das Macbook Air hatte die letzten Jahre einen besonders schlechten Ruf durch die sogenannte Butterfly Technologie die in ihrer Tastatur verarbeitet war. Das hat sich aber mit dem aktuellen 2020 Modell geändert! Apple dachte sich:  Alt bewährt - neu entdeckt und greift nun auf die vom Macbook Pro Modell bekannte Scherentechnologie zurück (in Apple Marketing Sprache MAGIC KEYBOARD ) , die mit ihrem 1mm Tastendruck ein angenehmes und vor allem leises tippen ermöglicht. 
 Gesonderte Pfeiltasten erleichtern dir das navigieren und programmieren  von Code und Tabellen in Handumdrehen.
+
+Besonderen Luxus bietet die Hintergrundbeleuchtung der einzelnen Tasten und Apple hat sogar einen Umgebungslichtsensor spendiert, der das Tippen bei wenig Licht erleichtert.
 
 <img src="/macbook-air-tastatur.jpg" alt="macbook air 2018 tastatur">
 
 
-Besonderen Luxus bietet die Hintergrundbeleuchtung der einzelnen Tasten und Apple hat sogar einen Umgebungslichtsensor spendiert, der das Tippen bei wenig Licht erleichtert.
+Nicht zu vergessen ist das Force Touch Trackpad. Es gilt unter IT Experten zurecht als das beste Trackpad das zurzeit erhältlich ist und wer es einmal genutzt hat möchte es nicht mehr missen.
+Reagiert auf unterschiedlich starken Druck, höchst präzise, und mit besonders großer Interaktionsfläche für die MacOS typischen Multi-touch Gesten wie auf und zu ziehen oder Zoom. 
 
-Nicht zu vergessen ist das Force Touch Trackpad. Es gilt unter IT Experten zurecht als das beste Trackpad dass zurzeit erhältlich ist und wer es einmal genutzt hat möchte es nicht mehr missen.
-Reagiert auf unterschiedlich starken Druck, höchst präzise, und mit besonders großer Interaktionsfläche für die MacOS typischen Multi-touch Gesten wie auf und zuziehen oder Zoom. 
+Dieser hohe Komfort kann alleine schon der Grund sein, warum du dich für einen Mac zum programmieren entscheiden solltest.
 
 <img src="/macbook-air-display.jpg" alt="macbook air 2018 display">
 
 Dieser hohe Komfort kann alleine schon der Grund sein, warum du dich für einen Mac zum programmieren entscheiden solltest.
 
 
-
 ### Akku / Mobilität:
 
-Sieht man sich an den Universitäten der Welt um, erkennt man dass die Mehrheit einen Macbook nutzen und nicht zu letzt wegen den außergewöhnlichen langen Betriebszeiten. 11 Stunden beträgt die Akkulaufzeit für kabelloses surfen mit dem neuen 2020 Modell. 
+Sieht man sich an den Universitäten der Welt um, erkennt man dass die Mehrheit einen Macbook nutzen und nicht zuletzt wegen den außergewöhnlichen langen Betriebszeiten. 11 Stunden beträgt die Akkulaufzeit für kabelloses surfen mit dem neuen 2020 Modell. 
 
-Das Macbook besteht aus 100% recycletem Aluminium, dass sich sehr edel und modern anfühlt. Das Design des Macbook ist und war schon immer eines der Alleinstellungsmerkmale der Apple Familie. Kombiniert mit einem federleichten Gewicht von nur 1,29 Kg.
+Das Macbook besteht aus 100% recycletem Aluminium, das sich sehr edel und modern anfühlt. Das Design des Macbook ist und war schon immer eines der Alleinstellungsmerkmale der Apple Familie. Kombiniert mit einem federleichten Gewicht von nur 1,29 Kg.
+
+ Mobilität auf ganz hohem Niveau ohne nervigem Kabelsalat. 
+
+Gerade Digital-Nomads und welche die es werden wollen legen auf diese Eigenschaften Wert damit sie von überall aus bequem programmieren und designen können :)
 
 ### Mobilität auf ganz hohem Niveau ohne nervigem Kabelsalat. 
 
-Gerade Digital-Nomads und welche die es werden wollen legen auf diese Eigenschaften Wert damit sie von überall aus bequem programmieren und designen können :)
+
 
 ### Specs:
 * 13,3" Display (33,78 cm Diagonale) 
@@ -121,13 +128,13 @@ Das Macbook Pro ist nochmal um einiges leistungsstärker und besonders für Game
 
 16GB Arbeitsspeicher erlauben dir mehrere Programme simultan zu nutzen ohne dass dein Workflow ins Stocken gerät!
 
+Eines der größten Plus-Punkte des Macbook Pro ist die Touch Bar. Du kannst sie ganz nach deinen Bedürfnissen anpassen und so deine Produktivität auf ein noch nie da gewesenes Level transportieren. Du bist nicht nur auf voreingestellte Funktionen beschränkt. Du kannst die Bar so anpassen, wie sie dir gefällt und so noch schneller und bequemer arbeiten. So kannst du zum Beispiel eigene Kurzbefehle in deinen Programmier Tools erstellen und in die Touch Bar einsetzen. So sind deine wichtigsten Shortcuts  immer in Reichweite und du kannst dich auf das Coden konzentrieren, anstatt sich immer wieder durch die gleichen Menüs kämpfen zu müssen.
+
 <img src="/macbook-pro-programmierer-laptop.png" alt="macbook pro laptop fuer programmierer">
 
-Eines der größten Plus-Punkte des Macbook Pro ist die Touch Bar. Du kannst sie ganz nach deinen Bedürfnissen anpassen und so deine Produktivität auf ein noch nie da gewesenes Level transportieren. Du bist nicht nur auf voreingestellte Funktionen beschränkt. Du kannst die Bar so anpassen wie sie dir gefällt und so noch schneller und bequemer arbeiten. So kannst du zum Beispiel eigene Kurzbefehle in deinen Programmier Tools erstellen und in die Touch Bar einsetzen. So sind deine wichtigsten Shortcuts  immer in Reichweite und du kannst dich auf das Coden konzentrieren, anstatt sich immer wieder durch die gleichen Menüs kämpfen zu müssen.
+Falls du ein Ipad besitzt kannst du deinen Schreibtisch  vergrößern und dein iPad als 2. Display nutzen dank dem Sidecar feature. Ob du auf beiden parallel programmieren möchtest oder lieber das iPad für deine Spotify Playlist nutzt ist ganz dir überlassen. Ein nettes Feature ist es ohnehin, was man nicht missen möchte, wenn man es einmal erlebt hat.
 
-Falls du ein Ipad besitzt kannst du deinen Schreibtisch  vergrößern und dein iPad als 2. Display nutzen dank dem Sidecar feature. Ob du auf beiden parallel programmieren möchtest oder lieber das iPad für deine Spotify Playlist nutzt ist ganz dir überlassen. Ein nettes Feature ist es ohnehin was man nicht missen möchte, wenn man es einmal erlebt hat.
-
-Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde wengier als beim Macbook Air aber das ist der Preis den man für die unglaubliche Leistungssteigerung gerne in Kauf nimmt. Die 1,37Kg Gewicht fallen auch hier kaum ins Gewicht und ich kann für beide Macbook Modelle absolut eine hohe Mobilitätstauglichkeit garantieren!
+Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde weniger als beim Macbook Air aber das ist der Preis den man für die unglaubliche Leistungssteigerung gerne in Kauf nimmt. Die 1,37Kg Gewicht fallen auch hier kaum ins Gewicht und ich kann für beide Macbook Modelle absolut eine hohe Mobilitätstauglichkeit garantieren!
 
 ### SPEZIFIKATIONEN
 * 6-Kern Intel Core i7 Prozessor der 8. Generation
@@ -142,38 +149,34 @@ Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde wengier a
 
 
 ## Microsoft Surface Laptop 3
-Es muss nicht immer Apple sein. Besonders bei den Laptops Microsoft ordentlich aufgeholt ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
+
+Es muss nicht immer Apple sein. Besonders bei den Laptops hat Microsoft ordentlich aufgeholt und ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
 
 Wir stellen euch das Surface Laptop 3 vor:
 Für viele zunächst ungewohnt ist das neue Touch Display des Surface Laptop. Es kommt in der 13,5 Zoll Größe daher mit einer Auflösung von 2256 x 1504 (201 PPI). Es ist das einzige Laptop in unserer Zusammenfassung, das ein 3:2 Seitenverhältnis besitzt.
 
 <img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
 
-
-
-
-Programmierer können (sich erstmal daran gewöhnt) vom Touch Display profitieren. Wir haben in unserem Test nach kurzer Zeit festgestellt wie natürlich sich das scrollen und zoomen in unseren coding sessions anfühlt, da es stark an das Gefühl erinnert, dass wir bereits von unseren Smartphones gewohnt sind.
+Programmierer können (sich erstmal daran gewöhnt) vom Touch Display profitieren. Wir haben in unserem Test nach kurzer Zeit festgestellt wie natürlich sich das scrollen und zoomen in unseren Coding Sessions anfühlt, da es stark an das Gefühl erinnert, dass wir bereits von unseren Smartphones gewohnt sind.
 Einziges Manko, ist die starke Spiegelung des Displays. Das kann besonders beim programmieren im Freien  ein Problem für euch darstellen.
+
+
+Die Tastaturauflage kann auch mit einer einzigartigen Alcantara Auflage bestellt werden, was wir euch garantiert Nahe legen. Die Handballen haben so einen bequemen Platz bekommen und ihr werdet keine Druckpunkte oder Schmerzen in euren Handgelenken bekommen nach einer herausfordernden Programmier Session. Die Auflage bleibt stets angenehm kühl.
 
 <img src="/microsoft-surface-2-bildschirm.png" alt="bildschirm microsoft surface 2">
 
+Das Design ist kurz und knapp sehr gelungen und hinkt den Macbooks nicht mehr weit hinterher. Ebenfalls die Mobilität wurde auf Apple Niveau gebracht mit einer Akkulaufzeit von 11,5 Stunden ! (das übertrifft sogar das Macbook Air um eine halbe Stunde. Immerhin.)
 
 
-
-
-Die Tastatur Auflage kann auch mit einer einzigartigen Alcantara Auflage bestellt werden, was wir euch garantiert Nahe legen. Die Handballen haben so einen bequemen Platz bekommen und ihr werdet keine Druckpunkte oder Schmerzen in euren Handgelenken bekommen nach einer herausfordernden Programmier Session. Die Auflage bleibt stets angenehm kühl.
-
-Das Design ist kurz und knapp sehr gelungen und hinkt den Macbooks nicht mehr weit hinterher. Ebenfalls die Mobilität wurde auf Apple Niveau gebracht mit einer Akku Laufzeit von 11,5 Stunden ! (das übertrifft sogar das Macbook Air um eine halbe Stunde. Immerhin.)
-
-<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
-
-
-Das Mini-DisplayPort der Vorgänger ist Passe und weicht dem universelleren USB-C Anschluss.  Anschlüsse an externe 4k Displays ist damit kein Problem mehr.
+Das Mini-DisplayPort der Vorgänger ist Passe und weicht dem universellen USB-C Anschluss.  Anschlüsse an externe 4k Displays ist damit kein Problem mehr.
 
 
 Die Konfiguration beginnt bei der 10. Intel Generation i5 , 8 GB Ram und leider nur 128GB SSD Speicher. Da hätten wir uns mehr gewünscht, aber wer mehr Speicher benötigt, kann auf die größeren Modelle mit bis zu 1TB Speichergröße ein Auge werfen.
 
 Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und anspruchsvollere Dienste, raten wir euch auf ein Notebook mit dedizierter Grafikeinheit zurückzugreifen.
+
+
+<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
 
 
 ### Specs:
@@ -185,18 +188,20 @@ Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und 
 
 
 ## Dell XPS 13
+
+
+
 Dell ist bekannt für jahrelange Erfahrung im IT und Business Bereich. Die Marke verzichtet auf Schnick-Schnack und bietet eine Allround Paket für alle die einen Zeitgerechten Allrounder haben möchten. 
 
+Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
 
 <img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
 
-Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und eine besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
-
 Als größtes Manko ist wohl dem Ultrabook anzukreiden, dass es keine dedizierte Grafikkarte zu bieten hat. Falls du also nach dem programmieren noch eine Runde zocken willst, solltest du eher zu unserem Gaming Tipp zugreifen.
 
-Vom größten Manko zum größten Plus Punkt: Der Akku hält satte 15 Stunden im reinen Coding Test und das bedeutet, dass du gute 2 Tage ohne Akku auskommst. Keine Sorge dass du aus deinem Programmier-Flow gerissen wirst!
+Vom größten Manko zum größten Pluspunkt: Der Akku hält satte 15 Stunden im reinen Coding Test und das bedeutet, dass du gute 2 Tage ohne Akku auskommst. Keine Sorge dass du aus deinem Programmier-Flow gerissen wirst!
 
-Wenn du neben programmieren auch nicht auf gaming oder multimedia verzischten willst, dann liess im nächsten Abschnitt weiter über den großen Bruder den Dell XPS 15 !
+Wenn du neben programmieren auch nicht auf gaming oder multimedia verzichten willst, dann ließ im nächsten Abschnitt weiter über den großen Bruder, den Dell XPS 15 !
 
 
 ### Specs:
