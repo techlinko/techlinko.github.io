@@ -8,8 +8,7 @@ permalink: /laptop-programmierer
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 ---
 
-* TOC
-{:toc}
+
 
 <h2>10 beste Laptops für Programmierer und Entwickler 2019</h2>
  
@@ -30,6 +29,8 @@ Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass
 
 Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
+
+
 ## hier übrigens die Gewinner vorab 🌟:
 
 ### Surface Microsoft
@@ -40,6 +41,12 @@ Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test
 
 ### Aus Zenbook
 <a href="https://www.amazon.de/ASUS-ScreenPad-UX481FL-BM040T-i5-10210U-Celestial/dp/B07YL76DBK/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=asus+zenbook+pro+duo&qid=1588816861&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7f2e3dc6c32040459dd688a52dee19d3&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YL76DBK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07YL76DBK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+
+* TOC
+{:toc}
 
 <h2>Macbook AIR:</h2>
 
