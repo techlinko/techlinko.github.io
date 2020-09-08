@@ -4,7 +4,7 @@ title:  Laptop fürs Home Office 2020 Computer - Techlinko
 categories: laptop hilfe
 image: /laptop-fuer-home-office.png
 permalink: /laptop-home-office
-excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer.Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden. 
+excerpt:  
 ---
 
 ## Laptop fürs Home Office 2020
