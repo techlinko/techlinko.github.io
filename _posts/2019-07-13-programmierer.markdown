@@ -14,7 +14,7 @@ excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leic
  
 Die ultimative Checklist der besten Laptops für Programmierer, Coder und Entwickler 2020.
 
-Programmierer haben es nicht leicht auf dem heutigen Laptop Markt. Es gibt einfach zu viel Auswahl und man kann schnell überfordert sein mit den ganzen Vor und Nachteilen die uns diese Qual der Wahl bringt. 
+Programmierer haben es nicht leicht auf dem heutigen Laptop Markt. Es gibt einfach zu viel Auswahl und man ist schnell überfordert mit den ganzen Vor und Nachteilen die uns diese Qual der Wahl bringt. 
 
 ### Hier ist die gute Nachricht:
 
@@ -22,7 +22,7 @@ Unser Team hat sich die 10 beliebtesten Laptops auf dem Markt angeschaut und spe
 
 Viele Tests reden zu lange drum herum oder wurden von den Anbietern bezahlt für das bewerben ihrer Produkte.
 
-Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende dir die Entscheidung abgenommen wird, welcher denn nun der Richtige für dich ist.
+Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende, wird dir die Entscheidung abgenommen, welcher denn nun der Richtige für dich ist.
 
 Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. Coding und programmieren ! 
 (Du kannst es auch für andere Sachen nach dem programmieren benutzen, das geht uns aber nichts an :) )
@@ -49,6 +49,8 @@ Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test
 {:toc}
 
 <h2>Macbook AIR:</h2>
+
+Es geht los mit dem MacBook Air.
 
 ### Display:
 Fangen wir mit dem Display an. Auf keinen Fall solltest du die Qualität des Displays unterschätzen, da man gerade beim programmieren Stunden vor dem Bildschirm verbringt und man keine Lust auf brennende Augen hat.
