@@ -7,6 +7,8 @@ permalink: /laptop-home-office
 excerpt:  
 ---
 
+
+
 ## Laptop fürs Home Office 2020
 
 Das Thema Corona hat so manches verändert.
@@ -28,6 +30,9 @@ Allerdings ändern sich die Anforderungen an Ressourcen wie CPU, RAM, GPU, Akku 
 Hier ist eine Liste der minimalen und empfohlenen Systemanforderungen, die man berücksichtigen muss, um eine informierte Kaufentscheidung zu treffen und sicherzustellen, dass das System nicht mit Verzögerungen, Erwärmungsproblemen oder mehr konfrontiert wird, während sie sich mitten in einer Videokonferenzschaltung befinden oder Programme oder Code schreiben.
 
 Wenn Sie sich entscheiden, eine neue Reise als Freiberufler oder digitaler Nomade anzutreten, ist dieses 16-Zoll Apple Macbook Pro eine gute Wahl. Es bietet Ihnen einen großartigen Anstoß, Ihre Karriere mit einem gesunden, voll ausgestatteten Laptop fortzusetzen.
+
+* TOC
+{:toc}
 
 ## Apple MacBook Pro 16
 
