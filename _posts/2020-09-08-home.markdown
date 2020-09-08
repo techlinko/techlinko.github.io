@@ -59,3 +59,31 @@ Was die Batterielebensdauer betrifft, so bietet das MacBook Pro 16 bis zu 11 Stu
 Wenn Sie auf der Suche nach einem Schnäppchen bei der Konfiguration eines Laptops des oberen Segments für technische Entwickler, kreative Redakteure und Geschäftsleute sind, die unterwegs arbeiten, dann ist das Apple MacBook Pro 16 Ihre beste Wahl.
 
 HINWEIS: Die 13-Zoll-Variante des Apple MacBook Pro ist auch online verfügbar für digitale Nomaden, die sich große Portabilität mit Spezifikationen wie 2,3 GHz Quad-Core Intel Core i5 CPU, 128 MB SDRAM, 256 GB SSD und bis zu 10 Stunden Batterielaufzeit wünschen.
+
+
+### Bester Windows-Laptop fürs Home Office
+
+## Dell XPS 15 9570
+
+Der Dell XPS 15 9570 ist in Bezug auf die Konfiguration ein definitives Upgrade gegenüber den XPS-Modellen 2018 und ist für diejenigen, die von zu Hause aus arbeiten, zum halben Preis eines Apple MacBook Pro weiterhin erschwinglich.
+
+* CPU: 4,1 GHz Intel Core i7-9570
+* ARBEITSSPEICHER: 16GB
+* Lagerung: 512 GB SSD
+* GPU: 4 GB NVIDIA GeForce GTX 1050 Ti
+* Anzeigen: 15,6-Zoll-4K-Ultra-HD (3840 x 2160)
+* Batterie: Bis zu 7 Stunden
+
+Der Dell XPS 15 9570 hat ein starkes ästhetisches Design von Dell und der Laptop selbst weist im Vergleich zu den früheren XPS-Modellen keine merklichen Veränderungen auf. Für den Deckel und den Boden wurde Aluminium verwendet. Kohlefaser verleiht den Seiten, dem Deck und den Scharnieren ein erstklassiges Aussehen.
+
+Der Einbau von Thunderbolt 3 ist insofern nützlich, als er den Benutzern die Möglichkeit gibt, den Laptop aufzuladen und an USB-C-Anschlüsse anzuschließen. Zwei USB 3.1-Anschlüsse, SD-Kartenleser, Kopfhöreranschluss, Knopf für die Batterieanzeige und eine Leuchtanzeige, damit Sie die Stromversorgung überprüfen können, auch wenn der Laptop nicht in Gebrauch ist.
+
+Der XPS 15 ist mit einem 15,6-Zoll-InfinityEdge 4K-Touchscreen ausgestattet, der farbenfroh ist und weite Betrachtungswinkel gewährleistet. Mit einer Auflösung von 3840×2160 Pixeln bietet der Bildschirm mit den ultraflachen Einfassungen den Benutzern ein sehr lebendiges Seherlebnis. Die Leuchtkraft auf diesem Laptop ist ausgezeichnet. Für diejenigen, die von überall her zu Hause oder unterwegs arbeiten, erfüllt dieser Laptop daher alle Anforderungen.
+
+Mit einem ausreichenden Tastenhub bietet der XPS 15 Laptop den Benutzern ein anständiges Tipperlebnis, da die Handballenauflage sehr komfortabel ist. Die taktile Rückmeldung ist großartig, und das Touchpad funktioniert recht gut. Sowohl die Genauigkeit des Touchpads als auch die Reaktion ist ein attraktives Merkmal.
+
+Eine 2,2 GHz 6-Kern Intel Core i7-8750H CPU ist im XPS 15 9570 von Dell konfiguriert. Die Turbo-Taktgeschwindigkeiten sind dank des leistungsstarken Prozessors deutlich gestiegen, und der Laptop weist eine hohe Effizienz auf. Dank der Unterstützung von 16 GB DDR4 2666 MHz RAM und 512 GB SSD-Speicher ist das Gerät bei routinemäßiger professioneller/geschäftlicher Nutzung wie Dokumentation, Microsoft Office, Web-Browsing, Umschalten zwischen Registerkarten und Videowiedergabe schnell. Dieser Laptop ist ein Segen für diejenigen, die von zu Hause aus arbeiten.
+
+Mit integrierter Intel HD Graphics 620 und einer angesehenen Akkulaufzeit von bis zu 10 Stunden ist der Dell XPS 13 ein anständiges Gerät, wenn man Spiele auf mittlerem Niveau betreibt, und eine ausgezeichnete Wahl für alltägliche Arbeitsanforderungen.
+
+Enttäuschend ist jedoch die unregelmäßige Platzierung der Webcam auf der linken Seite unterhalb des Bildschirms. Das Scharnier selbst ist recht stabil und mit 4,4 Pfund ist das Gerät bequem leicht und einfach zu tragen.
