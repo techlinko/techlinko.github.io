@@ -26,8 +26,9 @@ Außerdem hat das Apple MacBook Pro eine erstaunliche Batterielaufzeit. Sie rech
 
 Wenn es um die Anzeige geht, erhalten Sie wie bei allen MacBooks einen der am besten aussehenden Bildschirme. Einen 13,3-Zoll-Retina-Bildschirm, der hell, scharf und mit hoher Farbgenauigkeit arbeitet.
 Das Apple MacBook Pro ist das Lieblingsgerät eines Profis, und als Lehrer ist Professionalität wichtig. Außerdem erledigt es die Arbeit und mehr.
+
 Sie benötigen jedoch ein USB-Dock, da die Anschlüsse alle Thunderbolt 3-Anschlüsse sind.
-Sehr empfehlenswert als eines der besten Laptops für Lehrer.
+Sehr empfehlenswert als ein super Laptop für Lehrer.
 
 ## Dell XPS 13
 
@@ -41,7 +42,9 @@ Sehr empfehlenswert als eines der besten Laptops für Lehrer.
 Der Dell XPS 13 ist für Lehrer gedacht, die etwas Kleines und Kompaktes suchen und gleichzeitig eine solide Leistung erbringen möchten.
 Dies ist ein dünnes und leichtes Gerät, das Sie leicht mit sich herumtragen können. Es wird von einem Intel Core i7 und 8 GB RAM angetrieben. Es hat genug Leistung für Multitasking und kann eine Menge Unterrichtssoftware verarbeiten.
 Der Laptop ist dank seines eloxierten Aluminiumgehäuses auch gut gebaut, so dass Sie damit rechnen können, ihn einige Jahre lang zu benutzen.
+
 Das Display ist ein 13,3-Zoll-Full-HD (1920 x 1080) InfinityEdge, ein schönes Display mit dünnen Einfassungen. Es ist hell, lebhaft und hat große Betrachtungswinkel. Auch die Farbgenauigkeit und -wiedergabe sind überdurchschnittlich gut. Kurz gesagt, das Display ist fantastisch.
+
 Die Akkulaufzeit ist fantastisch, da sie bei gleichbleibender Nutzung 11-12 Stunden hält.
 Insgesamt ist das Dell XPS 13 ein wunderschönes Gerät. Klein, kompakt und passt leicht in Ihre Tasche. Ein solider Laptop, den man bei der Suche nach dem besten Laptop für den Unterricht in Betracht ziehen sollte.
 
@@ -55,11 +58,46 @@ Insgesamt ist das Dell XPS 13 ein wunderschönes Gerät. Klein, kompakt und pass
 
 Gebaut wie ein Panzer, leicht und ein Laptop mit großer Leistung. Das Lenovo ThinkPad X1 Carbon ist ein Lehr-Laptop, das Sie lange nutzen können.
 Die Verarbeitungsqualität ist erstklassig. Der Hauptgrund, warum es wie ein Panzer gebaut sein soll, liegt darin, dass das Laptop aus einer Kombination aus Kohlefaser und Magnesium besteht.
+
 Sie haben einen leichten und sehr haltbaren Laptop. Es gibt wenig bis gar keine Biegung im Bereich des Deckels und der Tastatur.
 Wenn es um die Tastatur geht. Sie ist eine der besten, die es gibt.
 Hub und taktiles Feedback sind genau richtig. Sie werden viel tippen und deshalb ist es am besten, eine gute Tastatur zu haben.
 Was die Leistung betrifft, ist das Lenovo ThinkPad eine leistungsstarke Maschine - ein 8th Gen Intel Core i7, 16 GB RAM und 512 GB SSD. Es verfügt über die nötige Hardware, um mit allem fertig zu werden, worauf Sie sich stürzen. Multitasking und Öffnen mehrerer Browser-Registerkarten.
+
 Das Display ist eines der besten - ein 14-Zoll-FHD-Display (1920 x 1080), das scharf und lebhaft ist.
 Was die Akkulaufzeit betrifft, so kann das Lenovo ThinkPad X1 Carbon bei gleichbleibender Nutzung fast einen halben Tag halten. 
 
 Insgesamt ist das Lenovo ThinkPad X1 Carbon ein großartiges Notebook. Nicht viele Laptops können damit mithalten - Akkulaufzeit, Verarbeitungsqualität, Leistung, Tastatur usw.
+
+## MacBook Air
+
+### Technische Daten
+
+* CPU: Intel Core i3 - i5
+* Grafik: Intel HD-Grafiken
+* RAM: 8 GB
+* Bildschirm: 13″ Retina-Anzeige
+* Speicher: 128 GB - 512 GB SSD 
+
+Das Apple MacBook Air ist ein weiteres großartiges Notebook für den Unterricht. Ein sehr leichtes, schlankes Notebook, das fast 3 Pfund wiegt und einen halben Zentimeter dick ist. Die Bauqualität ist wie bei allen Apple MacBooks dank seiner Aluminiumkonstruktion erstklassig. 
+
+Wenn es um die Anzeige geht, haben MacBooks einen der besten Bildschirme auf dem Markt. Retina-Displays (2560 x 1600), die eine überdurchschnittlich hohe Farbgenauigkeit, Reproduktion und Lebendigkeit aufweisen.
+Und damit erhalten Sie ein reichhaltiges und helles Display für den Unterricht und andere Zwecke. 
+
+Ein Unibody-Design aus Aluminium. Die Akkulaufzeit beträgt beeindruckende 9-10 Stunden bei normaler Nutzung, mehr als genug, um einen ganzen Tag lang zu unterrichten. 
+
+Für die Leistung sorgt das Apple MacBook Air. Genug Rechenleistung für Multitasking und die Ausführung von Unterrichtssoftware.
+Das Apple MacBook Air hat zwei Thunderbolt 3 Anschlüsse. Das heißt, es gibt keine normalen USB-Anschlüsse. Sie müssen sich einen Dongle besorgen, um die Anschlüsse zu erhalten, die die meisten Laptops haben. 
+
+Insgesamt ist das Apple MacBook Air eines der besten Laptops, die Sie als Lehrer benutzen können. Es hat eine starke Batterielaufzeit und ist leicht. Eine solide Option, die Sie in Betracht ziehen sollten.
+
+### Vorteile
+
+* Prächtige Anzeige
+* Dünn und leicht
+* Große Batterielebensdauer
+
+
+### Nachteile
+
+Keine USB Typ-A-Anschlüsse
