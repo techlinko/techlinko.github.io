@@ -1,0 +1,29 @@
+---
+layout: home2
+title:  Beste Sony PS5 SSD 2021 (M.2 slot)
+categories: PS5
+permalink: /ssd-ps5
+excerpt: Aktuell gibt es noch keine Möglichkeit SSD's mit einem M.2 slot  zu kaufen. Doch das ändert sich 2021.
+---
+
+## Die Beste SSD für die PS5 in 2021
+
+M.2 slot ist das Stcihwort hier. Den die aktuelle Lage (Januar 2021) sieht so aus, dass es zwar externe SSD Festplatten für die PS5 gibt. Wir allerdings die offiziellen
+SSD's mit dem M.2 empfehlen.
+
+Hier alle aktuellen Informationen dazu:
+
+## Interne vs Externe SSD's
+
+Sony hat bereits angekündigt bestimmte M.2-SSDs unterstützen. Das sind interne Laufwerke, die Sie auf dem freien Markt erwerben und in einen Schacht der PlayStation 5 einbauen können. Sie werden genau wie unsere SSD über die benutzerdefinierte E/A-Einheit angeschlossen, sodass sie die Vorteile der Dekomprimierung, der E/A-Coprozessoren und all der anderen Funktionen voll ausschöpfen können. 
+
+Die Sache hat allerdings einen Haken: Das kommerzielle Laufwerk muss mindestens so schnell sein wie unseres. 
+
+Spiele, die sich auf die Geschwindigkeit unserer SSD verlassen, müssen mit jedem M.2-Laufwerk einwandfrei funktionieren. Kein PCIe-3.0-Laufwerk kann die erforderliche Geschwindigkeit von 5,5 GB/s erreichen, da sie auf 3,5 GB/s begrenzt sind. Die ersten PCIe-4.0-M.2-Laufwerke sind jedoch bereits auf dem Markt, und wir sehen Geschwindigkeiten von 4 bis 5 GB/s. 
+
+Bis zum Jahresende erwarten wir, dass es Laufwerke geben wird, die 7 GB/s erreichen. Allerdings vergleichen wir hier Äpfel mit Birnen, denn ein kommerzielles M.2-Laufwerk hat seine eigene Architektur, seinen eigenen Flash-Controller und so weiter. Die NVMe-Spezifikation sieht zum Beispiel ein Prioritätsschema für Anfragen vor, das die M.2-Laufwerke verwenden können, und dieses Schema ist ziemlich gut, aber es hat nur zwei echte Prioritätsstufen. 
+
+Das PS5 Laufwerk unterstützt sechs. Wir können definitiv ein Laufwerk mit nur zwei Prioritätsstufen anschließen, aber unsere benutzerdefinierte I/O-Einheit muss die zusätzlichen Prioritäten anstelle des Flash-Controllers des M.2-Laufwerks entscheiden, und deshalb braucht das M.2-Laufwerk ein wenig mehr Geschwindigkeit, um die Probleme zu lösen, die sich aus dem unterschiedlichen Ansatz ergeben. Dieses kommerzielle Laufwerk muss auch physisch in den Schacht passen, den wir für die PlayStation 5 für M.2-Laufwerke erstellt haben.
+
+## Was ist mit standardmäßigen externen USB-Laufwerken für PS5?
+Ja, Sie können ein vorhandenes externes USB-Laufwerk für PS5 verwenden, aber Sie können PS5-Spiele nicht direkt davon spielen. Stattdessen können Sie die Spieldaten dort speichern, müssen sie aber zurück auf das Hauptlaufwerk oder ein kompatibles NVMe-SSD-Laufwerk verschieben, um sie zu spielen. Sie werden jedoch in der Lage sein, abwärtskompatible PS4-Spiele von diesen Geräten aus zu spielen. Wenn Sie also darüber nachdenken, Ihre vorhandene PS4-Festplatte für die Verwendung auf einer PS5 zu übernehmen, ist sie nicht völlig nutzlos. Weitere Informationen finden Sie in der folgenden Anleitung: Die besten externen Festplatten für PS5 und PS4.
