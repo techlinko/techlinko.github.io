@@ -392,3 +392,9 @@ Der Lenovo Ideapad 330 ist ein preisgünstiger Laptop für Buchhalter und Finanz
 <li>1 x USB Typ-C 3.1 Gen 1 (Daten bis zu 5Gb/s) - 2 x USB 3.1 Gen 1 </li>
 <li>(nur Datenübertragung), Kopfhörerausgang / Mikrofoneingang Kombianschluss</li>
 </ul>
+
+### Hilfreiche Links
+
+[Laptop für Programmierer](/laptop-programmierer)
+[Bester Fernseher PS5](/ps5-fernseher)
+[Beste SSD für PS5](/ps5-ssd)
