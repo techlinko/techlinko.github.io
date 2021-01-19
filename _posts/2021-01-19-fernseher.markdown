@@ -1,10 +1,16 @@
 ---
 layout: home2
-title:  Top 5 Fernseher für PS5 & Xbox Series X
+title:  Besten Fernseher PS5 2021 (Xbox Series X)
 categories: PS5
 permalink: /ps5-fernseher
 excerpt: Die PS5 und die Xbox Series X kommen und damit ihr die Grafik auch genießen könnt, anbei die besten Fernseher für die next Gen Konsolen.
 ---
+
+# Die besten Fernseher für die PS5 2021
+
+Ihr succht nach einem geeigneten Fernsehr für die PS5 oder die XBox Series X. 
+
+Wir zeigen euch die eine Sache die ihr dringend beachten solltet.
 
 ## 1. LG CX
 
