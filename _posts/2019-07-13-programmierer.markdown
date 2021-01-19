@@ -364,7 +364,10 @@ Preis: ab 12,9" ab 1099 €
 
 
 
+### Hilfreiche Links
 
+[Bester Fernseher PS5](/ps5-fernseher)
+[Beste SSD für PS5](/ps5-ssd)
 
 
 
