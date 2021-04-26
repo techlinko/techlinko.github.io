@@ -1,7 +1,6 @@
 ---
 layout: home2
-title:  "Laptop zum Programmieren 2020 [Notebook Empfehlung 2020] "
-date:   2019-03-27 16:20:19 +0100
+title:  "Laptop zum Programmieren 2021 [Notebook Empfehlung 2020] "
 categories: laptop hilfe
 image: /laptop-fuer-world-of-warcraft.png
 permalink: /laptop-programmierer
@@ -10,7 +9,7 @@ excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leic
 
 
 
-<h2>10 beste Laptops für Programmierer und Entwickler 2019</h2>
+<h2>10 beste Laptops für Programmierer und Entwickler 2021</h2>
  
 Die ultimative Checklist der besten Laptops für Programmierer, Coder und Entwickler 2020.
 
