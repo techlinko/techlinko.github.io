@@ -1,6 +1,6 @@
 ---
 layout: home2
-title:  "Laptop zum Programmieren 2021 [Notebook Empfehlung 2020] "
+title:  "Laptop zum Programmieren 2021 [Notebook Empfehlung 2021] "
 categories: laptop hilfe
 image: /laptop-fuer-world-of-warcraft.png
 permalink: /laptop-programmierer

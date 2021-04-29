@@ -1,6 +1,6 @@
 ---
 layout: home2
-title:  Laptop fürs Home Office 2020 Computer - Techlinko
+title:  Laptop fürs Home Office 2021 Computer - Techlinko
 categories: laptop hilfe
 image: /laptop-fuer-home-office.png
 permalink: /laptop-home-office
@@ -13,7 +13,7 @@ excerpt: Das Thema Corona hat so manches verändert.Haben Sie kürzlich begonnen
 
 Das Thema Corona hat so manches verändert.
 
-Haben Sie kürzlich begonnen, von zu Hause aus zu arbeiten? Sie müssen erkannt haben, dass es nicht so EINFACH ist, wie es sich anhört. Sie müssen auf viele Hindernisse stoßen, die es Ihnen schwer machen, Ihr Privat- und Berufsleben unter einen Hut zu bringen. Da Sie bereits viel durchmachen, ist ein langsamer Laptop nichts, wofür Sie Zeit haben! Haben Sie Zeit?
+Haben Sie kürzlich begonnen, von zu Hause aus zu arbeiten? Sie müssen erkannt haben, dass es nicht so EINFACH ist, wie es sich anhört. Sie müssen auf viele Hindernisse stoßen, die es Ihnen schwer machen, Ihr Privat- und Berufsleben unter einen Hut zu bringen. Da Sie bereits viel durchmachen, ist ein langsamer Laptop nichts, wofür Sie Zeit haben! 
 
 Viele Freiberufler, digitale Nomaden und Berater haben einen beträchtlichen Teil ihrer beruflichen Laufbahn von zu Hause aus gearbeitet. Sei es im technischen, geschäftlichen, kreativen, Mediensektor oder sogar im Bildungsbereich usw. Sie werden viele Menschen finden, die ihr Brot und ihre Butter verdienen, indem sie aus der Ferne arbeiten.
 
