@@ -2,6 +2,7 @@
 layout: home2
 title:  Laptop für Lehrer 2022 Computer [Oktober 2022] - Techlinko
 update: 29. Oktober 2022
+author: Techlinko
 permalink: /laptop-lehrer
 excerpt: Schluss mit Kopfschmerzen beim Laptop Kauf. Wir zeigen euch schnell und einfach aus was es bei einem Laptop für die Buchführung bzw. das Rechnungswesen ankommt.
 ---
