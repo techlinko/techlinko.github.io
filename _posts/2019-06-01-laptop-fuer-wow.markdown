@@ -10,6 +10,28 @@ excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es 
 description: Seien wir ehrlich, World of Warcraft auf einem Laptop zu spielen macht schon Spaß. Beachtet unbedingt diese Dinge um den besten für euch zu finden.
 ---
 
+<script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{
+          "@type": "Question",
+          "name": "Wieviel sollte ein Laptop für WoW kosten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderungen. Für ein vernünftiges Speielerlebnis, sollte man nach aktuellen Modellen, schon ca. 500€ - 700€ ausgeben."
+          }
+        }, {
+          "@type": "Question",
+          "name": "Werden alle Erweiterungen funktionieren?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text":"Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen." }
+          }]
+      }
+  </script>
+
 World of Warcraft ist eines der größten <a href="https://de.wikipedia.org/wiki/Massively_Multiplayer_Online_Role-Playing_Game" target="_blank">MMORPGs</a> auf dem Markt und es wird immer größer.
 
 Das ist auch kein Wunder!
@@ -137,6 +159,17 @@ Besonders sticht die große 1000 GB SSD Festplatte hervor. Blitzschnell ohne ner
 Weitere Merkmale sind die leise Kühlung das Full HD Display, die 20 GB ! DDR4 RAM Arbeitsspeicher, Windows 11 und das absolut leichte Gewicht von nur 2,2 KG was besonders für Laptop Nutzer die auch gern mal unterwegs sind von Bedeutung ist.
 
 Der Preis ist unschlagbar für das was man hier alles bekommt.
+
+## Die häufigsten Fragen
+
+### Wieviel sollte ein Laptop für WoW kosten?
+
+Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderungen. Für ein vernünftiges Speielerlebnis, sollte man nach aktuellen Modellen, schon ca. 500€ - 700€ ausgeben.
+
+### Werden alle Erweiterungen funktionieren?
+
+Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen.
 
 ## Fazit
 

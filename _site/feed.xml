@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-29T11:08:35+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop fürs Home Office 2022 Computer - Techlinko</title><link href="http://localhost:4000/laptop-home-office" rel="alternate" type="text/html" title="Laptop fürs Home Office 2022 Computer - Techlinko" /><published>2021-04-29T00:00:00+02:00</published><updated>2021-04-29T00:00:00+02:00</updated><id>http://localhost:4000/home</id><content type="html" xml:base="http://localhost:4000/laptop-home-office">&lt;h2 id=&quot;laptop-fürs-home-office-2022&quot;&gt;Laptop fürs Home Office 2022&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-29T11:14:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Techlinko</title><subtitle>Techlinko ist ein Tech Blog der sich rund um Themen wie Windows, PC, Apple und PC Buildungs beschäftigt. Wir geben hilfreiche Tipps wie z.B. wie Sie ihren Smartscreen ausschalten.</subtitle><entry><title type="html">Laptop fürs Home Office 2022 Computer - Techlinko</title><link href="http://localhost:4000/laptop-home-office" rel="alternate" type="text/html" title="Laptop fürs Home Office 2022 Computer - Techlinko" /><published>2021-04-29T00:00:00+02:00</published><updated>2021-04-29T00:00:00+02:00</updated><id>http://localhost:4000/home</id><content type="html" xml:base="http://localhost:4000/laptop-home-office">&lt;h2 id=&quot;laptop-fürs-home-office-2022&quot;&gt;Laptop fürs Home Office 2022&lt;/h2&gt;
 
 &lt;p&gt;Das Thema Corona hat so manches verändert.&lt;/p&gt;
 
@@ -652,7 +652,29 @@ Preis: ab 12,9” ab 1099 €&lt;/p&gt;
 &lt;h3 id=&quot;hilfreiche-links&quot;&gt;Hilfreiche Links&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;/ps5-fernseher&quot;&gt;Bester Fernseher PS5&lt;/a&gt;
-&lt;a href=&quot;/ps5-ssd&quot;&gt;Beste SSD für PS5&lt;/a&gt;&lt;/p&gt;</content><author><name>Techlinko</name></author><summary type="html">Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.</summary></entry><entry><title type="html">Laptop für WoW 2022 [World of Warcraft]</title><link href="http://localhost:4000/geeigneter-laptop-wow" rel="alternate" type="text/html" title="Laptop für WoW 2022 [World of Warcraft]" /><published>2019-06-01T00:00:00+02:00</published><updated>2019-06-01T00:00:00+02:00</updated><id>http://localhost:4000/laptop-fuer-wow</id><content type="html" xml:base="http://localhost:4000/geeigneter-laptop-wow">&lt;p&gt;World of Warcraft ist eines der größten &lt;a href=&quot;https://de.wikipedia.org/wiki/Massively_Multiplayer_Online_Role-Playing_Game&quot; target=&quot;_blank&quot;&gt;MMORPGs&lt;/a&gt; auf dem Markt und es wird immer größer.&lt;/p&gt;
+&lt;a href=&quot;/ps5-ssd&quot;&gt;Beste SSD für PS5&lt;/a&gt;&lt;/p&gt;</content><author><name>Techlinko</name></author><summary type="html">Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.</summary></entry><entry><title type="html">Laptop für WoW 2022 [World of Warcraft]</title><link href="http://localhost:4000/geeigneter-laptop-wow" rel="alternate" type="text/html" title="Laptop für WoW 2022 [World of Warcraft]" /><published>2019-06-01T00:00:00+02:00</published><updated>2019-06-01T00:00:00+02:00</updated><id>http://localhost:4000/laptop-fuer-wow</id><content type="html" xml:base="http://localhost:4000/geeigneter-laptop-wow">&lt;script type=&quot;application/ld+json&quot;&gt;
+      {
+        &quot;@context&quot;: &quot;https://schema.org&quot;,
+        &quot;@type&quot;: &quot;FAQPage&quot;,
+        &quot;mainEntity&quot;: [{
+          &quot;@type&quot;: &quot;Question&quot;,
+          &quot;name&quot;: &quot;Wieviel sollte ein Laptop für WoW kosten?&quot;,
+          &quot;acceptedAnswer&quot;: {
+            &quot;@type&quot;: &quot;Answer&quot;,
+            &quot;text&quot;: &quot;Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderungen. Für ein vernünftiges Speielerlebnis, sollte man nach aktuellen Modellen, schon ca. 500€ - 700€ ausgeben.&quot;
+          }
+        }, {
+          &quot;@type&quot;: &quot;Question&quot;,
+          &quot;name&quot;: &quot;Werden alle Erweiterungen funktionieren?&quot;,
+          &quot;acceptedAnswer&quot;: {
+            &quot;@type&quot;: &quot;Answer&quot;,
+            &quot;text&quot;:&quot;Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen.&quot; }
+          }]
+      }
+  &lt;/script&gt;
+
+&lt;p&gt;World of Warcraft ist eines der größten &lt;a href=&quot;https://de.wikipedia.org/wiki/Massively_Multiplayer_Online_Role-Playing_Game&quot; target=&quot;_blank&quot;&gt;MMORPGs&lt;/a&gt; auf dem Markt und es wird immer größer.&lt;/p&gt;
 
 &lt;p&gt;Das ist auch kein Wunder!&lt;/p&gt;
 
@@ -675,6 +697,7 @@ Preis: ab 12,9” ab 1099 €&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;#lenovo---legion-5&quot; id=&quot;markdown-toc-lenovo---legion-5&quot;&gt;Lenovo - Legion 5&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#asus-tuf-gaming-f15&quot; id=&quot;markdown-toc-asus-tuf-gaming-f15&quot;&gt;ASUS TUF Gaming F15&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#lenovo-fullhd-156-zoll-gaming-notebook&quot; id=&quot;markdown-toc-lenovo-fullhd-156-zoll-gaming-notebook&quot;&gt;Lenovo (FullHD 15,6 Zoll) Gaming Notebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#die-häufigsten-fragen&quot; id=&quot;markdown-toc-die-häufigsten-fragen&quot;&gt;Die häufigsten Fragen&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fazit&quot; id=&quot;markdown-toc-fazit&quot;&gt;Fazit&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -781,6 +804,17 @@ welcher genug Leistung bietet für Gaming, Home-Office oder Multimedia.&lt;/p&gt
 &lt;p&gt;Weitere Merkmale sind die leise Kühlung das Full HD Display, die 20 GB ! DDR4 RAM Arbeitsspeicher, Windows 11 und das absolut leichte Gewicht von nur 2,2 KG was besonders für Laptop Nutzer die auch gern mal unterwegs sind von Bedeutung ist.&lt;/p&gt;
 
 &lt;p&gt;Der Preis ist unschlagbar für das was man hier alles bekommt.&lt;/p&gt;
+
+&lt;h2 id=&quot;die-häufigsten-fragen&quot;&gt;Die häufigsten Fragen&lt;/h2&gt;
+
+&lt;h3 id=&quot;wieviel-sollte-ein-laptop-für-wow-kosten&quot;&gt;Wieviel sollte ein Laptop für WoW kosten?&lt;/h3&gt;
+
+&lt;p&gt;Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderungen. Für ein vernünftiges Speielerlebnis, sollte man nach aktuellen Modellen, schon ca. 500€ - 700€ ausgeben.&lt;/p&gt;
+
+&lt;h3 id=&quot;werden-alle-erweiterungen-funktionieren&quot;&gt;Werden alle Erweiterungen funktionieren?&lt;/h3&gt;
+
+&lt;p&gt;Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen.&lt;/p&gt;
 
 &lt;h2 id=&quot;fazit&quot;&gt;Fazit&lt;/h2&gt;
 
