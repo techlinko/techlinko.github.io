@@ -6,4 +6,4 @@ layout: default
 title: Techlinko - Der Technik und Gaming Blog 2022
 ---
 
-Willkommen bei Techlinko. Wir haben uns zur Aufgabe gemacht die beste technik für euch zu testen und euch unsere Ergebnisse vorzustellen. Aktuell findet Ihr bei uns größtenteils Laptop Empfehlungen. Allerdings sind neue Artikel bereits in der Pipeline. Besucht uns einfach öfter. 
+Willkommen bei Techlinko. Wir haben uns zur Aufgabe gemacht die beste Technik 2022 für euch zu testen und euch unsere Ergebnisse vorzustellen. Aktuell findet Ihr bei uns größtenteils Laptop Empfehlungen. Allerdings sind neue Artikel bereits in der Pipeline. Besucht uns einfach öfter. 
