@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Techlinko - Der Technik und Gaming Blog 2020
+title: Techlinko - Der Technik und Gaming Blog 2022
 ---
 

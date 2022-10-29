@@ -13,3 +13,5 @@ Der Technologiemarkt ist sehr groß, mit so vielen Produkten, aus denen man wäh
 Deshalb sind wir hier. Wir führen Sie zum richtigen technischen Produkt.
 
 Wir helfen Ihnen, die besten Laptops, Gaming-Laptops und Smartphones auf dem Markt zu finden.
+
+

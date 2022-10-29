@@ -17,13 +17,22 @@
   <body>
 
 
-    {% include hero-zoom.html %}
     
     {% include header.html %}
 
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+
+
+
+        <time class="date" itemprop="dateModified" datetime="{{ page.update }}">Aktualisiert: <span class="updated">{{ page.update }}</span></time><br>
+        <span class="author" itemscope="" itemprop="author" itemtype="http://schema.org/Person">Verfasst von <a href="/about">{{ page.author}}</a> </span>
+
+        <br>
+        <br>
+
+        <img src="{{ page.image }}" alt="{{ page.alt }}">
 
         <h1>{{ page.title }}</h1>
 

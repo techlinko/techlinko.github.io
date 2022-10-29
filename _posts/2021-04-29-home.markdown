@@ -1,7 +1,7 @@
 ---
 layout: home2
-title:  Laptop fürs Home Office 2021 Computer - Techlinko
-categories: laptop hilfe
+title:  Laptop fürs Home Office 2022 Computer - Techlinko
+update: 29. Oktober 2022
 image: /laptop-fuer-home-office.png
 permalink: /laptop-home-office
 excerpt: Das Thema Corona hat so manches verändert.Haben Sie kürzlich begonnen, von zu Hause aus zu arbeiten? Sie müssen erkannt haben, dass es nicht so EINFACH ist, wie es sich anhört.
@@ -9,7 +9,7 @@ excerpt: Das Thema Corona hat so manches verändert.Haben Sie kürzlich begonnen
 
  
 
-## Laptop fürs Home Office 2020
+## Laptop fürs Home Office 2022
 
 Das Thema Corona hat so manches verändert.
 

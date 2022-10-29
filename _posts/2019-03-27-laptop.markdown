@@ -1,8 +1,7 @@
 ---
 layout: home2
 title:  "Laptop für die Buchhaltung [Rechnungswesen PC]"
-date:   2019-03-27 16:20:19 +0100
-categories: laptop hilfe
+update: 29. Oktober 2022
 permalink: /laptop-buchhaltung
 excerpt: Schluss mit Kopfschmerzen beim Laptop Kauf. Wir zeigen euch schnell und einfach aus was es bei einem Laptop für die Buchführung bzw. das Rechnungswesen ankommt.
 ---
