@@ -25,6 +25,8 @@ Ich zeige euch heute, was ich bei meiner drei Monatinge Recherche herausgefunden
 
 Wir haben eine Liste von Laptops zusammengestellt, die <a href="https://de.wikipedia.org/wiki/World_of_Warcraft" target="_blank">World of Warcraft</a> (WOW) ausführen können, und sie in Kategorien eingeteilt - Gaming-Laptops (beste, gute und billige) und normale Laptops.
 
+### Inhaltsverzeichnis
+
 * TOC
 {:toc}
 
