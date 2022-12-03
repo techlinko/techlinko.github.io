@@ -3,7 +3,7 @@ title: Laptop für WoW 2022 [World of Warcraft]
 image: /laptop-fuer-world-of-warcraft.webp
 alt: bester laptop WoW 2022
 permalink: /geeigneter-laptop-wow
-update: 29. Oktober 2022
+update: 03. Dezember 2022
 author: Techlinko
 layout: home2
 excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer. Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden. 
@@ -27,7 +27,7 @@ description: Seien wir ehrlich, World of Warcraft auf einem Laptop zu spielen ma
           "acceptedAnswer": {
             "@type": "Answer",
             "text":"Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
-Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen." }
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte wählen." }
           }]
       }
   </script>
@@ -42,7 +42,7 @@ Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Rel
 
 Du willst nicht einfach irgendeinen Laptop. Um das Spiel in vollen Zügen zu genießen, benötigt es ein paar Dinge, dabei muss es nicht teuer sein.
 
-Ich zeige euch heute, was ich bei meiner drei Monatinge Recherche herausgefunden habe, so dass ihr danach Experte seit, wenn es um das Thema Bester Laptop für World of Warcraft geht.
+Ich zeige euch heute, was ich bei meiner drei Monatinge Recherche herausgefunden habe, so dass ihr danach Experte seit, wenn es um das Thema bester Laptop für World of Warcraft geht.
 
 Wir haben eine Liste von Laptops zusammengestellt, die <a href="https://de.wikipedia.org/wiki/World_of_Warcraft" target="_blank">World of Warcraft</a> (WOW) ausführen können, und sie in Kategorien eingeteilt - Gaming-Laptops (beste, gute und billige) und normale Laptops.
 
@@ -50,6 +50,19 @@ Wir haben eine Liste von Laptops zusammengestellt, die <a href="https://de.wikip
 
 * TOC
 {:toc}
+
+
+## Die Gewinner: Stand Dezember 2022
+
+### Lenovo (FullHD 15,6 Zoll) Gaming Notebook
+
+<a href="https://www.amazon.de/Lenovo-Notebook-12-Thread-RadeonTM-6866/dp/B09PBSJ41W?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=13V9FA3RECUHU&keywords=Lenovo+%28FullHD+15%2C6+Zoll%29+Gaming+Notebook&qid=1669923532&sprefix=lenovo+fullhd+15+6+zoll+gaming+notebook%2Caps%2C210&sr=8-3&linkCode=li3&tag=marocshaolin-21&linkId=3504c9678e270a7086e8c0fcd96e432d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09PBSJ41W&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li3&o=3&a=B09PBSJ41W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+### Lenovo Legion 5 Pro Gaming Laptop
+
+<a href="https://www.amazon.de/Lenovo-2560x1600-WideView-entspiegelt-dunkelgrau/dp/B09DPT9QJ8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1032P2MILMW5W&keywords=Lenovo+-+Legion+5&qid=1669923439&sprefix=lenovo+-+legion+5%2Caps%2C132&sr=8-1&linkCode=li3&tag=marocshaolin-21&linkId=551840274552211ea6a41e8a74207aab&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09DPT9QJ8&Format=_SL250_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li3&o=3&a=B09DPT9QJ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Viele der vorgeschlagenen Lpatops für WoW sind schnell ausverkauft. Deswegen seht ihr erst immer die Liste mit den aktuellsten Angeboten die bei Amazon verfügbar sind. Diese zwei Laptops eigenen sich aktuell am besten für WoW. 
 
 ## Bester Laptop für World of Warcraft
 
@@ -63,13 +76,11 @@ Das zweite ist die Verarbeitungsqualität.
 
 Manche Laptops sind schlecht verarbeitet oder haben einfach ein schlechtes Layout und sind daher anfällig für Fehler. Diese werden in den meisten Rezensionen nicht erwähnt, deshalb habe ich Laptops mit groben Fehlern direkt aus unserer WoW Liste rausgeworfen.
 
-Und nun zu den Gewinnern.
+Und nun schauen wir uns die WoW Laptops mal genauer an.
 
 ## Acer Nitro 5
 
-
 <a href="https://www.amazon.de/Acer-AN517-54-743Q-Gaming-Laptop-Windows/dp/B093WQXH99?crid=11DELVDGG7OZ0&keywords=gaming+laptop&qid=1666971409&qu=eyJxc2MiOiI4LjEyIiwicXNhIjoiNy43MyIsInFzcCI6IjYuOTcifQ%3D%3D&sprefix=gaming+%2Caps%2C210&sr=8-2&linkCode=li2&tag=marocshaolin-21&linkId=a362cd45ac29b5de31cbd892e1681a9d&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B093WQXH99&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B093WQXH99" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 
 Ein absolutes Kraftpaket. Dieser Laptop hat High-End-Spezifikationen, um World of Warcraft (WOW) auf einem wettbewerbsfähigen Niveau zu spielen. Unter der Haube liegt ein leistungsstarker Prozessor mit dem Intel Core i7-11800H 2,40 GHz mit bis zu 4,60 GHz Turbo-Boost!
 
@@ -88,7 +99,6 @@ Dieser Laptop wird im Grunde nicht nur WOW (Legion, Battle of Azeroth, oder ande
 Besonders nice finden wir die 4 Zonen RGB Beleuchtung der Tastatur mit einem angenehmen Druckpunkt von 1,6nm.
 
 Dank der  Speicher - Grafikkartenkombination ist dieses Laptop ideal geeignet für jede Art von Gaming; von Casual bis zum Hardcore Gamer werden alle zufrieden gestellt.
-
 
 Der Acer Nitro 5 ist einer der besten Gaming-Laptops, den Sie bekommen können, wenn Sie einen massiven Wettbewerbsvorteil nicht nur gegen Spieler wollen, sondern auch Wert auf bessere Grafiken im Spiel legen, die es ermöglichen, mehr Details zu sehen.
 
@@ -169,7 +179,7 @@ Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderu
 ### Werden alle Erweiterungen funktionieren?
 
 Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren Laptops. Was in Zukunft in den
-Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte, wählen.
+Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte wählen.
 
 ## Fazit
 
