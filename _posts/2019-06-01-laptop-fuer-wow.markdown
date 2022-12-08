@@ -1,5 +1,5 @@
 ---
-title: Laptop für WoW 2022 [World of Warcraft] 
+title: Laptop für WoW 2022 [World of Warcraft] Aktuell Getestet
 image: /laptop-fuer-world-of-warcraft.webp
 alt: bester laptop WoW 2022
 permalink: /geeigneter-laptop-wow
