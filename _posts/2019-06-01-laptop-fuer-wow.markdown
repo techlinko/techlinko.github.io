@@ -1,9 +1,9 @@
 ---
-title: Laptop für WoW 2022 [World of Warcraft] Aktuell Getestet
+title: Laptop für WoW 2023 [World of Warcraft] Aktuell Getestet
 image: /laptop-fuer-world-of-warcraft.webp
-alt: bester laptop WoW 2022
+alt: bester laptop WoW 2023
 permalink: /geeigneter-laptop-wow
-update: 14. Dezember 2022
+update: 06. Januar 2023
 author: Techlinko
 layout: home2
 excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer. Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden. 
@@ -48,7 +48,7 @@ Mit diesem Artikel findet eure Suche endlich ein Ende und euer World of Warcraft
 {:toc}
 
 
-## Die Gewinner: Stand Dezember 2022
+## Die Gewinner: Stand Januar 2023
 
 ### Lenovo (FullHD 15,6 Zoll) Gaming Notebook
 
@@ -64,7 +64,7 @@ Mit diesem Artikel findet eure Suche endlich ein Ende und euer World of Warcraft
 
 Viele der vorgeschlagenen Laptops für WoW sind schnell ausverkauft. Deswegen seht ihr erst immer die Liste mit den aktuellsten Angeboten die bei Amazon verfügbar sind. Diese drei Laptops eigenen sich aktuell am besten für World of Warcraft. 
 
-Stand: Dezember 2022. 
+Stand: Januar 2023. 
 
 ## Bester Laptop für World of Warcraft
 
@@ -168,6 +168,6 @@ Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein
 
 Also fassen wir zusammen:
 
-Der beste Laptop für World of Warcraft ist aktuell der Acer Nitro 5. Mit der Nvidia RTX 3050Ti, ist das spielen von World of Warcraft ein Genuss. Im Bereich der Budget Laptops lautet der Gewinner: Lenovo. Mit dem Lenovo Gaming Laptop 2022 läuft WoW ebenfalls super flüßig.
+Der beste Laptop für World of Warcraft ist aktuell der Acer Nitro 5. Mit der Nvidia RTX 3050Ti, ist das spielen von World of Warcraft ein Genuss. Im Bereich der Budget Laptops lautet der Gewinner: Lenovo. Mit dem Lenovo Gaming Laptop 2023 läuft WoW ebenfalls super flüßig.
 
 Nun weißt du genau, welcher Laptop für WoW geeignet ist und welcher nicht. Falls du Fragem hast, oder andere Vorschläge zum Thema WoW und Laptop, schreibe uns gerne eine Nachricht.
