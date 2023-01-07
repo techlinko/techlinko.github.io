@@ -2,6 +2,7 @@
 layout: home2
 title:  Laptop zum Programmieren 2023 [Notebook Empfehlung 2023]
 update: 07. Januar 2023
+image: /laptop-zum-programmieren.webp
 author: Techlinko
 permalink: /laptop-programmierer
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
