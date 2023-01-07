@@ -653,6 +653,11 @@ Font
   src: url("https://indestructibletype-fonthosting.github.io/jost-300-lightitalic.woff2") format("woff2"), url("https://indestructibletype-fonthosting.github.io/jost-300-lightitalic.woff") format("woff");
   font-weight: 300;
   font-style: italic; }
+@font-face {
+  font-family: 'Inter';
+  src: url("/static/Inter-Regular.ttf") format("ttf"), url("/static/Inter-Regular.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal; }
 .close {
   background: none;
   color: black;
@@ -765,3 +770,24 @@ hr {
   right: 0px;
   z-index: 1;
   display: inline-block; }
+
+.page-content {
+  background-color: whitesmoke;
+  padding-top: 0px; }
+
+.wrapper {
+  background-color: white;
+  padding-left: 32px;
+  padding-right: 32px; }
+
+.wrapper.article {
+  padding-top: 32px; }
+
+h2 {
+  font-weight: bold;
+  color: #181818; }
+
+p {
+  font-family: 'Inter';
+  font-size: 18px;
+  line-height: 30px; }

@@ -84,3 +84,13 @@ Font
       font-weight:300;
       font-style:italic
   }
+
+
+
+  @font-face{
+    font-family:'Inter';
+    src:url("/static/Inter-Regular.ttf") format("ttf"),
+    url("/static/Inter-Regular.ttf") format("woff");
+    font-weight:normal;
+    font-style:normal
+  }

@@ -28,3 +28,29 @@ hr {
     z-index: 1;
     display: inline-block;
 }
+
+.page-content {
+    background-color: whitesmoke;
+    padding-top: 0px;
+}
+
+.wrapper {
+    background-color: white;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.wrapper.article {
+    padding-top: 32px;
+}
+
+h2 {
+    font-weight: bold;
+    color: #181818;
+}
+
+p {
+    font-family: 'Inter';
+    font-size: 18px;
+    line-height: 30px;
+}
