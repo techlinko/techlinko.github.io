@@ -1,25 +1,25 @@
 ---
 layout: home2
-title:  Laptop zum Programmieren 2022 [Notebook Empfehlung 2022]
-update: 29. Oktober 2022
+title:  Laptop zum Programmieren 2023 [Notebook Empfehlung 2023]
+update: 07. Januar 2023
 author: Techlinko
 permalink: /laptop-programmierer
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 ---
 
-## 10 beste Laptops für Programmierer und Entwickler 2022
+## 10 beste Laptops für Programmierer und Entwickler 2023
  
-Die ultimative Checklist der besten Laptops für Programmierer, Coder und Entwickler 2022.
+Die ultimative Checklist der besten Laptops für Programmierer, Coder und Entwickler 2023.
 
 Um einen geeigneten Laptop für Programmierer zu finden und statt der Qual der Wahl einfach nur Vorfreude zu erleben, habe ich heute ein umfassende Liste zusammengestellt. 
 
 ### Hier ist die gute Nachricht:
 
-Unser Team hat sich die 10 beliebtesten Laptops auf dem Markt angeschaut und speziell drauf geachtet, dass sie die besonderen Bedürfnisse für Programmierer erfüllen.
+Unser Team hat sich die beliebtesten Laptops auf dem Markt angeschaut und speziell drauf geachtet, dass sie die besonderen Bedürfnisse für Programmierer erfüllen.
 
 Viele Tests reden zu lange drum herum oder wurden von den Anbietern bezahlt für das bewerben ihrer Produkte.
 
-Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende, wird dir die Entscheidung abgenommen, welcher denn nun der Richtige für dich ist.
+Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende wird dir die Entscheidung abgenommen, welcher denn nun der Richtige für dich ist.
 
 Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. Coding und programmieren ! 
 (Du kannst es auch für andere Sachen nach dem programmieren benutzen, das geht uns aber nichts an :) )
@@ -31,19 +31,15 @@ Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test
 ### Surface Microsoft
 <a href="https://www.amazon.de/Microsoft-Surface-Laptop-Intel-Platin/dp/B07XVWXW1Q/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&_encoding=UTF8&dchild=1&keywords=surface+3&qid=1588816728&returnFromLogin=1&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=2e69471dd89898b3f367310ba1ecc641&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XVWXW1Q&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07XVWXW1Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-### LincPlus
-<a href="https://www.amazon.de/dp/B07H96DZVB/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=LincPlus+P1&qid=1588816821&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7ac99ac86c2d0e7f9e4dc2b29ae394ca&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07H96DZVB&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07H96DZVB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### Aus Zenbook
 <a href="https://www.amazon.de/ASUS-ScreenPad-UX481FL-BM040T-i5-10210U-Celestial/dp/B07YL76DBK/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=asus+zenbook+pro+duo&qid=1588816861&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7f2e3dc6c32040459dd688a52dee19d3&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YL76DBK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07YL76DBK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-
-
 * TOC
 {:toc}
 
-<h2>Macbook AIR:</h2>
+## Macbook AIR
 
 Es geht los mit dem MacBook Air.
 
@@ -57,14 +53,14 @@ Wichtig für Programmierer ist auch die Möglichkeit externe Displays zu verbind
 <img src="/macbook-air-2018.jpg" alt="macbook air 2018 von oben">
 
 
-### Tastatur:
+### Tastatur für Programmierer
+
 Das Macbook Air hatte die letzten Jahre einen besonders schlechten Ruf durch die sogenannte Butterfly Technologie die in ihrer Tastatur verarbeitet war. Das hat sich aber mit dem aktuellen 2020 Modell geändert! Apple dachte sich:  Alt bewährt - neu entdeckt und greift nun auf die vom Macbook Pro Modell bekannte Scherentechnologie zurück (in Apple Marketing Sprache MAGIC KEYBOARD ) , die mit ihrem 1mm Tastendruck ein angenehmes und vor allem leises tippen ermöglicht. 
 Gesonderte Pfeiltasten erleichtern dir das navigieren und programmieren  von Code und Tabellen in Handumdrehen.
 
 Besonderen Luxus bietet die Hintergrundbeleuchtung der einzelnen Tasten und Apple hat sogar einen Umgebungslichtsensor spendiert, der das Tippen bei wenig Licht erleichtert.
 
 <img src="/macbook-air-tastatur.jpg" alt="macbook air 2018 tastatur">
-
 
 Nicht zu vergessen ist das Force Touch Trackpad. Es gilt unter IT Experten zurecht als das beste Trackpad das zurzeit erhältlich ist und wer es einmal genutzt hat möchte es nicht mehr missen.
 Reagiert auf unterschiedlich starken Druck, höchst präzise, und mit besonders großer Interaktionsfläche für die MacOS typischen Multi-touch Gesten wie auf und zu ziehen oder Zoom. 
@@ -87,7 +83,6 @@ Das Macbook besteht aus 100% recycletem Aluminium, das sich sehr edel und modern
 Gerade Digital-Nomads und welche die es werden wollen legen auf diese Eigenschaften Wert damit sie von überall aus bequem programmieren und designen können :)
 
 ### Mobilität auf ganz hohem Niveau ohne nervigem Kabelsalat. 
-
 
 
 ### Specs:
@@ -149,9 +144,6 @@ Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde weniger a
 * Vier Thunderbolt 3 (USB-C) Anschlüsse
 * Preis: ab 1499 €
 
-
-
-
 ## Microsoft Surface Laptop 3
 
 Es muss nicht immer Apple sein. Besonders bei den Laptops hat Microsoft ordentlich aufgeholt und ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
@@ -193,8 +185,6 @@ Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und 
 
 ## Dell XPS 13
 
-
-
 Dell ist bekannt für jahrelange Erfahrung im IT und Business Bereich. Die Marke verzichtet auf Schnick-Schnack und bietet eine Allround Paket für alle die einen Zeitgerechten Allrounder haben möchten. 
 
 Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
@@ -229,10 +219,7 @@ Preis: 1.478,90 €
 Programmieren abgehakt, warten aufs kompilieren im Hintergrund während du schon Chrome öffnest um auf Twitter deinen  Feed zu checken oder direkt eine Runde zocken auf einem hochscharfen 4k Monitor? 
 Dann bist du hier genau richtig! 
 
-
 <img src="/dell-xps15-programmierer-laptop.png" alt="dell xps 15 laptop fuer programmierer">
-
-
 
 
 Dell bietet in diesem Modell eines der wenigen 4K Displays mit OLED in diesem Test und wer schonmal im Genuss eines OLED Displays gekommen  ist, weiß was auf ihn zukommt. OLED ist die einzige Display Technologie die ECHTES Schwarz bietet (die einzelnen Pixel schalten sich aus, keine Hintergrundbeleuchtung= real blackness).
@@ -295,8 +282,6 @@ Deine Programmierer Fähigkeiten stehen hiermit aufjeden Fall nichts im Wege.
 * GeForce RTX2060 Grafik in Gaming-Qualität
 * Bis zu 1TB PCIe® x4 SSD
 * Bis zu 32GB DDR4 2666MHz
-
-reis: ab 2.699,00 €
 
 
 ## Budget Laptop für Programmierer
@@ -361,8 +346,7 @@ Preis: ab 12,9" ab 1099 €
 
 ### Hilfreiche Links
 
-[Bester Fernseher PS5](/ps5-fernseher)
-[Beste SSD für PS5](/ps5-ssd)
+[Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
 
 
