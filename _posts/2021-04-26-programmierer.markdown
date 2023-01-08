@@ -27,15 +27,17 @@ Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass
 
 Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
-## hier übrigens die Gewinner vorab 🌟:
+## Hier übrigens die Gewinner vorab 🌟
 
-### Surface Microsoft
-<a href="https://www.amazon.de/Microsoft-Surface-Laptop-Intel-Platin/dp/B07XVWXW1Q/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&_encoding=UTF8&dchild=1&keywords=surface+3&qid=1588816728&returnFromLogin=1&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=2e69471dd89898b3f367310ba1ecc641&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07XVWXW1Q&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07XVWXW1Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+### Macbook Air:
+<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3BMTSKT?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=7VNNII54NDMD&keywords=macbook%2Bair&qid=1673093818&sprefix=macbook%2Bai%2Caps%2C117&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=c2c69f95020207dc9f8d8987407ebf3e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3BMTSKT&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3BMTSKT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-### Aus Zenbook
-<a href="https://www.amazon.de/ASUS-ScreenPad-UX481FL-BM040T-i5-10210U-Celestial/dp/B07YL76DBK/ref=as_li_ss_il?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=asus+zenbook+pro+duo&qid=1588816861&sr=8-3&linkCode=li2&tag=marocshaolin-21&linkId=7f2e3dc6c32040459dd688a52dee19d3&language=de_DE" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07YL76DBK&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B07YL76DBK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+### Macbook Pro:
+<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3C5P8N8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MW8OTRFWOA1&keywords=macbook%2Bpro&qid=1673093823&sprefix=macbook%2Bpro%2Caps%2C106&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=e0b73abde5bead0008796c498a6f213f&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3C5P8N8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3C5P8N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+### Dell XPS 13:
+<a href="https://www.amazon.de/Dell-1920x1200-Generation-i7-1260P-Fingerprint/dp/B09XN8YBY7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2T0VM8MI5GEMI&keywords=dell+xps&qid=1673093845&sprefix=dell+xp%2Caps%2C113&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=li2&tag=marocshaolin-21&linkId=4bc99443010caa44a14eb52311f23787&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XN8YBY7&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B09XN8YBY7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * TOC
 {:toc}
