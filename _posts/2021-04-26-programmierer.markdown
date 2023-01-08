@@ -178,6 +178,38 @@ Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde weniger a
 * Vier Thunderbolt 3 (USB-C) Anschlüsse
 * Preis: ab 1499 €
 
+
+## Dell XPS 13
+
+Dell ist bekannt für jahrelange Erfahrung im IT und Business Bereich. Die Marke verzichtet auf Schnick-Schnack und bietet eine Allround Paket für alle die einen Zeitgerechten Allrounder haben möchten. 
+
+Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
+
+<img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
+
+Als größtes Manko ist wohl dem Ultrabook anzukreiden, dass es keine dedizierte Grafikkarte zu bieten hat. Falls du also nach dem programmieren noch eine Runde zocken willst, solltest du eher zu unserem Gaming Tipp zugreifen.
+
+Vom größten Manko zum größten Pluspunkt: Der Akku hält satte 15 Stunden im reinen Coding Test und das bedeutet, dass du gute 2 Tage ohne Akku auskommst. Keine Sorge dass du aus deinem Programmier-Flow gerissen wirst!
+
+Wenn du neben programmieren auch nicht auf gaming oder multimedia verzichten willst, dann ließ im nächsten Abschnitt weiter über den großen Bruder, den Dell XPS 15 !
+
+
+### Specs:
+* Prozessor-Taktfrequenz: 1,8 GHz
+* Prozessorfamilie: Intel Core i7 der achten Generation
+* Anzahl Prozessorkerne: 4
+* RAM-Speicher: 8 GB
+* Interner Speichertyp: LPDDR3-SDRAM
+* RAM-Speicher maximal: 16 GB
+* Bildschirmdiagonale: 33,8 cm (13.3 Zoll)
+* Bildschirmauflösung: 1920 x 1080 Pixel
+* Touchscreen: Nein
+
+### Anschlüsse und Schnittstellen
+
+* USB 3.2 Gen 1 (3.1 Gen 1) Anzahl der Steckplätze vom Typ C: 1
+* Preis: ca 1.399 €
+
 ## Microsoft Surface Laptop 3
 
 Es muss nicht immer Apple sein. Besonders bei den Laptops hat Microsoft ordentlich aufgeholt und ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
@@ -216,38 +248,6 @@ Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und 
 * 8GB Ram
 * 128 SSD Festplatte
  
-
-
-## Dell XPS 13
-
-Dell ist bekannt für jahrelange Erfahrung im IT und Business Bereich. Die Marke verzichtet auf Schnick-Schnack und bietet eine Allround Paket für alle die einen Zeitgerechten Allrounder haben möchten. 
-
-Für Windows Liebhaber bietet sich hier die Möglichkeit ein edles Ultrabook für seine Alltags Arbeiten zu ergattern. Das Display ist sehr kontrastreich und besitzt eine Full HD Auflösung in 1920 x 1080. Außerdem ist das Display entspiegelt und bietet eine ordentliche Helligkeit, mit der du auch im Freien keine Probleme beim programmieren haben wirst!
-
-<img src="/dell-xps13-programmierer-laptop.png" alt="dell xps 13 laptop fuer programmierer">
-
-Als größtes Manko ist wohl dem Ultrabook anzukreiden, dass es keine dedizierte Grafikkarte zu bieten hat. Falls du also nach dem programmieren noch eine Runde zocken willst, solltest du eher zu unserem Gaming Tipp zugreifen.
-
-Vom größten Manko zum größten Pluspunkt: Der Akku hält satte 15 Stunden im reinen Coding Test und das bedeutet, dass du gute 2 Tage ohne Akku auskommst. Keine Sorge dass du aus deinem Programmier-Flow gerissen wirst!
-
-Wenn du neben programmieren auch nicht auf gaming oder multimedia verzichten willst, dann ließ im nächsten Abschnitt weiter über den großen Bruder, den Dell XPS 15 !
-
-
-### Specs:
-* Prozessor-Taktfrequenz: 1,8 GHz
-* Prozessorfamilie: Intel Core i7 der achten Generation
-* Anzahl Prozessorkerne: 4
-* RAM-Speicher: 8 GB
-* Interner Speichertyp: LPDDR3-SDRAM
-* RAM-Speicher maximal: 16 GB
-* Bildschirmdiagonale: 33,8 cm (13.3 Zoll)
-* Bildschirmauflösung: 1920 x 1080 Pixel
-* Touchscreen: Nein
-
-### Anschlüsse und Schnittstellen
-
-* USB 3.2 Gen 1 (3.1 Gen 1) Anzahl der Steckplätze vom Typ C: 1
-Preis: 1.478,90 €
 
 
 ## Dell XPS 15
