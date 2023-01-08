@@ -783,7 +783,10 @@ hr {
 .wrapper.article {
   padding-top: 32px; }
 
-h2 {
+h1 {
+  font-family: 'Inter'; }
+
+h2, h3 {
   font-weight: bold;
   color: #181818; }
 
@@ -791,3 +794,27 @@ p {
   font-family: 'Inter';
   font-size: 18px;
   line-height: 30px; }
+
+#markdown-toc {
+  border: 1px solid #dedede;
+  padding-left: 34px;
+  list-style: auto;
+  margin: 0 0 32px 0;
+  padding: 16px 16px 16px 26px;
+  line-height: 28px; }
+
+.article_img {
+  object-fit: cover; }
+
+@media screen and (min-width: 650px) {
+  .links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+
+  .article_details {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 18px;
+    padding-bottom: 8px; } }

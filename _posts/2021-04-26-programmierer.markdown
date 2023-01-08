@@ -6,7 +6,49 @@ image: /laptop-zum-programmieren.webp
 author: Techlinko
 permalink: /laptop-programmierer
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
+height_img: 250px
+width_img: 100%
 ---
+
+Programmieren macht einfach noch mehr Spaß wenn man den richtigen Laptop dafür hat.
+
+Denn ob du es glaubst oder nicht, es gibt Dinge die ein Programmierer oder Entwickler beim Laptop Kauf beachten sollte.
+
+Was hier wichtig ist und was ihr euch sparen könnt, erfahrt ihr hier in unserem Laptop Ratgeber für Programmierer.
+
+Alles ganz aktuell fürs Frühjar 2023.
+
+### Hier übrigens die Gewinner vorab 🌟
+
+<div class="links">
+
+
+<div class="link">
+
+<h4>MacBook Air</h4>
+<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3BMTSKT?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=7VNNII54NDMD&keywords=macbook%2Bair&qid=1673093818&sprefix=macbook%2Bai%2Caps%2C117&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=c2c69f95020207dc9f8d8987407ebf3e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3BMTSKT&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3BMTSKT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+
+<div class="link">
+
+<h4>Macbook Pro</h4>
+
+<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3C5P8N8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MW8OTRFWOA1&keywords=macbook%2Bpro&qid=1673093823&sprefix=macbook%2Bpro%2Caps%2C106&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=e0b73abde5bead0008796c498a6f213f&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3C5P8N8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3C5P8N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+
+<div class="link">
+
+<h4>Dell XPS 13</h4>
+<a href="https://www.amazon.de/Dell-1920x1200-Generation-i7-1260P-Fingerprint/dp/B09XN8YBY7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2T0VM8MI5GEMI&keywords=dell+xps&qid=1673093845&sprefix=dell+xp%2Caps%2C113&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=li2&tag=marocshaolin-21&linkId=4bc99443010caa44a14eb52311f23787&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XN8YBY7&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B09XN8YBY7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div>
+
+
+</div>
+
+
+### Inhaltsverzeichnis
+* TOC
+{:toc}
 
 ## 10 beste Laptops für Programmierer und Entwickler 2023
  
@@ -20,29 +62,14 @@ Unser Team hat sich die beliebtesten Laptops auf dem Markt angeschaut und spezie
 
 Viele Tests reden zu lange drum herum oder wurden von den Anbietern bezahlt für das bewerben ihrer Produkte.
 
-Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende wird dir die Entscheidung abgenommen, welcher denn nun der Richtige für dich ist.
+Wir versprechen dir, dass du hier eine unabhängige Meinung erhältst und am Ende wird dir die Entscheidung abgenommen, welcher Laptop denn nun der Richtige für dich ist.
 
 Keine Sorge, der Text fasst alles kompakt zusammen und wir garantieren dir, dass du in nur 10 Minuten fertig bist mit der Suche und dich auf das Wesentliche konzentrieren kannst. Coding und programmieren ! 
 (Du kannst es auch für andere Sachen nach dem programmieren benutzen, das geht uns aber nichts an :) )
 
 Also lasst uns keine Zeit verschwenden und direkt einsteigen mit dem ersten Test!
 
-## Hier übrigens die Gewinner vorab 🌟
-
-### Macbook Air:
-<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3BMTSKT?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=7VNNII54NDMD&keywords=macbook%2Bair&qid=1673093818&sprefix=macbook%2Bai%2Caps%2C117&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=c2c69f95020207dc9f8d8987407ebf3e&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3BMTSKT&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3BMTSKT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-### Macbook Pro:
-<a href="https://www.amazon.de/2022-Apple-MacBook-Laptop-Chip/dp/B0B3C5P8N8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=37MW8OTRFWOA1&keywords=macbook%2Bpro&qid=1673093823&sprefix=macbook%2Bpro%2Caps%2C106&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li2&tag=marocshaolin-21&linkId=e0b73abde5bead0008796c498a6f213f&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B3C5P8N8&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B0B3C5P8N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-### Dell XPS 13:
-<a href="https://www.amazon.de/Dell-1920x1200-Generation-i7-1260P-Fingerprint/dp/B09XN8YBY7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2T0VM8MI5GEMI&keywords=dell+xps&qid=1673093845&sprefix=dell+xp%2Caps%2C113&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=li2&tag=marocshaolin-21&linkId=4bc99443010caa44a14eb52311f23787&language=de_DE&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09XN8YBY7&Format=_SL160_&ID=AsinImage&MarketPlace=DE&ServiceVersion=20070822&WS=1&tag=marocshaolin-21&language=de_DE" ></a><img src="https://ir-de.amazon-adsystem.com/e/ir?t=marocshaolin-21&language=de_DE&l=li2&o=3&a=B09XN8YBY7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-* TOC
-{:toc}
-
-## Macbook AIR
+## MacBook Air
 
 Es geht los mit dem MacBook Air.
 
@@ -115,13 +142,17 @@ Gerade Digital-Nomads und welche die es werden wollen legen auf diese Eigenschaf
 * 8 GB 3733 MHz LPDDR4X (optional 16 GB)
 
 
-### Pro:          ### Con:
-* Design           *Preis
-* Mobilität        *Gaming tauglichkeit
-* Komfort          *Auf MacOS beschränkt (ohne Virtual Machine)
+### Pro:          
+* Design           
+* Mobilität       
+* Komfort          
 
+### Con:
+* Preis
+* Gaming tauglichkeit
+* Auf MacOS beschränkt (ohne Virtual Machine)
 
-## Macbook Pro
+## MacBook Pro
 
 Wem das Macbook Air schon gefällt aber noch anspruchsvollere Arbeiten auf Workstation Niveau abliefern will, für den ist das Macbook Pro genau das Richtige.
 
@@ -152,6 +183,7 @@ Die Akkulaufzeit ist auch hier phänomenal mit 10 Stunden. Eine Stunde weniger a
 Es muss nicht immer Apple sein. Besonders bei den Laptops hat Microsoft ordentlich aufgeholt und ist bei weitem nicht mehr so langweilig wie es in der Vergangenheit üblich war. 
 
 Wir stellen euch das Surface Laptop 3 vor:
+
 Für viele zunächst ungewohnt ist das neue Touch Display des Surface Laptop. Es kommt in der 13,5 Zoll Größe daher mit einer Auflösung von 2256 x 1504 (201 PPI). Es ist das einzige Laptop in unserer Zusammenfassung, das ein 3:2 Seitenverhältnis besitzt.
 
 <img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
@@ -342,9 +374,6 @@ Deiner Kreativität sind keine Grenzen gesetzt beim Coding mit dem Ipad Pro.
 
 Preis: ab 11"    ab 879 €   
 Preis: ab 12,9" ab 1099 €
-
-
-
 
 
 ### Hilfreiche Links
