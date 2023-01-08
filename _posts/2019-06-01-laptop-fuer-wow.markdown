@@ -110,7 +110,10 @@ Schließlich braucht ihr einen Laptop mit einem hochwertigen Bildschirm. World o
 
 Zusätzlich zu diesen wichtigen Features gibt es noch einige andere Merkmale, die ihr bei der Auswahl eures Gaming-Laptops für World of Warcraft beachten könnt.
 
+
 ## Tastatur
+
+<img src="/bester-laptop-wow-tastatur.webp" alt="tastatur für wow laptop">
 
 Achtet auch auf die Tastatur und das Touchpad. World of Warcraft ist ein Spiel, das viele Tastatureingaben erfordert, daher solltet ihr ein Notebook mit einer komfortablen und reaktionsschnellen Tastatur wählen. Achtet auf ein Notebook mit einer beleuchteten Tastatur, damit ihr die Tasten auch bei schlechten Lichtverhältnissen gut erkennen könnt. Auch das Touchpad sollte reaktionsschnell und einfach zu bedienen sein.
 
