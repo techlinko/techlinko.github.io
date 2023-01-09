@@ -390,6 +390,8 @@ Zum Reisen empfehlen wir auf jeden Fall das MacBook Air. Mit seinem 1,29 kg an G
 
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
+[Gaming Laptops unter 1000 €](//gaming-laptops-unter)
+
 
  <script type="application/ld+json">
 {

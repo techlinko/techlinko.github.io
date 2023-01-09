@@ -187,3 +187,5 @@ Nun weißt du genau, welcher Laptop für WoW geeignet ist und welcher nicht. Fal
 ### Hilfreiche Links
 
 [Laptop für Programmierer 2023](/laptop-programmierer)
+
+[Gaming Laptops unter 1000 €](//gaming-laptops-unter)
