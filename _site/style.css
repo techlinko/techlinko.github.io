@@ -820,6 +820,9 @@ p {
     border-bottom: 1px solid #dddddd;
     margin-bottom: 18px;
     padding-bottom: 8px; } }
+.home {
+  padding-top: 32px; }
+
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea {
   width: 100%;
