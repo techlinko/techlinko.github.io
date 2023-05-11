@@ -218,7 +218,7 @@ Wir stellen euch das Surface Laptop 3 vor:
 
 Für viele zunächst ungewohnt ist das neue Touch Display des Surface Laptop. Es kommt in der 13,5 Zoll Größe daher mit einer Auflösung von 2256 x 1504 (201 PPI). Es ist das einzige Laptop in unserer Zusammenfassung, das ein 3:2 Seitenverhältnis besitzt.
 
-<img src="microsoft-surface-2.png" alt="microsoft-surface 2 fuer programmierer">
+
 
 Programmierer können (sich erstmal daran gewöhnt) vom Touch Display profitieren. Wir haben in unserem Test nach kurzer Zeit festgestellt wie natürlich sich das scrollen und zoomen in unseren Coding Sessions anfühlt, da es stark an das Gefühl erinnert, dass wir bereits von unseren Smartphones gewohnt sind.
 Einziges Manko, ist die starke Spiegelung des Displays. Das kann besonders beim programmieren im Freien  ein Problem für euch darstellen.
@@ -226,7 +226,7 @@ Einziges Manko, ist die starke Spiegelung des Displays. Das kann besonders beim 
 
 Die Tastaturauflage kann auch mit einer einzigartigen Alcantara Auflage bestellt werden, was wir euch garantiert Nahe legen. Die Handballen haben so einen bequemen Platz bekommen und ihr werdet keine Druckpunkte oder Schmerzen in euren Handgelenken bekommen nach einer herausfordernden Programmier Session. Die Auflage bleibt stets angenehm kühl.
 
-<img src="/microsoft-surface-2-bildschirm.png" alt="bildschirm microsoft surface 2">
+
 
 Das Design ist kurz und knapp sehr gelungen und hinkt den Macbooks nicht mehr weit hinterher. Ebenfalls die Mobilität wurde auf Apple Niveau gebracht mit einer Akkulaufzeit von 11,5 Stunden ! (das übertrifft sogar das Macbook Air um eine halbe Stunde. Immerhin.)
 
@@ -239,7 +239,6 @@ Die Konfiguration beginnt bei der 10. Intel Generation i5 , 8 GB Ram und leider 
 Zum programmieren reicht diese Leistung aus, aber für die Videobearbeitung und anspruchsvollere Dienste, raten wir euch auf ein Notebook mit dedizierter Grafikeinheit zurückzugreifen.
 
 
-<img src="microsoft-surface-2-komplett.png" alt="microsoft-surface-2 fuer programmierer">
 
 
 ### Specs:
@@ -385,12 +384,15 @@ Zu den günstigsten Optionen gehört ein gebrauchtes MacBook Air M1 oder für Wi
 Zum Reisen empfehlen wir auf jeden Fall das MacBook Air. Mit seinem 1,29 kg an Gewicht eignet es sich perfekt zum reisen und programmieren. Daneben hat es einen Akku der mehrere Stunden hält (7-8).
 
 
-
-### Hilfreiche Links
+## Hilfreiche Links
 
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
-[Gaming Laptops unter 1000 €](//gaming-laptops-unter)
+[Gaming Laptops unter 1000 €](/gaming-laptops-unter)
+
+[Laptops für Sims 4](/laptops-fuer-sims-4)
+
+
 
 
  <script type="application/ld+json">

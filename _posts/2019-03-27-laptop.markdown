@@ -379,11 +379,13 @@ Der Lenovo Ideapad 330 ist ein preisgünstiger Laptop für Buchhalter und Finanz
 <li>(nur Datenübertragung), Kopfhörerausgang / Mikrofoneingang Kombianschluss</li>
 </ul>
 
-### Hilfreiche Links
+## Hilfreiche Links
 
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
-[Gaming Laptops unter 1000 €](//gaming-laptops-unter)
+[Laptop für Programmierer](/laptop-programmierer)
 
-[Laptop für Programmierer 2023](/laptop-programmierer)
+[Gaming Laptops unter 1000 €](/gaming-laptops-unter)
+
+[Laptops für Sims 4](/laptops-fuer-sims-4)
 

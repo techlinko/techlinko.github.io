@@ -184,8 +184,11 @@ Der beste Laptop für World of Warcraft ist aktuell der Acer Nitro 5. Mit der Nv
 
 Nun weißt du genau, welcher Laptop für WoW geeignet ist und welcher nicht. Falls du Fragem hast, oder andere Vorschläge zum Thema WoW und Laptop, schreibe uns gerne eine Nachricht.
 
-### Hilfreiche Links
+## Hilfreiche Links
 
-[Laptop für Programmierer 2023](/laptop-programmierer)
+[Laptop für Programmierer](/laptop-programmierer)
 
-[Gaming Laptops unter 1000 €](//gaming-laptops-unter)
+[Gaming Laptops unter 1000 €](/gaming-laptops-unter)
+
+[Laptops für Sims 4](/laptops-fuer-sims-4)
+
