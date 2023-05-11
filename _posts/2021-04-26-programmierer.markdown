@@ -16,7 +16,7 @@ Denn ob du es glaubst oder nicht, es gibt Dinge die ein Programmierer oder Entwi
 
 Was hier wichtig ist und was ihr euch sparen könnt, erfahrt ihr hier in unserem Laptop Ratgeber für Programmierer.
 
-Alles ganz aktuell fürs Frühjar 2023.
+Alles ganz aktuell fürs Mai 2023.
 
 ### Hier übrigens die Gewinner vorab 🌟
 
