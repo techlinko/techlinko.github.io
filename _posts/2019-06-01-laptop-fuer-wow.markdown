@@ -192,3 +192,4 @@ Nun weißt du genau, welcher Laptop für WoW geeignet ist und welcher nicht. Fal
 
 [Laptops für Sims 4](/laptops-fuer-sims-4)
 
+[Beste PS5 Spiele](/beste-ps5-spiele)

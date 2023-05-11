@@ -384,6 +384,7 @@ Zu den günstigsten Optionen gehört ein gebrauchtes MacBook Air M1 oder für Wi
 Zum Reisen empfehlen wir auf jeden Fall das MacBook Air. Mit seinem 1,29 kg an Gewicht eignet es sich perfekt zum reisen und programmieren. Daneben hat es einen Akku der mehrere Stunden hält (7-8).
 
 
+
 ## Hilfreiche Links
 
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
@@ -391,6 +392,8 @@ Zum Reisen empfehlen wir auf jeden Fall das MacBook Air. Mit seinem 1,29 kg an G
 [Gaming Laptops unter 1000 €](/gaming-laptops-unter)
 
 [Laptops für Sims 4](/laptops-fuer-sims-4)
+
+[Beste PS5 Spiele](/beste-ps5-spiele)
 
 
 
