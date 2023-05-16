@@ -1,0 +1,36 @@
+---
+import Layout from '../layouts/Layout.astro';
+const posts = await Astro.glob('../posts/*.md')
+const name = 'Techlinko';
+---
+
+<Layout title="Techlinko - Der Game und Technikblog" description="this is my desc">
+
+<div class="wrapper">
+
+<h1>{name} - Der Technik Blog</h1>
+
+<p>
+    Willkommen bei Techlinko. Wir haben uns zur Aufgabe gemacht die beste Technik 2023 für euch zu testen und euch unsere Ergebnisse vorzustellen. Aktuell findet Ihr bei uns größtenteils Laptop Empfehlungen. Allerdings sind neue Artikel bereits in der Pipeline. Besucht uns einfach öfter.
+</p>
+</div>
+
+
+
+<section class="page-content">
+        <div class="wrapper">
+
+    {posts.map(post => (
+            
+            <div class="post">
+            <span>{post.frontmatter.date}</span>
+            <h2>{post.frontmatter.title}</h2>
+            <img class="post_img" src={post.frontmatter.image.url} width="200px">
+            <p class="excerpt">{post.frontmatter.excerpt}</p>   
+            <a class="button w-button" href={`/${post.frontmatter.slug}`}>Mehr Dazu</a> 
+            </div>
+    ))}
+        </div>
+</section>
+    
+ 

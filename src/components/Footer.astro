@@ -1,0 +1,29 @@
+---
+
+---
+
+
+<footer>
+    <small>
+        Techlinko Copyright &copy; <span id="copyright"></span> | All rights reserved | <a href="/impress">Impressum</a> | <a href="/daten">Datenschutz</a> | <a href="/kontakt">Kontakt</a>
+    </small>
+</footer>
+
+<style>
+    footer {
+        background-color: white;
+        color: rgb(30, 30, 30);
+        text-align: center;
+        padding: 12px;
+    }
+    a {
+        color: rgb(111, 111, 111);
+        text-decoration: none;
+    }
+    
+</style>
+
+
+<script>
+    document.querySelector("#copyright").textContent = new Date().getFullYear().toString();
+</script> 

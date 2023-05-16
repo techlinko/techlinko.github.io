@@ -1,0 +1,56 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+    const posts = await Astro.glob('../posts/*.md');
+
+    return posts.map(post => ({
+        params: {
+            slug: post.frontmatter.slug
+        },
+        props: {
+            post
+        }
+    }));
+} 
+
+const { Content, frontmatter } = Astro.props.post;
+---
+
+<Layout title={frontmatter.title}>
+    <section class="page-content">
+        <div class="container">
+            <br><br>
+            <a href="/">Zurück</a>
+            <br><br>
+            <img class="post_img" src={frontmatter.image.url} alt={frontmatter.image.url} width="200px"> 
+            <h1>{frontmatter.title}</h1>
+            Verfasst von <a href="/about">{frontmatter.author}</a> on {frontmatter.update}
+            <Content />
+        </div>
+    </section>
+</Layout>
+
+
+<style>
+    .container {
+        max-width: 90%;
+        width: 90%;
+        margin: 32px auto;
+        background-color: white;
+        padding: 0 32px;
+    }
+
+
+
+
+@media only screen and (min-width: 600px) {
+    .container {
+        width: 750px;
+        padding: 0 32px;
+    } }
+
+
+
+
+</style>

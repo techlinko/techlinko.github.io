@@ -1,0 +1,44 @@
+---
+import Layout from '../layouts/Layout.astro';
+const posts = await Astro.glob('../posts/*.md')
+---
+
+<Layout title="Über Uns" description="this is my desc">
+
+<div class="wrapper">
+
+<h1>Über Uns</h1>
+
+
+<p>
+Wir heißen euch herzlich willkommen bei Techlinko. Wir sind ein Technikblog der sich darauf spezialisiert hat die richtign Produkte für die richtige Zielgruppe zu finden. Das besondere an uns ist, dass wir uns nicht nur die besten Produkte anschauen, sondern diese sorgfältig für eine spezielle Nische testen. Wichtig dabei seid ihr unsere Leser.
+<br><br>
+Wir wissen, dass es nicht nur darauf ankommt den besten Laptop 2022 zu finden. Denn wie immer heißt es: Nicht jeder gute Laptop ist für jeden das richtige. Stattdessen kommt es ganz drauf an was eure Ziele sind. Seid ihr Programmierer, Designer oder vielleicht Texter? Denn je nach euren Interessen, kann sich die Laptop Wahl schnell ändern. Ein Gamer beispielsweise wird andere Anforderungern an seinen Laptop haben als ein Programmierer. Und genau hier kommen wir mit unserem Technikblog ins Spiel.
+</p>
+
+<h2>Aktuell Getestet
+</h2>
+
+<p>
+Wir testen nämlich alle Produkte angepasst an die Zielgruppe. Für Beispielsweise Gaming Laptops schauen wir uns an, was ein Gaming Laptop überhaupt benötigt. Was sind Kritikpunkte die viele Kunden haben und was sind Features die auf keinen Fall fehlen sollten. Wir testen die Produkte, schauen uns an was der Markt sagt und stöbern Foren durch um die aktuellen Fragen zu klären. Das ganze wird dann in einem sauber recherchierten Artikel zusammengefasst.
+<br><br>
+So habt ihr alles auf einen Blick und spart euch die Zeit fürs Gamen, Programmieren oder anderen Dingen die euch wichtiger sind als die Laptopsuche.
+</p>
+
+
+    {posts.map(post => (
+            
+            <div class="post">
+            <span>{post.frontmatter.date}</span>
+            <h2>{post.frontmatter.title}</h2>
+            <img src={post.frontmatter.image.url} width="200px">
+            <p class="excerpt">{post.frontmatter.excerpt}</p>   
+            <a class="button w-button" href={`/${post.frontmatter.slug}`}>Read More</a> 
+            </div>
+    ))}
+
+
+</div>
+
+
+
