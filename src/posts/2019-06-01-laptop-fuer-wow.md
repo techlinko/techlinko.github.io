@@ -54,7 +54,7 @@ Wenn ihr leidenschaftliche World of Warcraft-Spieler seid und nach einem Laptop 
 <span>* Affiliate Link</span>
 </div>
 
-Leistungsstarke Hardware, ein beeindruckenden Display, fortschrittlicher Kühlung, robustem und leichtem Design sowie einer Tastatur mit Hintergrundbeleuchtung ein reibungsloses und immersives Spielerlebnis bietet.
+Leistungsstarke Hardware, ein beeindruckendes Display, fortschrittliche Kühlung, robustes und leichtes Design sowie eine Tastatur mit Hintergrundbeleuchtung ein reibungsloses und immersives Spielerlebnis bietet.
 
 ## Bester Laptop für World of Warcraft
 
