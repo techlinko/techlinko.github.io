@@ -30,8 +30,17 @@ h1, h2, h3, h4 {
     color: rgb(33, 33, 33);
 }
 
+h3 {
+  font-size: 24px;
+}
 
 
+hr {
+  border: none;
+  height: 1px;
+  background-color: #eaeaea;  /* LightGrey color */
+  margin: 20px 0;
+}
 
 
 .post {
@@ -90,7 +99,11 @@ img {
 }
 
 .button.aff {
-  background-color: green;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  font-weight: 500;
 }
 
 .button:hover {
@@ -177,3 +190,25 @@ article
 }
 
 **/
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

@@ -21,11 +21,12 @@ const { Content, frontmatter } = Astro.props.post;
     <section class="page-content">
         <div class="container">
             <br><br>
-            <a href="/">Zurück</a>
+            <a href="/">← Zurück zur Startseite</a>
             <br><br>
             <img class="post_img" src={frontmatter.image.url} alt={frontmatter.image.url} width="200px"> 
             <h1>{frontmatter.title}</h1>
             Verfasst von <a href="/about">{frontmatter.author}</a> on {frontmatter.update}
+            <hr>
             <Content />
         </div>
     </section>
