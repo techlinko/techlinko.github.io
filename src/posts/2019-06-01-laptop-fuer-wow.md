@@ -58,7 +58,7 @@ Wenn ihr leidenschaftliche World of Warcraft-Spieler seid und nach einem Laptop 
 <a href="https://amzn.to/3BvSCEY" target="_blank" rel="nofollow">
 <img src="/images/laptop-fuer-wow.png" alt="laptop fuer wow" width="250px">
 </a>
-<span>* Affiliate Link</span>
+<span>Affiliate Link</span>
 
 <ul>
 <li>Außergewöhnliche Leistung durch Intel Core i7 Prozessor und die RTX 4060 Grafikkarte.</li>
@@ -100,7 +100,7 @@ Unsere Budget-Option, das Lenovo IdeaPad Gaming 3, ist ein hervorragendes Gerät
 <a href="https://amzn.to/3WlTiGz" target="_blank" rel="nofollow">
 <img src="/images/wow_budget_bester_laptop.jpg" alt="laptop fuer wow" width="250px">
 </a>
-<span>* Affiliate Link</span>
+<span>Affiliate Link</span>
 
 <ul>
 <li>Eine herausragende Wahl für preisbewusste Gamer.</li>
