@@ -28,7 +28,7 @@ Während Macs eine beliebte Wahl sind, gibt es eine Vielzahl von Geräten, die d
 
 <ul>
 <li>Der perfekte Laptop für Entwickler & Programmierer.</li>
-<li>Unix-basiert, Entwicklungstools & hohe Leistung</li>
+<li>Unix-basiert, Entwicklungstools & hohe Leistung.</li>
 <li>Preis: ca. 1.300 €</li>
 </ul><a href="https://amzn.to/3MKMbnO" target="_blank" rel="nofollow"><button class="button aff">Erhältlich bei Amazon</button></a></div>
 
