@@ -25,8 +25,8 @@ Erstmal ein kleiner Überblick über die Gewinner:
 
 | Laptop Modell | Am besten geeignet für                             | Preis ca.   |
 | ------------- | ---------------------------------------- | -------- |
-| Dell XPS 15   | Vielseitige Programmierung, Gaming, Multimedia-Aufgaben | 1.300 € |
-| MacBook Pro   | iOS/MacOS Entwicklung, Grafikdesign, Audio/Video Bearbeitung | 1.599 € |
+| Dell XPS 15   | Bester Windows Laptop für Programmierer | 1.300 € |
+| MacBook Pro   | Bester Laptop für Programmierer | 1.599 € |
 
 
 ## 1. Apple MacBook Pro
