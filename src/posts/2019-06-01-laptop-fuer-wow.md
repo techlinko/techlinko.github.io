@@ -5,7 +5,7 @@ image:
     alt: 'Laptop für WoW.'
 alt: bester laptop WoW 2023
 slug: geeigneter-laptop-wow
-update: 06. Januar 2023
+update: 02. August 2023
 author: Techlinko
 excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer. Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden. 
 description: Seien wir ehrlich, World of Warcraft auf einem Laptop zu spielen macht schon Spaß. Beachtet unbedingt diese Dinge um den besten für euch zu finden.
@@ -210,6 +210,26 @@ Hier gibt es leider keine feste Zahl. Jeder hat ein anderes Budget und Anforderu
 
 Aktuell funktionieren die meisten World of Warcraft Erweiterungen auf unseren vorgeschlagenen Laptops. Was in Zukunft in den
 Systemanforderungen stehen wird ist allerdings nicht sicher, deswegen lieber ein gutes Model, mit guter Grafikarte wählen.
+
+## World of Warcraft Erweiterungen
+
+World of Warcraft hat insgesamt neun Erweiterungen erlebt. Die erste Erweiterung, "The Burning Crusade", wurde im Januar 2007 veröffentlicht, gefolgt von "Wrath of the Lich King" im November 2008, "Cataclysm" im Dezember 2010, "Mists of Pandaria" im September 2012, "Warlords of Draenor" im November 2014, "Legion" im August 2016, "Battle for Azeroth" im August 2018, "Shadowlands" im November 2020 und schließlich "Dragonflight" im November 2022.
+
+Spieler sind nicht verpflichtet, diese Erweiterungen zu kaufen, um weiterzuspielen, aber der Kauf schaltet neue Inhalte und Funktionen frei, wie zum Beispiel höhere Stufengrenzen und zusätzliche Gebiete zum Erkunden. Blizzard hat eine Politik, ältere Erweiterungen automatisch allen Konten hinzuzufügen, wenn neue Erweiterungen veröffentlicht werden. Beispielsweise wurden die Inhalte von "The Burning Crusade", "Wrath of the Lich King", "Cataclysm", "Mists of Pandaria" und "Warlords of Draenor" allen Konten ohne zusätzliche Kosten hinzugefügt. Seit der Veröffentlichung von "Dragonflight" sind alle Erweiterungen bis einschließlich "Shadowlands" im Basisspiel enthalten.
+
+Jede Erweiterung brachte neue Abenteuer, Handlungsstränge und Gameplay-Elemente in das Universum von World of Warcraft, um das Spiel für die Spieler stets frisch und ansprechend zu halten. Die Erweiterungen wurden mit unterschiedlichem Erfolg aufgenommen und haben dazu beigetragen, die anhaltende Beliebtheit von World of Warcraft zu fördern und es zu einem der beliebtesten und langlebigsten MMORPGs aller Zeiten zu machen.
+
+## World of Warcraft: Dragonflight 
+
+Die neueste Erweiterung von World of Warcraft heißt "World of Warcraft: Dragonflight" und wurde im November 2022 veröffentlicht. In dieser Erweiterung erkunden die Spieler die Dracheninseln, die Heimat der Drachen und ihrer Ahnen, den sogenannten Proto-Drachen. Diese uralten Wesen hatten vor über 20.000 Jahren einen Pakt mit den Titanen geschlossen, die sie mit Magie verwandelten und in die heutigen Drachen verwandelten.
+
+Die Handlung der Erweiterung dreht sich um den Konflikt zwischen den Aspekten, den mächtigen Drachenfürsten, und den Primalisten, traditionellen Drachenanhängern, die die Macht der Titanen ablehnen und nach Dominanz über Azeroth streben. Die Primal-Inkarnate, die Anführer der Primalisten, waren einst von den Aspekten versiegelt worden, aber nun erheben sie sich erneut.
+
+"World of Warcraft: Dragonflight" führt auch eine neue spielbare Rasse namens "Dracthyr" ein, die zwischen drachenähnlichen und humanoiden Formen wechseln kann. Diese Dracthyr sind mit einer neuen Klasse namens "Evoker" verbunden, die entweder auf Fernkampfschaden oder Heilung spezialisiert ist.
+
+Die Erweiterung erhöht das maximale Level auf 70 und führt ein neues System namens "Dragonriding" ein, bei dem die Spieler einen Drachen aufziehen und anpassen können, um ihn in einem neuen, fließenden Flugsystem zu verwenden. Darüber hinaus gibt es eine Überarbeitung des Berufssystems, das es den Spielern ermöglicht, Arbeitsaufträge zu erteilen und Gegenstände herstellen zu lassen.
+
+"World of Warcraft: Dragonflight" wurde von Kritikern insgesamt positiv bewertet, die es als frischen Neustart für das 20 Jahre alte Videospiel beschreiben. Es bietet neue Innovationen und fesselnde Geschichten, bleibt aber dennoch das vertraute World of Warcraft, wie es die Fans kennen und lieben.
 
 ## Fazit
 
