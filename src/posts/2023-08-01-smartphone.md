@@ -46,11 +46,6 @@ Neben seiner Stiftunterstützung bietet das Galaxy Note auch alle Vorteile des A
 Die Kombination aus Stiftunterstützung, hochwertiger Hardware, Softwarefunktionen und der Integration von Android hat das Samsung Galaxy Note zu einer der bekanntesten und erfolgreichsten Smartphone-Serien auf dem Markt gemacht. Es hat den Weg für viele andere Hersteller geebnet, die ebenfalls Smartphones mit Stiftunterstützung anbieten, aber das Galaxy Note bleibt ein Vorreiter und eine Ikone in diesem Bereich.
 
 
-
-
-
-
-
 ## Hilfreiche Links
 
 [Leiser Gaming Laptop](/leiser-gaming-laptop)
@@ -58,3 +53,5 @@ Die Kombination aus Stiftunterstützung, hochwertiger Hardware, Softwarefunktion
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
 [Laptop für Programmierer](/laptop-programmierer)
+
+[Laptops für Sims 4](/laptops-fuer-sims-4)
