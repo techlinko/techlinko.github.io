@@ -53,6 +53,8 @@ Die Kombination aus Stiftunterstützung, hochwertiger Hardware, Softwarefunktion
 
 ## Hilfreiche Links
 
+[Leiser Gaming Laptop](/leiser-gaming-laptop)
+
 [Laptop für World of Warcraft](/geeigneter-laptop-wow)
 
 [Laptop für Programmierer](/laptop-programmierer)

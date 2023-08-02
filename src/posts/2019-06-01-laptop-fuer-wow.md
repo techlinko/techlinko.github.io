@@ -244,3 +244,5 @@ Nun wisst ihr genau, welcher Laptop für WoW geeignet ist und welcher nicht. Fal
 [Laptop für Programmierer](/laptop-programmierer)
 
 [Laptops für Sims 4](/laptops-fuer-sims-4)
+
+[Leiser Gaming Laptop](/leiser-gaming-laptop)
