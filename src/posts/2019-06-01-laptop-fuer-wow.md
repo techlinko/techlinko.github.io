@@ -243,8 +243,4 @@ Nun wisst ihr genau, welcher Laptop für WoW geeignet ist und welcher nicht. Fal
 
 [Laptop für Programmierer](/laptop-programmierer)
 
-[Gaming Laptops unter 1000 €](/gaming-laptops-unter)
-
 [Laptops für Sims 4](/laptops-fuer-sims-4)
-
-[Beste PS5 Spiele](/beste-ps5-spiele)
