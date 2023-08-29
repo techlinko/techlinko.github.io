@@ -23,7 +23,7 @@ Neue Kontinente, Abenteuer und Spielmechaniken wurden eingeführt, um sicherzust
 
 Dazu später mehr.
 
-Übrigens, schaut euch gerne unsere Guide für den besten <a href="/geeigneter-laptop-wow/">Laptop für WoW an</a>.
+Übrigens, schaut euch gerne unseren Guide für den besten <a href="/geeigneter-laptop-wow/">Laptop für WoW an</a>.
 
 ## World of Warcraft in 2023
 
