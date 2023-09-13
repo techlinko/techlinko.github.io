@@ -1,5 +1,5 @@
 ---
-import logo from '../images/logo.png';
+
 ---
 <header>
     <div class="wrapper_header">
@@ -8,11 +8,14 @@ import logo from '../images/logo.png';
     <h2>Tech<span>linko</span></h2>
     </a>    
 
+    <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
     <nav>
-
-
-        <ul>
-           
+        <ul class="mobile_menu">
             <li><a href="/">Home</a></li>
             <li><a href="/about">Über Uns</a></li>
             <li><a href="/kontakt">Kontakt</a></li>
@@ -27,51 +30,146 @@ import logo from '../images/logo.png';
 
 <style>
 
-    .wrapper {
+    .wrapper_header{
         max-width: 90%;
-        margin: 0 auto;
+        margin: 12px auto;
     }
 
 
     h2 {
-        color: rgb(30, 30, 30);
-        font-size: 48px;
+        color: white;
+        font-size: 32px;
         margin: 0;
+    }
+
+    span {
+        color: #9c9eff;
     }
     
     header {
-        background-color: white;
+        background-color: #5053ff;
         color: rgb(30, 30, 30);
         text-align: center;
         padding: 12px;
     }
 
     a {
-        color: rgb(30, 30, 30);
+        color: white;
         text-decoration: none;
+        flex-grow: 1;
     }
 
     ul {
         list-style-type: none;
         padding-left: 0;
+        display: none;
+        margin: 0;
+    }
+
+    .mobile_menu.open {
+        display: block;
     }
 
     li {
-        display: inline-block;
+        display: block;
         padding-left: 12px;
         padding-right: 12px;
+        font-size: 16px;
+        padding-top: 25px;
     }
-    span {
-        color: #5053ff;
-        font-size: 48px;
+
+
+
+    .hamburger {
+        width: 30px;
+        height: 20px;
+        position: absolute;
+        right: 45px;
+        top: 30px;
+        cursor: pointer;
+        transition: transform 0.3s;
+    }
+
+    .hamburger span {
+        position: absolute;
+        width: 100%;
+        height: 2px;
+        background-color: #000;
+        transition: transform 0.3s, opacity 0.3s;
+    }
+
+    .hamburger span:nth-child(1) {
+        top: 0;
+    }
+    .hamburger span:nth-child(2) {
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .hamburger span:nth-child(3) {
+        bottom: 0;
+    }
+
+    .hamburger.open span:nth-child(1) {
+        transform: translateY(10px) rotate(45deg);
+    }
+
+    .hamburger.open span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open span:nth-child(3) {
+        transform: translateY(-9px) rotate(-45deg);
     }
 
     @media only screen and (min-width: 600px) {
+
+        .hamburger {display: none;}
+
+        ul {
+            display: block;
+        }
+
+        .wrapper_header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 1100px;
+         }
+
+         li {
+            display: inline-block;
+            padding-top: 0px;
+         }
+
+         a {
+            flex-grow: inherit;
+         }
+        
    
     }
 }
 
 
 
-
 </style>
+
+
+
+
+
+<script>
+
+
+const hamburgerDiv = document.querySelector('.hamburger');
+const menu = document.querySelector('.mobile_menu');
+
+
+hamburgerDiv.addEventListener('click', () => {
+  hamburgerDiv.classList.toggle('open');
+  menu.classList.toggle('open');
+  console.log("clicked ☢️")
+});
+
+</script>
+

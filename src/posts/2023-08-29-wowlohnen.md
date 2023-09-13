@@ -5,6 +5,7 @@ image:
     url: '/images/lohnt-sich-wow-noch.webp' 
     alt: 'Lohnt sich WoW noch?'
 author: Techlinko
+category: "#World of Warcraft"
 slug: lohnt-sich-wow-noch
 excerpt: 'Bereit für eine Reise in die fantastische Welt von Azeroth? Wir tauchen ein in das bunte Universum von "World of Warcraft" - dem Spiel, das Generationen von Gamern in seinen Bann gezogen hat.'
 ---

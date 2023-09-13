@@ -20,19 +20,23 @@ const { Content, frontmatter } = Astro.props.post;
 <Layout title={frontmatter.title}>
     <section class="page-content">
         <div class="container">
-            <br /><br />
-            <a href="/">← Zurück zur Startseite</a>
-            <br /><br />
+            <a class="breadcrumb" href="/">← Zurück zur Startseite</a>
+
+            <h1>{frontmatter.title}</h1>
+            <div class="meta">
+                <span
+                    >Verfasst von <a class="author" href="/about"
+                        >{frontmatter.author}
+                    </a></span
+                >
+                <span> - Aktualisiert am: {frontmatter.update}</span>
+            </div>
+
             <img
-                class="post_img"
                 src={frontmatter.image.url}
                 alt={frontmatter.image.url}
                 width="200px"
             />
-            <h1>{frontmatter.title}</h1>
-            Verfasst von <a href="/about">{frontmatter.author}</a> - Aktualisiert
-            am: {frontmatter.update}
-            <hr />
             <Content />
         </div>
     </section>
@@ -40,17 +44,65 @@ const { Content, frontmatter } = Astro.props.post;
 
 <style>
     .container {
-        max-width: 90%;
-        width: 75%;
         margin: 32px auto;
         background-color: white;
         padding: 0 32px;
+    }
+
+    .breadcrumb {
+        padding-top: 28px;
+        display: block;
+        color: rgb(93, 92, 92);
+        text-decoration: none;
+        font-size: 14px;
+    }
+
+    .author {
+        color: #5053ff;
+        text-decoration: none;
+    }
+
+    .author:visited {
+        color: rgb(93, 92, 92);
+    }
+
+    .meta {
+        padding-bottom: 12px;
+        font-size: 15px;
+    }
+
+    .meta span {
+        display: inline-block;
+        padding-bottom: 10px;
+        color: rgb(93, 92, 92);
+    }
+
+    h1 {
+        font-size: 28px;
+        line-height: 40px;
+        margin: 18px 0;
+    }
+
+    img {
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+
+    span:nth-child(2) {
+        padding-left: 5px;
     }
 
     @media only screen and (min-width: 600px) {
         .container {
             width: 750px;
             padding: 0 32px;
+        }
+
+        h1 {
+            font-size: 34px;
+            line-height: 48px;
         }
     }
 </style>

@@ -6,6 +6,7 @@ image:
     alt: 'Laptop zum Programmieren'
 author: Techlinko
 slug: laptop-programmierer
+category: "#laptops"
 excerpt: Die Suche nach dem besten Laptop für die Programmierung ist keine leichte Aufgabe. Du musst genau wissen, was für einen Laptop du benötigst.
 ---
 

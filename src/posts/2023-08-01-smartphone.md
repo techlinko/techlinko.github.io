@@ -6,6 +6,7 @@ image:
     alt: 'Smartphone mit Stift und Android'
 author: Techlinko
 slug: smartphone-stift-android
+category: "#smartphones"
 excerpt: "Smartphones mit einem Stylus oder einem Eingabestift bieten den Benutzern eine erweiterte Möglichkeit, mit ihren Geräten zu interagieren."
 ---
  

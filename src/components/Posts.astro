@@ -1,0 +1,114 @@
+---
+const posts = await Astro.glob("../posts/*.md");
+---
+
+<section class="page-content">
+    <div class="post-wrapper">
+        {
+            posts.map((post) => (
+                <div class="post">
+                    <img
+                        class="post_img"
+                        src={post.frontmatter.image.url}
+                        width="200px"
+                    />
+                    <span>Aktualisiert am: {post.frontmatter.update}</span>
+                    <span class="category">{post.frontmatter.category}</span>
+
+                    <a href={`/${post.frontmatter.slug}`}>
+                        <h2>{post.frontmatter.title}</h2>
+                    </a>
+
+                    <p class="excerpt">{post.frontmatter.excerpt}</p>
+                </div>
+            ))
+        }
+    </div>
+</section>
+
+<style>
+    a {
+        text-decoration: none;
+        margin-top: 10px;
+    }
+
+    .category {
+        background-color: #e0e0ff;
+        width: fit-content;
+        color: #7375ef;
+        padding: 0;
+        border-radius: 2px;
+        padding: 2px 5px;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: 600;
+        margin-top: 8px;
+    }
+
+    .post-wrapper {
+        max-width: 95%;
+        margin: 48px auto;
+    }
+
+    .post {
+        border: 1px solid rgb(213, 213, 213);
+        padding: 16px 18px;
+        border-radius: 5px;
+        background-color: white;
+        margin-top: 36px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    span {
+        color: #515673;
+        font-size: 15px;
+        margin: 12px 0 0 0;
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    h2 {
+        margin: 0;
+        margin-bottom: 5px;
+        transition: color 0.3s ease;
+        line-height: 32px;
+        font-size: 22px;
+    }
+
+    h2:hover {
+        color: #5053ff;
+    }
+
+    .excerpt {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 8px;
+        color: #515673;
+    }
+
+    .post_img {
+        width: 100%;
+        object-fit: cover;
+        height: 200px;
+        border-radius: 5px;
+    }
+
+    .product {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Media query for screens bigger than 600px */
+
+    @media screen and (min-width: 600px) {
+        .post-wrapper {
+            width: 1100px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-column-gap: 24px;
+        }
+    }
+</style>

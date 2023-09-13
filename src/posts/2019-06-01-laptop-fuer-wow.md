@@ -7,7 +7,8 @@ alt: bester laptop WoW 2023
 slug: geeigneter-laptop-wow
 update: 02. August 2023
 author: Techlinko
-excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer. Das ist auch kein Wunder! Neue Quests, Monster und Handlungsstränge werden in jeder Erweiterung eingeführt. Die Erweiterungen kommen auch mit eigenen Systemanforderungen, die mit jedem Release immer anspruchsvoller werden. 
+category: "#World of Warcraft"
+excerpt: World of Warcraft ist eines der größten MMORPGs auf dem Markt und es wird immer größer. Das ist auch kein Wunder! Neue Quests, Monster...
 description: Seien wir ehrlich, World of Warcraft auf einem Laptop zu spielen macht schon Spaß. Beachtet unbedingt diese Dinge um den besten für euch zu finden.
 ---
 
