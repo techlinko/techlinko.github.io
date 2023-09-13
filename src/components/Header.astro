@@ -56,7 +56,6 @@
     a {
         color: white;
         text-decoration: none;
-        flex-grow: 1;
     }
 
     ul {
@@ -88,6 +87,7 @@
         top: 30px;
         cursor: pointer;
         transition: transform 0.3s;
+        z-index: 9999;
     }
 
     .hamburger span {
@@ -166,9 +166,8 @@ const menu = document.querySelector('.mobile_menu');
 
 
 hamburgerDiv.addEventListener('click', () => {
-  hamburgerDiv.classList.toggle('open');
-  menu.classList.toggle('open');
-  console.log("clicked ☢️")
+    hamburgerDiv.classList.toggle('open');
+    menu.classList.toggle('open');
 });
 
 </script>
