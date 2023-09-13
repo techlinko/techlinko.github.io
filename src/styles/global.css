@@ -120,6 +120,14 @@ Fonts
   font-style: normal
 }
 
+@font-face {
+  font-family: 'Inter';
+  src: url("/fonts/Inter-Bold.ttf") format("ttf"),
+    url("/fonts/Inter-Bold.ttf") format("woff");
+  font-weight: bold;
+  font-style: normal
+}
+
 
 /********************************
 article - affiliate boxes
