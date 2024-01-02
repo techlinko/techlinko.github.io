@@ -132,7 +132,6 @@ Damit World of Warcraft sich für dich lohnt, solltest du ein Teil der Community
 Die World of Warcraft-Community ist freundlich und vielfältig, also stürze dich ins Abenteuer und lerne neue Freunde kennen! 
 
 
-
 ## Hilfreiche Links
 
 [Laptop für Programmierer](/laptop-programmierer)
