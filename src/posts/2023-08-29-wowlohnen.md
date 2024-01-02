@@ -1,6 +1,6 @@
 ---
 title:  Lohnt sich WoW noch? [Die 2023 Antwort] Für Neueinsteiger
-update: 29. August 2023
+update: 02. Januar 2024
 image:
     url: '/images/lohnt-sich-wow-noch.webp' 
     alt: 'Lohnt sich WoW noch?'
