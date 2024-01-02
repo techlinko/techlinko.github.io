@@ -7,7 +7,7 @@ image:
 author: Techlinko
 category: "#Laptops"
 slug: laptop-fuer-alte-spiele
-excerpt: 
+excerpt: Wer Retrospiele genießt möchte diese meistens überall dabei haben. Wir zeigen dir den besten Laptop für alte Spiele!
 ---
 
 
