@@ -39,6 +39,34 @@ World of Warcraft ist ein absolutes Vergnügen, besonders mit dem richtigen Lapt
 
 Ob du nun die Spitzenleistung suchst oder das beste Preis-Leistungs-Verhältnis, wir haben die perfekten Optionen für dich. Mach dich bereit, dein WoW-Erlebnis mit unseren Empfehlungen auf ein neues Level zu heben!
 
+### Inhaltsverzeichnis
+
+<nav class="toc">
+  <ul>
+    <li>
+      <a href="#die-premium-option">Die Premium Option</a>
+    </li>
+    <li>
+      <a href="#die-budget-variante">Die Budget Variante</a>
+    </li>
+    <li>
+      <a href="#was-ein-laptop-für-wow-allgemein-benötigt">Was muss ein WoW Laptop haben?</a>
+      <ul>
+        <li>
+          <a href="#ein-leistungsstarker-prozessor">Prozessor</a>
+        </li>
+        <li>
+          <a href="#dedizierte-grafikkarte-für-world-of-warcraft">Grafikkarte</a>
+        </li>
+        <li>
+          <a href="#der-perfekte-bildschirm-für-wow">Bildschirm</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
 
 ## Die Premium Option
 
